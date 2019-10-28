@@ -26,13 +26,21 @@ over a map.
 
 ### Intermediate
 
-Machine Learning projects are common for a good reason!
+Machine Learning projects are common for a good reason! Building your own
+from scratch using tools like [scikit-learn](https://scikit-learn.org/) or
+[TensorFlow](https://www.tensorflow.org/) is a lot of fun, but there's also a
+ton of pre-built models that are worth a look, as well as Google Cloud
+Platform's [Cloud AI](https://cloud.google.com/products/ai/) that has all
+sorts of fantastic tools.
 
 Mobile development is popular, with many good tool options available. You can
-either use the Standard Android Studio or XCode if you plan on using
-Java/Kotlin/Swift or try something like React-Native if you prefer JavaScript.
+either use the Standard [Android Studio](https://developer.android.com/studio)
+or [XCode](https://developer.apple.com/xcode/) if you plan on using
+Java/Kotlin/Swift or try something like [React-Native](https://facebook.github.io/react-native/)
+if you prefer JavaScript, or [Flutter](https://flutter.dev/) if you want to
+try something new!
 
-Making a game is always a good project, expecially if you are in a team as it
+Making a game is always a good project, especially if you are in a team as it
 makes it simple to split up the work and even better if you have a non-technical
 team member as they can help make assets.
 
@@ -45,7 +53,6 @@ with indie developers and industry.
 and free for small studios.
 * [Game Maker](https://www.yoyogames.com/gamemaker) - Common with Indie
 developers but does money.
-
 
 ### Advanced
 
