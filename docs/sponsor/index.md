@@ -13,10 +13,8 @@ products
 
 ## Who to Sponsor
 
-Check out list of [upcoming events](events/upcoming/) for a list of ones we are
-keeping track of, otherwise check out what hackathons are being mentioned on
-the [Hackathon Hackers EU facebook group](https://www.facebook.com/groups/hackathonhackerseu/)
-and also Eventbrite.
+Check out the information [here](/events) for help finding events you'd like to
+sponsor.
 
 ## How to Sponsor
 
