@@ -4,6 +4,7 @@ nav:
   - Home: 'index.md'
   - Attending:
     - First time: 'attending/firsttime.md'
+    - What to Bring: 'attending/bring.md'
     - What to make: 'attending/projects.md'
     - Judging: 'attending/judging.md'
     - Workshops: 'attending/workshops.md'
@@ -18,5 +19,8 @@ nav:
 
 theme:
   name: 'material'
-
-
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  logo:
+    icon: computer
