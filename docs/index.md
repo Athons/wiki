@@ -8,7 +8,7 @@ Student Hackathons ran at all the various Universities around the country.
 Here you can find information on what to expect when attending, event information
 and help with organising your own hackathon!
 
-This site was setup by [@baahorn](https://twitter.com/baahorn), who
+This site was set up by [@baahorn](https://twitter.com/baahorn), who
 previously organised [CovHack](https://covhack.org) and has been to 20+ events
 around the country.
 

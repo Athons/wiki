@@ -52,7 +52,7 @@ with indie developers and industry.
 * [Unreal Engine](https://www.unrealengine.com/en-US/) - Very big in industry
 and free for small studios.
 * [Game Maker](https://www.yoyogames.com/gamemaker) - Common with Indie
-developers but does money.
+developers but does cost money.
 
 ### Advanced
 

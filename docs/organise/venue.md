@@ -8,12 +8,12 @@ When looking for a venue, you want to pay attention to the following:
 * Overnight access (if it's a 24 hour hackathon)
 * Cost
 
-In most cases if you are a student hackathon you'll end up running in on of the
-following:
+In most cases if you are a student hackathon you'll end up running in one of
+the following:
 
 * A Engineering Building
 * A Business Schools Building
-* An Student Union Building
+* A Student Union Building
 
 Ideally, you shouldn't end up paying for a venue unless you are running
 an extremely large event.
