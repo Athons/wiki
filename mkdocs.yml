@@ -8,12 +8,11 @@ nav:
     - Judging: 'attending/judging.md'
     - Workshops: 'attending/workshops.md'
     - Transport: 'attending/transport.md' 
-  - Events:
-    - Upcoming: 'events/upcoming.md'
-    - Past: 'events/past.md'
+  - Events: 'events/index.md'
   - Organise:
     - Getting Started: 'organise/gettingstarted.md'
     - Talking to Other Organisers: 'organise/communication.md'
+  - Sponsor: 'sponsor/index.md'  
 
 
 
