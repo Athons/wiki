@@ -9,7 +9,9 @@ nav:
     - Judging: 'attending/judging.md'
     - Workshops: 'attending/workshops.md'
     - Transport: 'attending/transport.md' 
-  - Events: 'events/index.md'
+  - Events:
+    - Index: 'events/index.md'
+    - Family Tree: 'events/familytree.md'
   - Organise:
     - Getting Started: 'organise/gettingstarted.md'
     - Talking to Other Organisers: 'organise/communication.md'
