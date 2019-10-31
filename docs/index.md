@@ -1,4 +1,5 @@
-# Welcome to hack.athon.uk!
+# 
+<img src="/static/logo.svg" width="50%">
 
 ## About
 
