@@ -2,8 +2,7 @@
 
 ### [HackathonHackers EU](https://hackathonhackers.eu/)
 
-First ran at Nottingham University in 2019, acted as the UKs official watch
-party for [MLHs Hackcon digital](https://hackcon.mlh.io/events/hackcon-digital/).
+First ran at Nottingham University in 2019, acted as the UKs official watch party for [MLHs Hackcon digital](https://hackcon.mlh.io/events/hackcon-digital/).
 
 Very worthwhile to attend if you are a new organiser!
 
