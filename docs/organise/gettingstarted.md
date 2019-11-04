@@ -3,12 +3,12 @@
 ##### Recurring new Hackathon
 If it is a continuing hackathon, grab the statistics from the most recent hackathon, and work of the pros and cons from the last to create a skeleton for the next one
 ##### Brand new hackathon
-Make sure you have an organising team ready. MLH does have a massive documentation with how to 
+Make sure you have an organising team ready. MLH does have a massive documentation with how to organise a hack within a year
 
 #### Finance
-##### Recurring new Hackathon
-Create a budget you wish to start off. 
-##### Brand new hackathon
+If its a recurring hackathon, review the old finance and determine the budget you wish to have.
+
+For new Create a budget you wish to start off. 
 
 ### Hackathon Organising Team
 Make sure that it is a team of at least 5-6 and more depending on the size and location of the hackathon.
