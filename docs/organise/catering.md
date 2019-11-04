@@ -43,6 +43,12 @@ Can be quite expensive. Cost quoted to CovHack was £8 per large pizza.
 
 Need to get a good balance. Over buying Margarita tends to be an issue.
 
+The Vegan pizza is not well liked.
+
+#### Papa John's
+
+The Vegan pizza is generally much better received compared to Dominos.
+
 #### Subway Platters
 
 Generally goes down well. They tend to need a lot of time to prepare, so lunch
@@ -62,6 +68,11 @@ pretty close to the event (handy if you get funding late)
 CovHack had a really good experience with our local franchise and AstonHack
 has had it most years.
 
+
+#### Zizzis
+
+Offers a good vegan pizza and has a whole menu for [dietary requirements](https://www.zizzi.co.uk/data/menus/static_menus/1/pdf/autumn19-allergen-menu-tab-web.pdf)
+
 #### Breakfast
 
 Heading to an Aldi/Lidl/Costco and picking up various things is what tends to
@@ -73,25 +84,76 @@ Usual costco stuff works well. Various soft drinks, crisps, etc.
 
 ## Dietary Requirements
 
-Catering for Vegetarians (and possibly vegans) can normally do done via
-whatever company is supplying for food.
+Make sure you cater for people with dietary requirements first! This reduces
+issues related to cross-contamination.
 
-More difficult requirements, e.g gluten free (for people with Celiac's disease)
-or accounting for certain allergies, often require more work.
+It's potentially worth sending an email about what you are serving beforehand
+to find out issues beforehand. 
 
-The general standard practice is to ask attendees during the event if they have
-these requirements (And also ask in your ticket form) and then go out to a
-nearby store or order something in for them off something like justeat.
+You should keep note of who has requirements that can't be covered by your
+normal food sources and also **maintain a list of places that can cover all the
+common requirements** so attendees do not have to wait for several hours.
 
-It's quite hard to rely on just information provided on your ticket form as
-sometimes people forget and also due to hackathons having a fairly high drop
-out rate. So often the best option is just to ask on the day and sort it out
-then. If your event is large enough, you can probably account for it as the
-ratio of attendees with the requirement might be pretty static, but then you
-are getting into the 300+ attendee range.
+Some common requirements to have are:
 
-If possible, it's much nicer to offer halal/kosher food other than just
-straight vegetarian food but it is harder to manage.
+* Vegetarians
+* Pescatarians
+* Vegans
+* Gluten Free
+* Lactose intolerance
+* Religious Requirements
+* Allergies
 
-Be careful about nuts as they are a common allergy, and often people can have
-quite severe reactions.
+Some sites that had relatively good information on these:
+
+* <https://ebpcooh.org.uk/common-dietary-requirements-explained/>
+* <https://www.comtix.com/blog/7-dietary-restrictions-every-event-planner-aware/>
+
+### Vegetarians
+
+Vegetarians are fairly easy to handle. Most places will offer vegetarian
+options at the same cost of normal options.
+
+Worth considering is that some vegetarians don't consume eggs (some religious
+requirements cover this)
+
+### Pescatarians
+
+As you generally do not serve fish at hackathons, Pescatarians can be handled
+the same way as Vegetarians.
+
+### Vegans
+
+Vegans do not consume animal products, which means even a lot of vegetarian
+options aren't suitable.
+
+You can either structure your vegetarian food to be vegan, or get arrange it
+separr
+
+### Gluten Free
+
+Some people suffer from various conditions that mean they can not consume
+gluten, which covers protein found in wheat, barley, rye and oats.
+
+A lot of places will offer food that is gluten free nowadays, but you have to
+check with everyone.
+
+### Lactose Intolerance
+
+Not being able to consume diary effects a lot of options. Most chains will
+cover it though.
+
+Remember, eggs aren't diary so they can be part of options for this.
+
+### Religious Requirements
+
+Events normally cover religious requirements like Halal/Kosher with vegetarian
+options, but if you can offer it it would probably be appreciated.
+
+### Allergies
+
+Allergies can be quite hard to handle due to how variable they can be. You'll
+have to ask attendees when they register and when they arrive so you can
+accommodate this.
+
+You can find some information on the [NHSs website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
