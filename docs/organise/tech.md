@@ -15,6 +15,11 @@ not a bad option for bots)
 Firebase also works pretty well if you don't want to maintain any
 infrastructure.
 
+## Info Hub
+
+The Manchester CS society wrote a [hub](https://github.com/unicsmcr/hs_hub)
+they use to track achievements and submissions at StudentHack and GreatUniHack.
+
 ## Signage
 
 [LibreSignage](https://github.com/eerotal/LibreSignage) is a good open source
