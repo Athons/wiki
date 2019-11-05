@@ -21,3 +21,12 @@ Feel free to send Pull Requests to update the content!
 
 Site is built with [mkdocs](https://www.mkdocs.org) with the
 [Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
+
+# Events
+This list showcases upcoming UK student-run hackathons.
+
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
+| DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
+
+Want to add something to this list? [Fork and pull request](https://github.com/bahorn/hack.athon.uk/edit/master/docs/index.md) to add your event!
