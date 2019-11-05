@@ -138,7 +138,7 @@ gluten, which covers protein found in wheat, barley, rye and oats.
 A lot of places will offer food that is gluten free nowadays, but you have to
 check with everyone.
 
-### Lactose Intolerance / Dairy Allergy
+### Lactose Intolerance / Dairy Free
 
 Lactose Intolerance is not the same thing as a dairy free. 
 Those with dairy allergies can be very serious, 
@@ -164,4 +164,4 @@ One key thing to handle is cross contamination. Allow those with allergies to be
 so the allergen options don't get cross containmened from other options. 
 This also ensures there are still availabile options before the rest of the hackers eat.
 
-You can find some information on the [NHSs website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
+You can find some information on the [NHS website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
