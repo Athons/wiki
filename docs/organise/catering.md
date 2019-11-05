@@ -100,7 +100,7 @@ Some common requirements to have are:
 * Pescatarians
 * Vegans
 * Gluten Free
-* Lactose intolerance
+* Lactose Intolerance / Dairy Free
 * Religious Requirements
 * Allergies
 
@@ -138,12 +138,16 @@ gluten, which covers protein found in wheat, barley, rye and oats.
 A lot of places will offer food that is gluten free nowadays, but you have to
 check with everyone.
 
-### Lactose Intolerance
+### Lactose Intolerance / Dairy Allergy
 
-Not being able to consume diary effects a lot of options. Most chains will
+Lactose Intolerance is not the same thing as a dairy free. 
+Those with dairy allergies can be very serious, 
+so it's best to check with the hacker about how serious it is.
+
+Not being able to consume dairy effects a lot of options. Most chains will
 cover it though.
 
-Remember, eggs aren't diary so they can be part of options for this.
+Remember, eggs aren't dairy so they can be part of options for this.
 
 ### Religious Requirements
 
@@ -155,5 +159,9 @@ options, but if you can offer it it would probably be appreciated.
 Allergies can be quite hard to handle due to how variable they can be. You'll
 have to ask attendees when they register and when they arrive so you can
 accommodate this.
+
+One key thing to handle is cross contamination. Allow those with allergies to be served first,
+so the allergen options don't get cross containmened from other options. 
+This also ensures there are still availabile options before the rest of the hackers eat.
 
 You can find some information on the [NHSs website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
