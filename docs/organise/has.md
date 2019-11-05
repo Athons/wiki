@@ -23,6 +23,15 @@ the building heating.
 You might be requested to have a sign in/out sheet so you are aware of who is
 in the building in case of an emergency.
 
+## Code Of Conduct
+
+All events should have a code of conduct.
+
+If you are an MLH event, you'll be using theirs.
+
+If you need one the [Hack Code of Conduct](https://hackcodeofconduct.org/) is
+commonly used.
+
 ## Under 18s
 
 If you are working with Under 18s, make sure you check out
