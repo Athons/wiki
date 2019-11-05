@@ -28,5 +28,5 @@ This list showcases upcoming UK student-run hackathons.
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
-| ManMetHacks 2.0 | [ManMetHacks](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2019 |
+| ManMetHacks 2.0 | [ManMetHacks](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2019|
 Want to add something to this list? [Fork and pull request](https://github.com/bahorn/hack.athon.uk/edit/master/docs/index.md) to add your event!
