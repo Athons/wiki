@@ -10,12 +10,12 @@ Here you can find information on what to expect when attending, event informatio
 and help with organising your own hackathon!
 
 This site was set up by [@baahorn](https://twitter.com/baahorn), who
-previously organised [CovHack](https://covhack.org) and has been to 20+ events
-around the country.
+previously organised [CovHack](https://covhack.org), and currently managed by
+[HHEU](https://hackathonhackers.eu).
 
 ## Contribute
 
-You can find the Git Repository [here](https://github.com/bahorn/hack.athon.uk)
+You can find the Git Repository [here](https://github.com/HHEU/wiki)
 
 Feel free to send Pull Requests to update the content!
 
@@ -31,4 +31,4 @@ This list showcases upcoming UK student-run hackathons.
 | ManMetHacks 2.0 | [ManMetHacks](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2019|
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 100 | 15th-16th February 2020 |
 
-Want to add something to this list? [Fork and pull request](https://github.com/bahorn/hack.athon.uk/edit/master/docs/index.md) to add your event!
+Want to add something to this list? [Fork and pull request](https://github.com/HHEU/wiki/edit/master/docs/index.md) to add your event!
