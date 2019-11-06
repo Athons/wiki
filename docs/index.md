@@ -27,6 +27,7 @@ This list showcases upcoming UK student-run hackathons.
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
+| HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | ?? | 9th-10th November 2019 |
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
 | ManMetHacks 2.0 | [ManMetHacks](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2019|
