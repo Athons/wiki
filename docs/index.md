@@ -30,6 +30,8 @@ This list showcases upcoming UK student-run hackathons.
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
 | ManMetHacks 2.0 | [ManMetHacks](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2019|
+| Royal Hackaway v3 | [royalackaway.com](https://royalhackaway.com/) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
+| Quackathon 2020 | TBC | University of Dundee | 100 | 1st-2nd February 2020|
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 100 | 15th-16th February 2020 |
 
 Want to add something to this list? [Fork and pull request](https://github.com/HHEU/wiki/edit/master/docs/index.md) to add your event!
