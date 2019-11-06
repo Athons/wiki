@@ -29,7 +29,6 @@ This list showcases upcoming UK student-run hackathons.
 |-----------------|-------|--------------------|--------------|----|
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
 | Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | Oxford University | 300 | 16th-17th November 2019 |
-| Lincoln Hack 2019 | [2019.lincolnhack.org](https://2019.lincolnhack.org/) | Digital Lincoln | ?? | 16th-17th November 2019 |
 | GreatUniHack 2019 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | ?? | 16th-17th November 2019 |
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
 | Royal Hackaway v3 | [royalhackaway.com](https://royalhackaway.com/) | Royal Holloway, University of London | 300 | 8th-9th February 2020 |
