@@ -2,7 +2,7 @@
 
 This comes from [here](https://github.com/HHEU/hackathon-family-tree)
 
-Please add your Hackathon (and fix the rendering!)
+Please add your Hackathon by submitting a PR!
 
 <div class="mermaid">
 graph TD;
@@ -65,13 +65,27 @@ HackSheffield;
 CUCCHack-->CovHack;
 </div>
 
-<script src="https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js"></script>
+<script src="https://unpkg.com/mermaid@8.4.0/dist/mermaid.min.js"></script>
+<script src="/static/js/svg-pan-zoom.min.js"></script>
 <script>
+function add_panzoom(id) {
+    console.log(id)
+    document.getElementById(id).setAttribute('height', '500px');
+    const zoom = svgPanZoom(document.getElementById(id));
+}
+
 mermaid.initialize({
     startOnLoad:true,
     flowchart: {
-        width: "100%",
+        width: '100%',
+        height: '500px',
+        htmlLabels:true,
         curve: 'cardinal',
+    },
+    mermaid: {
+        callback: add_panzoom
     }
 });
+
+
 </script>
