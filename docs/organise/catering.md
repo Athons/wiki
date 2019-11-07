@@ -38,7 +38,7 @@ a choice, but does tend to be a bit more expensive.
 The queues can be quite long, and if they setup outside in the colder months
 it might be bit too cold for attendees to stand outside for too long.
 
-Advised against for larger hackathones.
+Advised against for larger hackathons.
 
 #### Dominos
 

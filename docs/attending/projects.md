@@ -24,7 +24,7 @@ Mashing up two APIs creatively is one of the best projects you can do. For
 example, displaying crime data from [data.police.uk](https://data.police.uk/)
 over a map.
 
-Getting started with hardware you may want to look at using [arduinio](https://www.arduino.cc/) 
+Getting started with hardware you may want to look at using [arduino](https://www.arduino.cc/) 
 and use sensors alongside this to read inputs such as movement from an accelerometer or 
 light levels with an LDR. Arduinos can also drive outputs such as LEDs or relays.
 
