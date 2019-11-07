@@ -4,9 +4,9 @@ Your SU and venue will require a risk assessment in their standard format.
 
 Things you should mention:
 
-* Fire Risk and understanding your buildings policy
+* Fire Risk and understanding your buildings policy.
 * Electrical Safety. Needs to be considered if hardware hacks are common.
-PACT testing for your equipment, etc.
+PAT testing for your equipment, etc.
 * Food Poisoning. You need to remove food after a certain time period.
 * No Alcohol being consumed at the event.
 * Sleep deprivation and how you encourage people to sleep.
@@ -16,12 +16,16 @@ valuables and how you have the security contacts in case of other issues.
 * Power / Lighting failure.
 * Heating equipment and burns. Normally you aren't heating things on site
 so this reduces issues.
+* Soldering or tool usage for hardware hacks.
 
 If you are running in the colder months you need to consider risks of ice and
 the building heating.
 
 You might be requested to have a sign in/out sheet so you are aware of who is
 in the building in case of an emergency.
+
+If you have security or porters at your event they will likely be first aid
+and heavy lifting trained.
 
 ## Code Of Conduct
 

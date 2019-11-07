@@ -18,6 +18,8 @@ the following:
 Ideally, you shouldn't end up paying for a venue unless you are running
 an extremely large event.
 
+You may however be asked to pay for cleaning and portering of your event as below.
+
 If you can not find a venue on campus and your university is in a major city
 you might find a local tech company willing to host you.
 
@@ -42,8 +44,11 @@ something you need to allocate extra funds for.
 Remember to treat them well and offer them some of your food! Having security
 on your side will make running future events easier.
 
+Security tend to be first aid and heavy lifting trained but is worth checking.
+This can be a big benefit for risk assessments and red tape.
+
 ## Things to Consider
 
 You can't "officially" let people sleep in most venues due to insurance reasons
 but your buildings security mostly will relax the rule. Just say your sleeping
-room is a relaxation room :)
+room is a relaxation/quiet room :)

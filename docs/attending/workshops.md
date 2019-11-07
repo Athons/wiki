@@ -7,4 +7,4 @@ Common Workshops:
 * Basic Python Programming
 * Making your first website
 
-MLH events will do something from this [list](https://localhost.mlh.io/#activities).
+MLH events will likely do something from this [list](https://localhost.mlh.io/#activities).

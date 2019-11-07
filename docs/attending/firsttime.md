@@ -49,3 +49,5 @@ Most events let you work on what you want (except themed events).
 
 They'll often have sponsor challenges if you want to work towards one of the
 sponsor prize.
+
+MLH provide a hardware lab for those of you who would like to do hardware hacks. Many hackathons also have their own hardware available to use.

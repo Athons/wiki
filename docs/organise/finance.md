@@ -22,6 +22,8 @@ the [MLHs repository](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/
 
 An example contract with terms removed can be seen [here](/static/documents/contracts/Example.odt).
 
+Many Student Unions have a legal depertment dedicated to writing, amending, approving and enforcing contracts.
+It's always nice to have the SU have your back in the unlikely case of a rougue sponsor.
 
 The Manchester Computer Science society has a [public script](https://github.com/unicsmcr/contract_generator)
 for doing contract generation based on templates, which might be helpful if
