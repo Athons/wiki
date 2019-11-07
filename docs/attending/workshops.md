@@ -7,4 +7,5 @@ Common Workshops:
 * Basic Python Programming
 * Making your first website
 
-MLH events will do something from this [list](https://localhost.mlh.io/#activities).
+MLH Member Events will run a [BlackRock-branded Capture the Flag](https://localhost.mlh.io/#activities).
+MLH events may also do something from this [list](https://localhost.mlh.io/#activities) if asked.
