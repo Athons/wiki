@@ -24,6 +24,10 @@ Mashing up two APIs creatively is one of the best projects you can do. For
 example, displaying crime data from [data.police.uk](https://data.police.uk/)
 over a map.
 
+Getting started with hardware you may want to look at using [arduino](https://www.arduino.cc/) 
+and use sensors alongside this to read inputs such as movement from an accelerometer or 
+light levels with an LDR. Arduinos can also drive outputs such as LEDs or relays.
+
 ### Intermediate
 
 Machine Learning projects are common for a good reason! Building your own
@@ -53,6 +57,11 @@ with indie developers and industry.
 and free for small studios.
 * [Game Maker](https://www.yoyogames.com/gamemaker) - Common with Indie
 developers but does cost money.
+
+Raspberry pi's are very useful for more complex hardware projects, raspberry pi's have 
+much more processing power than arduinos/microprocessors. Try using a camera with 
+[opencv](https://opencv.org/) or some [TensorFlow](https://www.tensorflow.org/) CNNs. 
+For inputs and output control try using the [wiringPi](http://wiringpi.com/) library.
 
 ### Advanced
 
