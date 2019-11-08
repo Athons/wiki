@@ -6,10 +6,13 @@ For main meals, you'll need to sort of people with dietary requirements first.
 
 You might need to keep people to only having one portion if you are dealing 
 with certain businesses. This can be done with either a tick mark on their 
-wristbands (Like HackSheffield) or a card (like StudentHack).
+wristbands (Like HackSheffield) or a card (like StudentHack) or even a QR 
+code (like HackUPC).
 
 For snacks, having a table and periodically adding new things to it as it gets
-emptied works.
+emptied works. It's worth trying  to time this after meals to avoid people 
+getting full before a whole meal. Snack tables should ideally be out of direct
+sight of the hackers, especially at larger hackathons, to avoid the crab bucket.
 
 ## What to get
 
@@ -35,6 +38,8 @@ a choice, but does tend to be a bit more expensive.
 The queues can be quite long, and if they setup outside in the colder months
 it might be bit too cold for attendees to stand outside for too long.
 
+Advised against for larger hackathons.
+
 #### Dominos
 
 Everyone love pizza.
@@ -57,7 +62,7 @@ might need run later.
 Really good option for vegetarians! And they provide sheets regarding allergies
 etc.
 
-It's about £18-£20 per plater, which some volume discounts.
+It's about £18-£20 per plater, with some volume discounts.
 
 #### McDonalds
 
@@ -75,12 +80,18 @@ Offers a good vegan pizza and has a whole menu for [dietary requirements](https:
 
 #### Breakfast
 
-Heading to an Aldi/Lidl/Costco and picking up various things is what tends to
+Heading to an Aldi/Lidl/Costco/Makro and picking up various things is what tends to
 work best. Breakfast never tends to be too well attended.
+
+Many companies that provide breakfast simply do the Costco shop for you and charge you
+double.
 
 ### Snacks
 
 Usual costco stuff works well. Various soft drinks, crisps, etc.
+
+Try not to buy purely caffenated drinks, if hackers would like to deteriorate their health
+let them do it, not you.
 
 ## Dietary Requirements
 
@@ -165,3 +176,5 @@ so the allergen options don't get cross containmened from other options.
 This also ensures there are still availabile options before the rest of the hackers eat.
 
 You can find some information on the [NHS website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
+
+Try to keep an emergancy contact for each of your contacts if you have someone with a strange allergy.
