@@ -7,5 +7,6 @@ Most hackathons tend to get stickers from StickerMule, if you're a MLH affiliate
 
 ### Companies that will send stickers
   * MLH - If you're affiliated with MLH then the coach will bring loads of stickers
-  * JetBrains - Some hackathons have had success with JetBrains, you can contact them [here](https://www.jetbrains.com/community/support)
-  * Monzo - Some hackathons have had success with Monzo. One contact is press@monzo.com
+  * JetBrains - Some hackathons have had success with JetBrains, you can contact them [here](https://www.jetbrains.com/community/support). Typically they will reject your request, but if you reply to the email and ask for some stickers, then they will send some. 
+  * Monzo - Some hackathons have had success with Monzo. One contact is press@monzo.com, another is hello@monzo.com
+  * Devpost - email hackathons@devpost.com , (DurHack tried 08/11/19 an it worked) 
