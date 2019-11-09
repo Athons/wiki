@@ -9,13 +9,23 @@ nav:
     - Judging: 'attending/judging.md'
     - Workshops: 'attending/workshops.md'
     - Transport: 'attending/transport.md' 
-  - Events: 'events/index.md'
+  - Events:
+    - Index: 'events/index.md'
+    - Family Tree: 'events/familytree.md'
   - Organise:
     - Getting Started: 'organise/gettingstarted.md'
     - Talking to Other Organisers: 'organise/communication.md'
+    - Finances: 'organise/finance.md'
+    - Catering: 'organise/catering.md'
     - Venue: 'organise/venue.md'
+    - Tech: 'organise/tech.md'
     - Health And Safety: 'organise/has.md'
+    - Side Events: 'organise/sideevents.md'
+    - Share Equipment: 'organise/share.md'
+    - Stash and Swag: 'organise/stashandswag.md'
+    - Hackathon Contacts: 'organise/POI.md'
   - Sponsor: 'sponsor/index.md'
+  - Volunteer: 'volunteer/index.md'
   - HackSoc Twitter List: 'feed.md'
 
 

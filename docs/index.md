@@ -1,4 +1,5 @@
-# Welcome to hack.athon.uk!
+# 
+<img src="/static/logo.svg" width="50%">
 
 ## About
 
@@ -9,14 +10,32 @@ Here you can find information on what to expect when attending, event informatio
 and help with organising your own hackathon!
 
 This site was set up by [@baahorn](https://twitter.com/baahorn), who
-previously organised [CovHack](https://covhack.org) and has been to 20+ events
-around the country.
+previously organised [CovHack](https://covhack.org), and currently managed by
+[HHEU](https://hackathonhackers.eu).
 
 ## Contribute
 
-You can find the Git Repository [here](https://github.com/bahorn/hack.athon.uk)
+You can find the Git Repository [here](https://github.com/HHEU/wiki)
 
 Feel free to send Pull Requests to update the content!
 
 Site is built with [mkdocs](https://www.mkdocs.org) with the
 [Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
+
+# Events
+This list showcases upcoming UK student-run hackathons.
+
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
+| HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 100 | 9th-10th November 2019 |
+| HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
+| Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | Oxford University | 300 | 16th-17th November 2019 |
+| GreatUniHack 2019 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 16th-17th November 2019 |
+| DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
+| ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
+| Royal Hackaway v3 | [royalhackaway.com](https://royalhackaway.com/) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
+| Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
+| IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
+| CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 100 | 15th-16th February 2020 |
+
+Want to add something to this list? [Fork and pull request](https://github.com/HHEU/wiki/edit/master/docs/index.md) to add your event!
