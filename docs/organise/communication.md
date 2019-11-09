@@ -24,8 +24,7 @@ Facebook group for organisers around the world.
 
 Private group, you'll need to ask an existing Organiser to invite you.
 
-The European focused organiser group, contains the spreadsheet for event dates
-to avoid clashes.
+The European focused organiser group, contains the spreadsheet for event dates to avoid clashes.
 
 ## Messenger
 
