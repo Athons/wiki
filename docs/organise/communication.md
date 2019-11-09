@@ -2,8 +2,7 @@
 
 ### [HackathonHackers EU](https://hackathonhackers.eu/)
 
-First ran at Nottingham University in 2019, acted as the UKs official watch
-party for [MLHs Hackcon digital](https://hackcon.mlh.io/events/hackcon-digital/).
+First ran at Nottingham University in 2019, acted as the UKs official watch party for [MLHs Hackcon digital](https://hackcon.mlh.io/events/hackcon-digital/).
 
 Very worthwhile to attend if you are a new organiser!
 
@@ -25,8 +24,7 @@ Facebook group for organisers around the world.
 
 Private group, you'll need to ask an existing Organiser to invite you.
 
-The European focused organiser group, contains the spreadsheet for event dates
-to avoid clashes.
+The European focused organiser group, contains the spreadsheet for event dates to avoid clashes.
 
 ## Messenger
 
