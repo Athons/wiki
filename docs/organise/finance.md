@@ -18,7 +18,13 @@ but it over estimates a lot, including assuming a 500 person attendance.
 You need to write a sponsorship prospectus. You can find tons of examples in 
 the [MLHs repository](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
 
-The DurHack19 Sponosrship Deck can be found [here](/static/documents/decks/DH19SponsorshipDeck.pdf)
+The DurHack19 Sponsorship Deck can be found [here](/static/documents/decks/DH19SponsorshipDeck.pdf)
+
+### Finding Sponsors
+Unfortunately the best way to get sponsorship is to 'cold email' as many companies as possible. Remember to try and tailor the initial email to the company and to think about what that company will want to get out of the hackathon, a local startup will want something very different to Microsoft.
+
+A good tool to keep track of all the potential sponsors is a CRM, e.g. hubspot, you can add contacts to it as well as set up a sponsorship pipeline.
+
 ### Contracts
 
 An example contract with terms removed can be seen [here](/static/documents/contracts/Example.odt).
