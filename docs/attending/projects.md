@@ -8,17 +8,12 @@ new!
 
 ### Beginner
 
-If you are just learning programming for the first time, making a simple website
-is a great thing to try.
+If you are just learning programming for the first time, making a simple website is a great thing to try.
+If there is a challenge that interest you or a themed challenge, do go in and give it a try. 😊 Some hackathons do have challenges dedicated for first-time hackers or newcomers as well.
 
-Otherwise, there are tools like [Processing](https://processing.org/) and it's
-Javascript counterpart [p5.js](https://p5js.org/) which are great for making
-visual projects.
+Otherwise, there are tools like [Processing](https://processing.org/) and it's Javascript counterpart [p5.js](https://p5js.org/) which are great for making visual projects.
 
-Python has many good libraries available if you are trying to process some data
-from a website. Data sources will tend to provide JSON data which Python can
-handle very well! Otherwise Javascript with Node is also very suitable for this
-task.
+Python has many good libraries available if you are trying to process some data from a website. Data sources will tend to provide JSON data which Python can handle very well! Otherwise Javascript with Node is also very suitable for this task.
 
 Mashing up two APIs creatively is one of the best projects you can do. For
 example, displaying crime data from [data.police.uk](https://data.police.uk/)
