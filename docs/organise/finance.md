@@ -18,6 +18,7 @@ but it over estimates a lot, including assuming a 500 person attendance.
 You need to write a sponsorship prospectus. You can find tons of examples in 
 the [MLHs repository](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
 
+The DurHack19 Sponosrship Deck can be found [here](/static/documents/decks/DH19SponsorshipDeck.pdf)
 ### Contracts
 
 An example contract with terms removed can be seen [here](/static/documents/contracts/Example.odt).
