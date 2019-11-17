@@ -75,8 +75,8 @@ This list showcases past UK student-run hackathons (most recent first).
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | HackSurrey Beta | [beta.hacksurrey.uk](https://beta.hacksurrey.uk/) | University of Surrey | 100 | 5th-6th May 2018 |
-| StudentHack VI | N/A | 150 | 28th-29th April 2018 |
-| Music Hack Day London 2018 | [goldsmiths.tech/music](https://goldsmiths.tech/music/) | 100 | 9th-10th April 2018 |
+| StudentHack VI | N/A | Manchester | 150 | 28th-29th April 2018 |
+| Music Hack Day London 2018 | [goldsmiths.tech/music](https://goldsmiths.tech/music/) | Goldsmiths, University of London | 100 | 9th-10th April 2018 |
 | STACSHack | N/A | St Andrews, UK | 130 | 7th-8th April 2018 | 
 | HackKent | [kentcomputingsociety.co.uk/hackkent](https://kentcomputingsociety.co.uk/hackkent) | University of Kent | N/A | 13th-14th March |
 | HackMed | [hackmed.uk](https://hackmed.uk) | University of Sheffield | 80 | 10th-11th March |
