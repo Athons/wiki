@@ -45,6 +45,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | Oxford University | 300 | 16th-17th November 2019 |
 | GreatUniHack 2019 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 16th-17th November 2019 |
 | HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 100 | 9th-10th November 2019 |
+| hackSheffield 5 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 2nd-3rd November 2019 |
 
 
 Want to add something to this list? [Fork and pull request](https://github.com/HHEU/wiki/edit/master/docs/index.md) to add your event!
