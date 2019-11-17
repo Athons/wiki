@@ -3,7 +3,7 @@ first time programming or what to try something new.
 
 Common Workshops:
 
-* Introduction to Git
+* [Introduction to Git](IntroToGit.md)
 * Basic Python Programming
 * Making your first website
 
