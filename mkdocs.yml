@@ -26,7 +26,9 @@ nav:
     - Hackathon Contacts: 'organise/POI.md'
   - Sponsor: 'sponsor/index.md'
   - Volunteer: 'volunteer/index.md'
-  - HackSoc Twitter List: 'feed.md'
+  - HackSoc Lists:
+    - Twitter: 'lists/twitter.md'
+    - Github: 'lists/github.md'
 
 
 
