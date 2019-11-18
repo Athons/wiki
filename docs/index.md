@@ -27,7 +27,7 @@ This list showcases upcoming UK student-run hackathons.
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 150 | 23rd-24th November 2019 |
+| DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 200 | 23rd-24th November 2019 |
 | Hack Cambridge 2020 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
 | ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
 | Royal Hackaway v3 | [royalhackaway.com](https://royalhackaway.com/) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
