@@ -23,6 +23,9 @@ Getting started with hardware you may want to look at using [arduino](https://ww
 and use sensors alongside this to read inputs such as movement from an accelerometer or 
 light levels with an LDR. Arduinos can also drive outputs such as LEDs or relays.
 
+MLH provides starter packs for both [Python](https://github.com/MLH/mlh-hackathon-flask-starter)
+and [NodeJS](https://github.com/MLH/mlh-hackathon-nodejs-starter).
+
 ### Intermediate
 
 Machine Learning projects are common for a good reason! Building your own
