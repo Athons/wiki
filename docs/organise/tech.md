@@ -30,6 +30,9 @@ any web browser.
 and free if you self host it. Used at large conferences like the CCC. Runs on
 a Pi or whatever mini computer you have.
 
+[Trumpet](https://hacksocnotts.github.io/trumpet/) is a signage system written
+for HackNotts by [@MrJamesCo](https://twitter.com/MrJamesCo). 
+
 ## Navigation
 
 If you are running a very large event with a huge venue, it might be worth

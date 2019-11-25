@@ -2,7 +2,7 @@
 
 ## CovHack
 
-[Generic](hello@covhack.org)
+[Generic](mailto:hello@covhack.org)
 
 Updated 2020 Season
 
@@ -105,13 +105,13 @@ Updated 2020 Season
 
 ## Royal Hackaway 
 
-[Generic](wes@royalhackaway.com)
+[Generic](mailto:wes@royalhackaway.com)
 
 Updated 2020 Season
 
 ## Quackathon
 
-[Generic](info@quackathon.com)
+[Generic](mailto:info@quackathon.com)
 
 Updated 2020 Season
 
