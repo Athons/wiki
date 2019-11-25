@@ -72,7 +72,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | DurHack 2018   | [durhack.com](https://durhack.com) | Durham University | 150 | 17th-18th November 2018 |
 | GreatUniHack 2018 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 10th-11th November 2018 |
 | HackSussex 2018 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 10th-11th November 2018 |
-| HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millenium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
+| HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
 | hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
 
 2018 Season
@@ -100,7 +100,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | GreatUniHack 2017 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 11th-12th November 2017 |
 | HackNotts 2017  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 28th-29th November 2017 |
 | hackSheffield 3 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 14th-15th October 2019 |
-| HackTheMidlands 2.0 | [hackthemidlands.com](https://hackthemidlands.com/) | Millenium Point, Birmingham | 150 | 23rd-24th September 2017 |
+| HackTheMidlands 2.0 | [hackthemidlands.com](https://hackthemidlands.com/) | Millennium Point, Birmingham | 150 | 23rd-24th September 2017 |
 
 
 
