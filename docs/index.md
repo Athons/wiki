@@ -33,6 +33,8 @@ This list showcases upcoming UK student-run hackathons.
 | Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
+| DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | TBC | November 2020 |
+
 
 
 # Past Events
