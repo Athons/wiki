@@ -8,12 +8,12 @@ This normally works well inside a lecture theatre that has enough seating for yo
 
 A general structure:
 
-* Welcome to the hackathon
-* Event schedule
-* Things going on at the hackathon
-* Devpost
-* Sponsors
-* Challenges
+* Welcome to the hackathon.
+* Event schedule.
+* Things going on at the hackathon.
+* Devpost.
+* Sponsors.
+* Challenges.
 
 ## Presentations
 
@@ -21,30 +21,30 @@ Your hackathon may have presentations for all attendees, or just the finalist. M
 
 Some of the things people might want for their presentation:
 
-* Audio out of their laptop
-* Video from 2 laptops
-* Camera feed on a hardware hack
+* Audio out of their laptop.
+* Video from 2 laptops.
+* Camera feed on a hardware hack.
 
 ## Closing Ceremony
 
 General structure:
 
-* Prizes
-* Thank yous to the sponsors
-* Final thank you
+* Prizes.
+* Thank yous to the sponsors.
+* Final thank you.
 
 ## Add a professional touch to your AV
 
-Will Russell from HackTheMidlands has a box of dongles and adapters to help you connect up any computer to your display. 
+Will Russell, from HackTheMidlands, has a [box of dongles and adapters](/organise/share/) to help you connect up any computer to your display. 
 On top of that, he can also run your ceremonies and presentations, adding background music and smooth transitions.
 
 Hackathons he has worked with:
 
 * HackTheMidlands 4.0 as AV Lead.
 * OxfordHack 2019 by providing the dongle box and running the presentations.
-* DurHack 2019 by running the opening and closing ceremonies, as well as providing the dongle box
+* DurHack 2019 by running the opening and closing ceremonies, as well as providing the dongle box.
 
-For Spring Season 2020, he will have a production switcher and MIDI controller to help make hackathons have even smoother presentations, allowing for easy transitions between laptops, background music and more options for audio during presentations.
+For the Spring Season in 2020, he will have a production switcher and MIDI controller to help make hackathons have even smoother presentations and ceremonies, allowing for easy transitions between laptops, background music and more options for audio during presentations.
 
 Contact Will by [email](mailto:will@will-russell.com) or on [Twitter](https://twitter.com/wrussell1999).
 
