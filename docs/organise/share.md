@@ -25,3 +25,4 @@ environment!)
         * Small Bluetooth speaker (Anker SoundCore Mini)
     * 3 way HDMI switch
     * 2 way HDMI switch
+* Community Poster Wall (not quite tech, but a few people said they like the idea of it coming to other hackathons - Karl Southern (DurHack) 
