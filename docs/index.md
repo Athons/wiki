@@ -35,6 +35,7 @@ This list showcases upcoming UK student-run hackathons.
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
+| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
 | DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | TBC | November 2020 |
 
 
@@ -53,8 +54,8 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 100 | 9th-10th November 2019 |
 | hackSheffield 5 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 2nd-3rd November 2019 |
 | AstonHack 2019 | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 175 | 2nd-3rd November 2019 |
-| HackTheMidlands 4.0 | [Hackthemidlands.co.uk](https://Hackthemidlands.co.uk/) | Millenium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
-| HackBrunel | [https://hackbrunel.com/](https://hackbrunel.com/) | Brunel University STEM Centre | 100 | 26th-27th October 2019 |
+| HackTheMidlands 4.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
+| HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University STEM Centre | 100 | 26th-27th October 2019 |
 
 2019 Season
 
@@ -71,7 +72,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | DurHack 2018   | [durhack.com](https://durhack.com) | Durham University | 150 | 17th-18th November 2018 |
 | GreatUniHack 2018 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 10th-11th November 2018 |
 | HackSussex 2018 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 10th-11th November 2018 |
-| HackTheMidlands 3.0 | [Hackthemidlands.co.uk](https://Hackthemidlands.co.uk/) | Millenium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
+| HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
 | hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
 
 2018 Season
@@ -99,7 +100,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | GreatUniHack 2017 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 11th-12th November 2017 |
 | HackNotts 2017  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 28th-29th November 2017 |
 | hackSheffield 3 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 14th-15th October 2019 |
-| HackTheMidlands 2.0 | [Hackthemidlands.co.uk](https://Hackthemidlands.co.uk/) | Millenium Point, Birmingham | 150 | 23rd-24th September 2017 |
+| HackTheMidlands 2.0 | [hackthemidlands.com](https://hackthemidlands.com/) | Millennium Point, Birmingham | 150 | 23rd-24th September 2017 |
 
 
 
