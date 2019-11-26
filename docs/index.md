@@ -36,7 +36,7 @@ This list showcases upcoming UK student-run hackathons.
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
 | HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
-| DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | TBC | November 2020 |
+| DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | TBC | 14th-15th November 2020 |
 | HackNotts 2020  | [hacknotts.com](https://www.hacknotts.com) | University of Nottingham | 200 | 28th-29th November 2020 |
 
 
