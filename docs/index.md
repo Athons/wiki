@@ -98,8 +98,8 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackSussex | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 11th-12th November 2017 |
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 11th-12th November 2017 |
 | GreatUniHack 2017 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 11th-12th November 2017 |
-| HackNotts 2017  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 28th-29th November 2017 |
-| hackSheffield 3 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 14th-15th October 2019 |
+| HackNotts 2017  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 28th-29th October 2017 |
+| hackSheffield 3 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 14th-15th October 2017 |
 | HackTheMidlands 2.0 | [hackthemidlands.com](https://hackthemidlands.com/) | Millennium Point, Birmingham | 150 | 23rd-24th September 2017 |
 
 
