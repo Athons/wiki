@@ -34,6 +34,7 @@ you are doing a lot.
 This is a core element of the hackathon budget as well as how the hackathon runs. Having different tiers can provide different addons of what a sponsor can do within the hackathon.
 
 Most hackathons have at least 3 different tiers which is a common trend between different hackathons.
+Some sponsors may find it easier for them to provide in kind sponsorship, this might be in the form of prizes, a venue or energy drinks. In kind sponsorship is very useful still, as it will help cut your costs but remember that you do also need enough sponsors who can provide cash.
 
 _Note: This is a sample tier system with addons._
 
