@@ -25,4 +25,8 @@ environment!)
         * Small Bluetooth speaker (Anker SoundCore Mini)
     * 3 way HDMI switch
     * 2 way HDMI switch
-* Community Poster Wall (not quite tech, but a few people said they like the idea of it coming to other hackathons - Karl Southern (DurHack) 
+    * SD Card to Micro SD Card adapter
+    * Ethernet to USB adapter
+    * USB C to USB A (2 white ones, 1 black)
+    * 2x micro USB to USB A
+* Community Poster Wall (not quite tech, but a few people said they like the idea of it coming to other hackathons - Karl Southern (DurHack)
