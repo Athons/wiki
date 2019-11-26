@@ -14,7 +14,7 @@ If its a recurring hackathon, review the old finance and determine the budget yo
 For new hackathons, creating a budget can be hard to start. These would be some stuff you wish to start off with:
 
 * Food & Snacks
-* Prizes, if your providing your onw
+* Prizes, if your providing your own
 * General amenities (Plates, Cutlery, Cords, etc...)
 
 Once done, check with the number of sponsors you wish to have. More info on Sponsorship Tiers
@@ -27,75 +27,6 @@ This is a core element of the hackathon budget as well as how the hackathon runs
 
 Most hackathons have at least 3 different tiers which is a common trend between different hackathons.
 
-_Note: This is a sample tier system with addons._
-
-###### _Top Tier_
-This is the best tier which will provide the most amount of abilities in the hackathon. General hackathon abilites may include:
-
-* 2+ Workshops
-* Abilitiy to come to the hackathon
-* Social Media Presence
-* Judging Panel
-* Tier Price can be at least 1/3 to 40% of the hackathon budget
-
-Tips: For first time hackathons, best to have up to 2 if possible.
-
-##### _Mid Tier_
-This is the most common tier which will provide the stable amount of abilities within the hackathon. General hackathon abilites may include:
-
-* Abilitiy to come to the hackathon
-* 1 Workshop
-* Social Media Presence
-* Judging Panel
-* Tier Price can be at least 25% of the hackathon budget
-
-Tips: For first time hackathons, best to have up to 1 if possible.
-
-##### _Low Tier_
-This is the beginning tier which will provide the stable amount of abilities within the hackathon. General hackathon abilites may include:
-
-* Social Media Presence
-* Tier Price can be at least 10-20% of the hackathon budget
-
-Tips: For first time hackathons, best to have more than 2 if possible. You can also have no low tier sponsors but it's advised to have a couple. 
-
-##### Example
-AstonHack has done 3 tiers within different tier prices:
-
-###### Gold Tier 
-Price: £1500
-
-Addons:
-
-* Workshops
-* Extended Opening Ceremony Presentations
-* Top level advertising on website and social media
-* Set a sponsor challenge
-* Run a workshop/game/event
-* Part of Judging Panel
-* Sponsor table at the event
-
-###### Silver Tier 
-Price: £750-1000
-
-Addons:
-
-* Workshops
-* Opening Ceremony Presentations
-* Advertising on website and social media
-* Set a sponsor challenge
-* Part of Judging Panel
-* Sponsor table at the event
-
-###### Bronze Tier 
-Price: £500-750
-
-No On-site presence
-
-Addons:
-
-* Advertising on website and social media
-* Can send merch to be handed out at the event
 
 ### [Major League Hacking (MLH)](https://mlh.io)
 If your creating a brand new Hackathon, MLH may be able to provide some key information and and financial support to ensure that the hackathon runs smoothly.
