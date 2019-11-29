@@ -50,4 +50,15 @@ Contact Will by [email](mailto:will@will-russell.com) or on [Twitter](https://tw
 
 ### Testimonials 
 
-**DurHack 2019**
+#### DurHack 2019
+> Will ran the A/V for our opening talks and helped bring a couple of great ideas about how to add polish and flair to
+> bring energy to the room. He was able to adapt to our needs on-the-fly and keep transitions smooth between speakers.
+>
+> Will also did a fantastic job of running our finalist presentations entirely by himself. Having heard about his
+> legendary(!) A/V skills at OxfordHack 2019, I had full faith that Will would pull through and keep our presentations
+> seamless and on schedule – and he stepped up to the challenge and ran the presentations with no drama. I was able to
+> step back and focus on other things while Will got teams quickly and effectively onboarded with the relevant A/V set
+> up, and was able to professionally handle issues and special requirements. I would love to have Will at every event
+> I'm at!
+> 
+> — **Robbie Jakob-Whitworth**, Lead Organiser, DurHack 2017–2019
