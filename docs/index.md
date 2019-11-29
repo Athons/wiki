@@ -23,7 +23,7 @@ Site is built with [mkdocs](https://www.mkdocs.org) with the
 [Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
 
 # Events
-This list showcases upcoming UK student-run hackathons.
+This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
