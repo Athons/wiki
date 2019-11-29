@@ -23,7 +23,7 @@ Site is built with [mkdocs](https://www.mkdocs.org) with the
 [Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
 
 # Events
-This list showcases upcoming UK student-run hackathons.
+This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
@@ -34,6 +34,7 @@ This list showcases upcoming UK student-run hackathons.
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
+| HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | 29th February 2020 |
 | JunctionX Exeter | [hackjunction.com](https://www.hackjunction.com/concepts/junction-x) | Exeter | ?? | February 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
 | HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
@@ -58,6 +59,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | AstonHack 2019 | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 175 | 2nd-3rd November 2019 |
 | HackTheMidlands 4.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
 | HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University STEM Centre | 100 | 26th-27th October 2019 |
+| HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | Nottingham University | 25 | 5th October 2019 |
 
 2019 Season
 
