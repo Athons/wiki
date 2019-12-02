@@ -3,6 +3,4 @@ and get it on display here!
 
 Please share it as a vector (SVG, EPS, etc)!
 
-## hack.athon.uk
-
-<img src="/static/art/hack.athon.uk/hack-athon-uk.svg" width="25%">
+<iframe src="/art/hexbin/stickers.html" frameborder="0" scrolling="no" style="border: none; width: 100%; height: 1200px;"></iframe>
