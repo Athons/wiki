@@ -13,7 +13,7 @@ This site was set up by [@baahorn](https://twitter.com/baahorn), who
 previously organised [CovHack](https://covhack.org), and currently managed by
 [HHEU](https://hackathonhackers.eu).  
 
-HHEU supports the MLH Duckie the Debugger for he protec, he attack but most of all he love to hack!
+HHEU supports the MLH Ducky the Debugger for he protec, he attack but most of all he love to hack!
 
 ## Contribute
 
