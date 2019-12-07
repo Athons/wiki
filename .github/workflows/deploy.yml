@@ -12,8 +12,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
     
-    - name: Checkout submodules
-      uses: textbook/git-checkout-submodule-action@2.0.0
+    - name: Use up to date submodules
+      uses: srt32/git-actions@v0.0.3
+      args: git submodule update --remote --merge
 
     - name: Build
       uses: ./.github/actions/mkdocs-build-action
