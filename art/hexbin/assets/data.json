@@ -1,5 +1,18 @@
 [
   {
+    "name": "CovHack 2019",
+    "raster": "hexagons/covhack19.png",
+    "description": "CovHack 2019 Sticker",
+    "filename": "meta/covhack19.json"
+  },
+  {
+    "name": "CovHack 2020",
+    "raster": "hexagons/covhack20.png",
+    "vector": "vector/covhack20.svg",
+    "description": "CovHack 2020 Sticker",
+    "filename": "meta/covhack20.json"
+  },
+  {
     "name": "ducompsoc2019",
     "raster": "hexagons/ducompsoc2019.png",
     "description": "Durham University Computing Society Hex sticker",
