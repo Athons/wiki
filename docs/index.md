@@ -39,6 +39,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | 29th February 2020 |
 | JunctionX Exeter | [hackjunction.com](https://www.hackjunction.com/concepts/junction-x) | Exeter | ?? | February 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
+| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  March 2020 |
 | DurHack:NextGen   | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
 | HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
 | DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | 425 | 14th-15th November 2020 |
@@ -68,6 +69,7 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
+| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | 50? | 30th-31st March 2019 |
 | CovHack 19   | [covhack.org](https://covhack.org) | Coventry University | 110 | 16th-17th March 2019 |
 | R. U. Hacking? 2019   | [ruhacking.me](https://ruhacking.me) | University of Reading | 150 | 16th-17th February 2019 |
 | HackSurrey Mk2 | [mk2.hacksurrey.uk](https://mk2.hacksurrey.uk) | University of Surrey | 150 | 9th-10th February 2019 |
