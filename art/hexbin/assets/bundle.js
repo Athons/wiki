@@ -12,10 +12,41 @@ $.getJSON('assets/data.json', function (data) {
       'title': val.description
     })
 
-    var desc = $('<span />', {
+    var text = $('<div />', {
       'class': 'centered'
     })
-    desc.append('<span />').append(val.name)
+
+    var name = $('<div />', {
+      'class': 'sticker-name'
+    }).append(val.name)
+
+
+    var desc = $('<div />', {
+      'class': 'sticker-desc'
+    }).append(val.description)
+
+    var links = $('<div />', {
+      'class': 'sticker-links'
+    })
+
+
+    var vector = $('<i title="vector" class="pad fas fa-shapes"></i>')
+    var raster = $('<i title="raster" class="pad fas fa-images"></i>')
+    if (val.raster) {
+      links.append($('<a />', {
+        'href': val.raster
+      }).append(raster))
+    }
+    if (val.vector) {
+      links.append($('<a />', {
+        'href': val.vector
+      }).append(vector))
+    }
+    
+    text.append(name)
+    text.append(desc)
+    text.append(links)
+  
 
     var container = $('<div />', {
       'class': 'hex',
@@ -23,7 +54,7 @@ $.getJSON('assets/data.json', function (data) {
       'height': '209px',
     })
     container.append(img);
-    container.append(desc);
+    container.append(text);
 
     container.appendTo('#grid')
   })
