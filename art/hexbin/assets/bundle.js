@@ -6,24 +6,33 @@ $.getJSON('assets/data.json', function (data) {
   var shuffled = shuffle(data)
   $.each(shuffled, function (key, val) {
     var img = $('<img />', {
-      'class': 'hex',
+      'class': 'overlay',
       'src': val.raster,
       'alt': val.description,
-      'width': '181px',
-      'height': '209px'
+      'title': val.description
     })
 
-    $('<a />', {
-      'href': "http://hack.athon.uk/docs/art/hexbin/" + val.filename,
-      'target': '_blank'
-    }).append(img).appendTo('#grid')
+    var desc = $('<span />', {
+      'class': 'centered'
+    })
+    desc.append('<span />').append(val.name)
+
+    var container = $('<div />', {
+      'class': 'hex',
+      'width': '181px',
+      'height': '209px',
+    })
+    container.append(img);
+    container.append(desc);
+
+    container.appendTo('#grid')
   })
 
   var hexes = document.querySelectorAll('.hex')
   var root = document.querySelector('#grid')
 
   function scan () {
-    grid({ element: root, spacing: 4 }, hexes)
+    grid({ element: root, spacing: 4}, hexes)
   }
 
   scan()

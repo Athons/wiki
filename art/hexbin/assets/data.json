@@ -19,13 +19,13 @@
     "filename": "meta/covhack20.json"
   },
   {
-    "name": "ducompsoc2019",
+    "name": "DU CompSoc 2019",
     "raster": "hexagons/ducompsoc2019.png",
     "description": "Durham University Computing Society Hex sticker",
     "filename": "meta/ducompsoc2019.json"
   },
   {
-    "name": "durhack2019",
+    "name": "DurHack 2019",
     "raster": "hexagons/durhack2019.png",
     "vector": "vector/durhack2019.ai",
     "description": "DurHack2019 Hex sticker",
@@ -33,25 +33,25 @@
     "filename": "meta/durhack2019.json"
   },
   {
-    "name": "durhack2019pride",
+    "name": "DurHack2019 Pride",
     "raster": "hexagons/durhack2019pride.png",
     "description": "DurHack2019 Hex sticker with Pride colours",
     "filename": "meta/durhack2019pride.json"
   },
   {
-    "name": "durhack2019trans",
+    "name": "DurHack2019 Trans",
     "raster": "hexagons/durhack2019trans.png",
     "description": "DurHack2023 Hex sticker with trans flag colours",
     "filename": "meta/durhack2019trans.json"
   },
   {
-    "name": "durhackdino2019",
+    "name": "DurHackdino2019",
     "raster": "hexagons/durhackdino2019.png",
     "description": "DurHack2019 DurHack Dino Hex sticker",
     "filename": "meta/durhackdino.json"
   },
   {
-    "name": "ack.aton.uk",
+    "name": "hack.athon.uk",
     "raster": "hexagons/hackathonuk.png",
     "description": "hack.athon.uk Hex sticker",
     "filename": "meta/hack.athon.uk.json"
