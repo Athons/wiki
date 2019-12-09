@@ -1,6 +1,9 @@
 # hack.athon.uk
 
 I bought the domain `athon.uk` to host a hackathon wiki.
+## Adding stickers
+
+Go to https://github.com/HHEU/hexbin to add stickers
 
 ## Setup
 

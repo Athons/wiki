@@ -16,17 +16,22 @@ nav:
     - Getting Started: 'organise/gettingstarted.md'
     - Talking to Other Organisers: 'organise/communication.md'
     - Finances: 'organise/finance.md'
+    - Sponsorship: 'organise/sponsorship.md'
     - Catering: 'organise/catering.md'
     - Venue: 'organise/venue.md'
     - Tech: 'organise/tech.md'
     - Health And Safety: 'organise/has.md'
+    - Opening and Closing Ceremonies: 'organise/av.md'
     - Side Events: 'organise/sideevents.md'
     - Share Equipment: 'organise/share.md'
     - Stash and Swag: 'organise/stashandswag.md'
     - Hackathon Contacts: 'organise/POI.md'
   - Sponsor: 'sponsor/index.md'
   - Volunteer: 'volunteer/index.md'
-  - HackSoc Twitter List: 'feed.md'
+  - HackSoc Lists:
+    - Twitter: 'lists/twitter.md'
+    - Github: 'lists/github.md'
+  - Art: 'art/index.md'
 
 
 
