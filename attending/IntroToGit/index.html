@@ -614,7 +614,7 @@
       
         <li class="md-nav__item">
   <a href="#what-do-i-need" class="md-nav__link">
-    What do I need
+    What do I need?
   </a>
   
 </li>
@@ -756,6 +756,154 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#medium-git" class="md-nav__link">
+    Medium Git
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#merge-conflicts" class="md-nav__link">
+    Merge conflicts
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#status" class="md-nav__link">
+    Status
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resolving" class="md-nav__link">
+    Resolving
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uh-oh" class="md-nav__link">
+    Uh Oh
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pushing" class="md-nav__link">
+    Pushing
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#branching" class="md-nav__link">
+    Branching
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-a-branch" class="md-nav__link">
+    Creating a branch
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#push_1" class="md-nav__link">
+    Push
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#merge" class="md-nav__link">
+    Merge
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pull-requests" class="md-nav__link">
+    Pull requests
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fork" class="md-nav__link">
+    Fork
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#branch" class="md-nav__link">
+    Branch
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#push-changes" class="md-nav__link">
+    Push changes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pull-request" class="md-nav__link">
+    Pull Request
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#advanced-git" class="md-nav__link">
+    Advanced Git
+  </a>
+  
+</li>
+      
       
       
       
@@ -774,12 +922,13 @@
                 
                 
                 <h1 id="introduction-to-git">Introduction to Git</h1>
-<p>Here we will explain how to get started with git so that you can work colaboratively on code at the hackathon.</p>
-<h2 id="what-do-i-need">What do I need</h2>
+<p>Here we will explain how to get started with Git so that you can work colaboratively on code at the hackathon.</p>
+<h2 id="what-do-i-need">What do I need?</h2>
 <p>There are two main things you need:</p>
 <p>1 - <a href="https://git-scm.com/downloads">Git</a></p>
 <p>2 - <a href="https://github.com/">GitHub Account</a> (This can be substituted for others such as <a href="https://about.gitlab.com/">GitLab</a> or <a href="https://bitbucket.org/product">BitBucket</a>)</p>
-<p>If you're on windows you can either use the github GUI application or git command line version. As the command line version is global across Windows, Linux and Mac we will describe that here.</p>
+<p>If you're on windows you can either use the Github GUI application or Git command line version. As the command line version is global across Windows, Linux and Mac we will describe that here.</p>
+<p><em>Note for Mac Users: Git comes pre-installed, however it maybe installed with a previous version, instead of the current version</em></p>
 <p>Lots of Integrated development environments (IDE's) like <a href="https://atom.io/">Atom</a> and <a href="https://code.visualstudio.com/">VS Code</a> have their own inbuilt GUI systems for Git integration. These are again out of scope here for now.</p>
 <h2 id="creating-a-repository">Creating a  <em>Repository</em></h2>
 <h3 id="repository-name">Repository Name</h3>
@@ -820,44 +969,44 @@ git commit -m &quot;Message&quot;
 git push origin master
 </code></pre>
 
-<h1 id="medium-git">Medium Git</h1>
-<h2 id="merge-conflicts">Merge conflicts</h2>
+<h2 id="medium-git">Medium Git</h2>
+<h3 id="merge-conflicts">Merge conflicts</h3>
 <p>Merge conflicts happen when two people try to change the same file lines resulting in conflicting code. To fix these one contributor needs to act to mediate these conflicts to choose which code should stay and what is un-needed.</p>
 <p>Many IDEs (definitely <a href="https://atom.io/">Atom</a> and <a href="https://code.visualstudio.com/">VS Code</a>) have inbuilt systems to help deal with merge conflicts.</p>
-<h3 id="status">Status</h3>
+<h4 id="status">Status</h4>
 <p>The best thing to do first is to find out where the issues are, the best method of doing this is <code>git status</code>. Most of the time you will see <code>Both modified</code> next to a file name, sometimes a file may have been deleted in another branch.</p>
-<h3 id="resolving">Resolving</h3>
+<h4 id="resolving">Resolving</h4>
 <p>The easiest method is to use an IDE, start by finding the offending file(s), in <a href="https://atom.io/">Atom</a> and <a href="https://code.visualstudio.com/">VS Code</a> the sections of code will be highlighted with buttons to select local or remote or both changes to be kept. Use your best intuition to change the code to what is best. </p>
-<h4 id="uh-oh">Uh Oh</h4>
+<h5 id="uh-oh">Uh Oh</h5>
 <p>In the case you've messed up the merge conflicts and things don't work you can abort the merge at any point to return to the pre-merged state  using <code>git merge --abort</code></p>
-<h3 id="pushing">Pushing</h3>
+<h4 id="pushing">Pushing</h4>
 <p>After the code is working as desired a normal commit cycle of add, commit and push will send the merged file to GitHub.</p>
-<h2 id="branching">Branching</h2>
-<h3 id="creating-a-branch">Creating a branch</h3>
+<h3 id="branching">Branching</h3>
+<h4 id="creating-a-branch">Creating a branch</h4>
 <p><code>git checkout -b "BranchName"</code></p>
 <h3 id="push_1">Push</h3>
 <p><code>git push origin BranchName</code></p>
-<h3 id="merge">Merge</h3>
+<h4 id="merge">Merge</h4>
 <pre><code>git checkout master
 git merge BranchName
 </code></pre>
 
-<h2 id="pull-requests">Pull requests</h2>
-<h3 id="fork">Fork</h3>
+<h3 id="pull-requests">Pull requests</h3>
+<h4 id="fork">Fork</h4>
 <p>Fork the repository you want to Pull Request using GitHub <em>Fork</em> button at the top right of the repository.
 Clone the repository to your PC using <code>git clone RepositoryLink</code> where the Repository link is the link found in your forked repository clone button.</p>
-<h3 id="branch">Branch</h3>
+<h4 id="branch">Branch</h4>
 <p>Create a branch using <code>git checkout -b "BranchName"</code></p>
-<h3 id="push-changes">Push changes</h3>
+<h4 id="push-changes">Push changes</h4>
 <pre><code>git add .
 git commit -m &quot;Message&quot;
 git push origin BranchName
 </code></pre>
 
-<h3 id="pull-request">Pull Request</h3>
+<h4 id="pull-request">Pull Request</h4>
 <p>On the repository you would like to accept your PR you should see a green banner with a button exclaiming change. Follow the pull request section until you enter your code for a review. </p>
 <p>Your code may be accepted or asked for changes depending on if your code meets the requirements. Simply make the changes and commit again, you may however be required to request a review from your previous reviewer.</p>
-<h1 id="advanced-git">Advanced Git</h1>
+<h2 id="advanced-git">Advanced Git</h2>
                 
                   
                 
