@@ -115,4 +115,14 @@ Updated 2020 Season
 
 Updated 2020 Season
 
+## AstonHack
 
+[Contact us](mailto:compsci.society@aston.ac.uk)
+
+* Hamzah Iqbal
+* [Kelvin Khryss Minguell](https://twitter.com/kkgm13)
+* Kelsey Chan
+* Ryan Yeo
+* Kevin Wong
+
+Will be updated for 2021 Season
