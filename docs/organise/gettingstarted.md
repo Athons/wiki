@@ -17,7 +17,7 @@ For new hackathons, creating a budget can be hard to start. These would be some 
 * Prizes, if your providing your own
 * General amenities (Plates, Cutlery, Cords, etc...)
 
-Once done, check with the number of sponsors you wish to have. More info on Sponsorship Tiers
+Once done, check with the number of sponsors you wish to have. More info on [Sponsorship Tiers](/organise/sponsorship/#sponsorship-tiers)
 
 #### Hackathon Size
 Usually MLH generally allow hackathons within 150-200 attendees and more. Think how much attendees you want to get. Make sure where your hosting the hackathon can appropriately handle that much attendees. Factor in as well the amount of Sponsors coming on site.

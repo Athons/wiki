@@ -1,5 +1,6 @@
-Got a cool sticker design for your hack that you want to shared? Submit a PR [here](https://github.com/HHEU/hexbin) 
-and get it on display here!
+Got a cool sticker design for your hack that you want to shared? Submit a PR [here](https://github.com/HHEU/hexbin) and get it on display here!
+
+Thinking about getting one? [Check here for more info](providers.md)
 
 Please share it as a vector (SVG, EPS, etc)!
 <script>
