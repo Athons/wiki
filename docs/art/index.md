@@ -6,4 +6,4 @@ Please share it as a vector (SVG, EPS, etc)!
 <script>
 document.getElementById('stickerframe').contentWindow.location.reload();
 </script>
-<iframe src="/art/hexbin/stickers.html" frameborder="0" id="stickerframe" scrolling="no" style="border: none; width: 100%; height: 1200px;"></iframe>
+<iframe src="/art/hexbin/stickers.html" frameborder="0" id="stickerframe" scrolling="no" style="border: none; width: 100%; height: 1550px;"></iframe>

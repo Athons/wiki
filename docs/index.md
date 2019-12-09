@@ -81,6 +81,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | DurHack 2018   | [durhack.com](https://durhack.com) | Durham University | 150 | 17th-18th November 2018 |
 | GreatUniHack 2018 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 10th-11th November 2018 |
 | HackSussex 2018 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 10th-11th November 2018 |
+| AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 10th-11th November 2018 |
 | HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
 | hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
 

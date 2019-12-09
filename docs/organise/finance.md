@@ -1,12 +1,12 @@
 ## Budget
 
-Budgets are what makes the hackathon work properly. They provide refreshments, meals, prizes, etc... from Sponsors. Your budget will come from your[Sponsorship Tiers](/organise/sponsorship/#sponsorship-tiers) and at times, any surplus from the previous hackathon's budget.
+Budgets are what makes the hackathon work properly. They provide refreshments, meals, prizes, etc... from Sponsors. Your budget will come from your[Sponsorship Tiers](/organise/sponsorship/#sponsorship-tiers) and at times, depending on budget history, any surplus from the previous hackathon's budget.
 
 Things to consider:
 
 * Not everyone is present at every meal.
-* Most hackathons have an attrition rate of 30-50%.
-* Try and have some money put aside for on the day emergencies.
+* Most hackathons have an attrition rate of 30-50%, usually around 40%.
+* Try and have some money put aside for on-the-day emergencies.
 
 ### Examples
 
