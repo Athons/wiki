@@ -3,7 +3,7 @@
 |  [https://github.com/HHEU](https://github.com/HHEU ) | N/A | Hackathon Hackers EU | Umbrella Org for the EU hackathon scene | Y |
 |  [https://github.com/covhacksoc](https://github.com/covhacksoc ) | Coventry University | Coventry Hackathon Society | Main organisation for CovHackSoc | Y |
 |  [https://github.com/covhack](https://github.com/covhack ) | Coventry University | CovHack Event Org | For seperating our event releated stuff | N |
-|  [https://github.com/HackSocNotts](https://github.com/HackSocNotts ) | Nottinghma University | HackSocNotts |  | Y |
+|  [https://github.com/HackSocNotts](https://github.com/HackSocNotts ) | Nottingham University | HackSocNotts |  | Y |
 |  [https://github.com/cssoc](https://github.com/cssoc ) | Manchester University | Manchester CS Society |  | Y |
 |  [https://github.com/hacksoc](https://github.com/hacksoc ) | York University | York Hack Soc |  | Y |
 |  [https://github.com/HackTheMidlands](https://github.com/HackTheMidlands ) | N/A | HackTheMidlands |  | Y |

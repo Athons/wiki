@@ -9,7 +9,7 @@ environment!)
 ## List
 
 * ~20 "4 Gang Sockets" - hackSheffield
-* Display Dongles for presentations - Will Russell (HackTheMidlands)
+* Display Dongles for presentations - [Will Russell](https://twitter.com/wrussell1999)
     * 3x HDMI to HDMI cables (1.8 m)
     * 2x HDMI to USB C dongles (+ 3x USB A)
     * HDMI to USB C cable (1.8 m)
@@ -25,8 +25,8 @@ environment!)
         * Small Bluetooth speaker (Anker SoundCore Mini)
     * 3 way HDMI switch
     * 2 way HDMI switch
-    * SD Card to Micro SD Card adapter
+    * 2x SD Card to Micro SD Card adapters
     * Ethernet to USB adapter
-    * USB C to USB A (2 white ones, 1 black)
+    * 3x USB C to USB A adapters (2 white ones, 1 black)
     * 2x micro USB to USB A
 * Community Poster Wall (not quite tech, but a few people said they like the idea of it coming to other hackathons - Karl Southern (DurHack)

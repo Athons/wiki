@@ -3,13 +3,19 @@ on:
   push:
     branches:
       - master
+  repository_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@master  
+      uses: actions/checkout@master
+    
+    - name: Use up to date submodules
+      uses: srt32/git-actions@v0.0.3
+      with:
+        args: git submodule update --init --remote --merge
 
     - name: Build
       uses: ./.github/actions/mkdocs-build-action
