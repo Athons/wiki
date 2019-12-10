@@ -190,7 +190,6 @@ function dims (opts) {
     else if (typeof window !== 'undefined' && window.getComputedStyle) {
         s = window.getComputedStyle(opts);
     }
-    console.log(s.width, s.height)
     return {
         width: parseInt(s.width),
         height: parseInt(s.height)
