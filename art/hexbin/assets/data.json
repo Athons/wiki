@@ -55,5 +55,17 @@
     "raster": "hexagons/hackathonuk.png",
     "description": "hack.athon.uk Hex sticker",
     "filename": "meta/hack.athon.uk.json"
+  },
+  {
+    "name": "Hackathons for Schools Association",
+    "raster": "hexagons/hackathonsforschools.png",
+    "description": "Hackathons for Schools Association Sticker",
+    "filename": "meta/hackathonsforschools.json"
+  },
+  {
+    "name": "HackTheMidlands 4.0",
+    "raster": "hexagons/hackthemidlands4.png",
+    "description": "HackTheMidlands 4.0 Sticker",
+    "filename": "meta/hackthemidlands4.json"
   }
 ]
