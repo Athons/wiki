@@ -1,5 +1,29 @@
 [
   {
+    "name": "AstonHackDemo15",
+    "raster": "hexagons/aston_hack_demo_2015.png",
+    "description": "I demoed sticker for Aston Hack 2015",
+    "filename": "meta/aston_hack_demo_2015.json"
+  },
+  {
+    "name": "BathHackDemo15",
+    "raster": "hexagons/bath_hack_demo_2015.png",
+    "description": "I demoed sticker for Bath Hack 2015",
+    "filename": "meta/bath_hack_demo_2015.json"
+  },
+  {
+    "name": "BrumHackDemo16",
+    "raster": "hexagons/brum_hack_demo_2016.png",
+    "description": "I demoed sticker for Brum Hack 2016",
+    "filename": "meta/brum_hack_demo_2016.json"
+  },
+  {
+    "name": "Colin",
+    "raster": "hexagons/colin.png",
+    "description": "Jack Biggin",
+    "filename": "meta/colin.json"
+  },
+  {
     "name": "CovHack 2019",
     "raster": "hexagons/covhack19.png",
     "description": "CovHack 2019 Sticker",
@@ -51,6 +75,48 @@
     "filename": "meta/durhackdino.json"
   },
   {
+    "name": "HackBurghDemo16",
+    "raster": "hexagons/hack_burgh_demo_2016.png",
+    "description": "I demoed sticker for  Hack the Burgh 2016",
+    "filename": "meta/hack_burgh_demo_2016.json"
+  },
+  {
+    "name": "HackCambridgeDemo16",
+    "raster": "hexagons/hack_cambridge_demo_2016.png",
+    "description": "I demoed sticker for  Hack Cambridge 2016",
+    "filename": "meta/hack_cambridge_demo_2016.json"
+  },
+  {
+    "name": "HackKingsDemo15",
+    "raster": "hexagons/hack_kings_demo_2015.png",
+    "description": "I demoed sticker for Hack Kings 2015",
+    "filename": "meta/hack_kings_demo_2015.json"
+  },
+  {
+    "name": "HackLondonDemo16",
+    "raster": "hexagons/hack_london_demo_2016.png",
+    "description": "I demoed sticker for  Hack London 2016",
+    "filename": "meta/hack_london_demo_2016.json"
+  },
+  {
+    "name": "HackNottsDemo15",
+    "raster": "hexagons/hack_notts_demo_2015.png",
+    "description": "I demoed sticker for HackNotts 2015",
+    "filename": "meta/hack_notts_demo_2015.json"
+  },
+  {
+    "name": "HackSheffieldDemo16",
+    "raster": "hexagons/hack_sheffield_demo_2016.png",
+    "description": "I demoed sticker for  Hack Sheffield 2016",
+    "filename": "meta/hack_sheffield_demo_2016.json"
+  },
+  {
+    "name": "HackSussexDemo16",
+    "raster": "hexagons/hack_sussex_demo_2016.png",
+    "description": "I demoed sticker for  Hack Sussex 2016",
+    "filename": "meta/hack_sussex_demo_2016.json"
+  },
+  {
     "name": "hack.athon.uk",
     "raster": "hexagons/hackathonuk.png",
     "description": "hack.athon.uk Hex sticker",
@@ -67,5 +133,53 @@
     "raster": "hexagons/hackthemidlands4.png",
     "description": "HackTheMidlands 4.0 Sticker",
     "filename": "meta/hackthemidlands4.json"
+  },
+  {
+    "name": "ICHackDemo16",
+    "raster": "hexagons/ic_hack_demo_2016.png",
+    "description": "I demoed sticker for  IC Hack 2016",
+    "filename": "meta/ic_hack_demo_2016.json"
+  },
+  {
+    "name": "NUCATSHackDemo16",
+    "raster": "hexagons/nucats_demo_2016.png",
+    "description": "I demoed sticker for  NUCATS 2016",
+    "filename": "meta/nucats_demo_2016.json"
+  },
+  {
+    "name": "RGUHackDemo16",
+    "raster": "hexagons/rgu_hacks_demo_2016.png",
+    "description": "I demoed sticker for  RGU Hacks 2016",
+    "filename": "meta/rgu_hacks_demo_2016.json"
+  },
+  {
+    "name": "StacHackDemo16",
+    "raster": "hexagons/stac_hacks_demo_2016.png",
+    "description": "I demoed sticker for  Stac Hacks 2016",
+    "filename": "meta/stac_hacks_demo_2016.json"
+  },
+  {
+    "name": "StirHackDemo16",
+    "raster": "hexagons/stir_hack_demo_2016.png",
+    "description": "I demoed sticker for  Stir Hack 2016",
+    "filename": "meta/stir_hack_demo_2016.json"
+  },
+  {
+    "name": "StrathHackDemo16",
+    "raster": "hexagons/strath_hack_demo_2016.png",
+    "description": "I demoed sticker for  Strath Hack 2016",
+    "filename": "meta/strath_hack_demo_2016.json"
+  },
+  {
+    "name": "StundetHackDemo16",
+    "raster": "hexagons/student_hack_demo_2016.png",
+    "description": "I demoed sticker for  Student Hack 2016",
+    "filename": "meta/student_hack_demo_2016.json"
+  },
+  {
+    "name": "WarwickHacksDemo16",
+    "raster": "hexagons/warwick_hacks_demo_2016.png",
+    "description": "I demoed sticker for  Warwick Hacks 2016",
+    "filename": "meta/warwick_hacks_demo_2016.json"
   }
 ]
