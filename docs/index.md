@@ -36,6 +36,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
+| WarwickHACK 2020 | [warwick.tech](http://warwick.tech/) | University of Warwick | ?? | 22nd-23rd February 2020 |
 | HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | 29th February 2020 |
 | JunctionX Exeter | [hackjunction.com](https://www.hackjunction.com/concepts/junction-x) | University of Exeter | ?? | 21st-23rd February 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
