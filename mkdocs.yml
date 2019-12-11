@@ -6,8 +6,8 @@ nav:
     - Index: 'events/index.md'
     - Family Tree: 'events/familytree.md'
     - HackSoc Lists:
-      - Twitter: 'lists/twitter.md'
-      - GitHub: 'lists/github.md'
+      - Twitter: 'events/lists/twitter.md'
+      - GitHub: 'events/lists/github.md'
   - Attend:
     - First Time: 'attend/firsttime.md'
     - What to Bring: 'attend/bring.md'
@@ -24,11 +24,11 @@ nav:
       - Finances: 'organise/before/finance.md'
       - Venue: 'organise/before/venue.md'
       - Catering: 'organise/before/catering.md'
-      - Stash and Swag: 'organise/before/stashandswag.md'
+      - Health and Safety: 'organise/before/heath_and_safety.md'
       - Tech: 'organise/before/tech.md'
-      - Health and Safety: 'organise/before/has.md'
       - Opening and Closing Ceremonies: 'organise/before/av.md'
-      - Side Events: 'organise/sideevents.md'
+      - Stash and Swag: 'organise/before/stash_and_swag.md'
+      - Side Events: 'organise/before/side_events.md'
     - During The Event:
       - Volunteers: 'organise/during/volunteers.md'
       - Mentors: 'organise/during/mentors.md'
@@ -38,6 +38,7 @@ nav:
       - Judging: 'organise/during/judging.md'
     - After The Event:
       - Photography: 'organise/after/photography.md'
+      - Debrief: 'organise/after/debrief.md'
     - Help From The Community: 
         - Community: 'organise/help/community.md'
         - Hackathon Contacts: 'organise/help/poi.md'

@@ -8,8 +8,14 @@ There are 3 ways for your hackers to demo their hacks at the end of the hackatho
 
 ## Science Fair
 
+TODO: 
+
+- Devpost to create table numbers
+- Volunteers to set up tables while hackers have lunch
+
 ## Presentations
 
+-
 
 Talk to [Will](https://twitter.com/wrussell1999) for help planning presentations and how he can help you during your event!
 
