@@ -139,7 +139,7 @@ Contact us on any of our social medias [@HackTheMidlands](https://twitter.com/ha
 * [Jon Kingsley](https://twitter.com/JFKingsley)
 * [Justin Chadwell](https://twitter.com/jedevc)
 * [Lik Kan Chung](https://twitter.com/LikkanChung)
-* [Daniel Spencer](mailto:danielfspencer@gmail.com) 
+* [Daniel Spencer](mailto:danielfspencer1@gmail.com) 
 * Fraser Wade
 * [Hugh Wells](https://twitter.com/crablabuk)
 
