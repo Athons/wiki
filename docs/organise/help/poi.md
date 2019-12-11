@@ -133,9 +133,9 @@ Contact us on any of our social medias, or indivuduals below:
 
 * [Tom Goodman](https://twitter.com/TauOmicronMu)
 * [Liam Sorta](https://twitter.com/LiamSorta)
-* [Helena Bower](mailto:helena_bower@hotmail.com)
+* [Helena Bower](https:/ twitter.com/bowerhe)
 * [Will Russell](https://twitter.com/wrussell1999)
-* [Charlie de Freitas](mailto:charlie@hackthemidlands.com)
+* [Charlie de Freitas](https://twitter.com/chasbob97)
 * [Jon Kingsley](https://twitter.com/JFKingsley)
 * [Justin Chadwell](https://twitter.com/jedevc)
 * [Lik Kan Chung](https://twitter.com/LikkanChung)
