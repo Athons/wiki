@@ -126,3 +126,30 @@ Updated 2020 Season
 * Kevin Wong
 
 Will be updated for 2021 Season
+
+## HackTheMidlands
+
+Contact us on any of our social medias, or indivuduals below:
+
+* [Tom Goodman](https://twitter.com/TauOmicronMu)
+* [Liam Sorta](https://twitter.com/LiamSorta)
+* [Helena Bower](mailto:helena_bower@hotmail.com)
+* [Will Russell](https://twitter.com/wrussell1999)
+* [Charlie de Freitas](mailto:charlie@hackthemidlands.com)
+* [Jon Kingsley](https://twitter.com/JFKingsley)
+* [Justin Chadwell](https://twitter.com/jedevc)
+* [Lik Kan Chung](https://twitter.com/LikkanChung)
+* [Daniel Spencer](mailto:danielfspencer@gmail.com) 
+* Fraser Wade
+* [Hugh Wells](https://twitter.com/crablabuk)
+
+2019 Team. Will be updated to 2020.
+
+## Hackathons for Schools Association
+
+Contact us at [contact@hackathonsforschools.com](mailto:contact@hackathonsforschools.com)
+
+* [Will Russell](mailto:will@hackathonsforschools.com)
+* Jacob Wilson
+* Lauren Alie
+* Daniel Spencer
