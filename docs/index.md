@@ -48,7 +48,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 ## Autumn 2020
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
+| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | Autumn 2020 |
 | DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | 425 | 14th-15th November 2020 |
 | HackNotts 2020  | [hacknotts.com](https://www.hacknotts.com) | University of Nottingham | 200 | 28th-29th November 2020 |
 
@@ -63,13 +63,13 @@ This list showcases past UK student-run hackathons (most recent first).
 |-----------------|-------|--------------------|--------------|----|
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 200 | 23rd-24th November 2019 |
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
-| Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | Oxford University | 300 | 16th-17th November 2019 |
+| Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | University of Oxford | 300 | 16th-17th November 2019 |
 | GreatUniHack 2019 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 16th-17th November 2019 |
 | HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 100 | 9th-10th November 2019 |
 | hackSheffield 5 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 2nd-3rd November 2019 |
 | AstonHack 2019 | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 175 | 2nd-3rd November 2019 |
 | HackTheMidlands 4.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
-| HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University STEM Centre | 100 | 26th-27th October 2019 |
+| HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University | 100 | 26th-27th October 2019 |
 | HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | Nottingham University | 25 | 5th October 2019 |
 
 ## Spring 2019
@@ -80,7 +80,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | CovHack 19   | [covhack.org](https://covhack.org) | Coventry University | 110 | 16th-17th March 2019 |
 | R. U. Hacking? 2019   | [ruhacking.me](https://ruhacking.me) | University of Reading | 150 | 16th-17th February 2019 |
 | HackSurrey Mk2 | [mk2.hacksurrey.uk](https://mk2.hacksurrey.uk) | University of Surrey | 150 | 9th-10th February 2019 |
-| Royal Hackaway 2019 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
+| Royal Hackaway v2 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
 | IC Hack 19 | [ichack.org](https://ichack.org) | Imperial College London | 400 | 26th-27th January 2019 |
 | ManMetHacks | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 26th-27th January 2019 |
 
