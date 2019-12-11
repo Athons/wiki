@@ -6,6 +6,8 @@ Before hackers arrive, it's best to brief your mentors on the tools they should 
 
 If possible, get your mentors to introduce themselves in your opening ceremony.
 
+Lastly, remember to show appreciation to your mentors! 
+
 ## Slack / Discord Channel
 
 Creating a channel in your hackathons Slack Workspace / Discord Server is the easiest way for hackers to contact mentors. Some hackers, especially new hackers, may feel intimidated to ask for help in a public channel, which defeats the point. Sometimes hackers may private message mentors, but they may only do this if mentors say they can if they don't want to use the channel.
