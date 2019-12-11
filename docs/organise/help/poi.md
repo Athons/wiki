@@ -129,11 +129,11 @@ Will be updated for 2021 Season
 
 ## HackTheMidlands
 
-Contact us on any of our social medias, or indivuduals below:
+Contact us on any of our social medias [@HackTheMidlands](https://twitter.com/hackthemidlands), or indivuduals below:
 
 * [Tom Goodman](https://twitter.com/TauOmicronMu)
 * [Liam Sorta](https://twitter.com/LiamSorta)
-* [Helena Bower](https:/ twitter.com/bowerhe)
+* [Helena Bower](https://twitter.com/bowerhe)
 * [Will Russell](https://twitter.com/wrussell1999)
 * [Charlie de Freitas](https://twitter.com/chasbob97)
 * [Jon Kingsley](https://twitter.com/JFKingsley)
