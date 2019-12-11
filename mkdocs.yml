@@ -27,11 +27,15 @@ nav:
       - Stash and Swag: 'organise/before/stashandswag.md'
       - Tech: 'organise/before/tech.md'
       - Health and Safety: 'organise/before/has.md'
-      - Opening and Closing Ceremonies: 'organise/av.md'
+      - Opening and Closing Ceremonies: 'organise/before/av.md'
       - Side Events: 'organise/sideevents.md'
     - During The Event:
       - Volunteers: 'organise/during/volunteers.md'
       - Mentors: 'organise/during/mentors.md'
+      - Food: 'organise/during/food.md'
+      - Submissions: 'organise/during/submissions.md'
+      - Demos: 'organise/during/demos.md'
+      - Judging: 'organise/during/judging.md'
     - After The Event:
       - Photography: 'organise/after/photography.md'
     - Help From The Community: 
