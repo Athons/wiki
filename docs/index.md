@@ -24,8 +24,10 @@ Feel free to send Pull Requests to update the content!
 Site is built with [mkdocs](https://www.mkdocs.org) with the
 [Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
 
-# Events
+# Upcoming Events
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
+
+## Spring 2020
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
@@ -41,6 +43,10 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 | 
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  March 2020 |
 | DurHack:NextGen   | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
+
+## Autumn 2020
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
 | HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | TBC | Autumn 2020 |
 | DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | 425 | 14th-15th November 2020 |
 | HackNotts 2020  | [hacknotts.com](https://www.hacknotts.com) | University of Nottingham | 200 | 28th-29th November 2020 |
@@ -50,7 +56,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 # Past Events
 This list showcases past UK student-run hackathons (most recent first).
 
-2020 Season
+## Autumn 2019
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
@@ -65,7 +71,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University STEM Centre | 100 | 26th-27th October 2019 |
 | HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | Nottingham University | 25 | 5th October 2019 |
 
-2019 Season
+## Spring 2019
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
@@ -76,6 +82,11 @@ This list showcases past UK student-run hackathons (most recent first).
 | Royal Hackaway 2019 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
 | IC Hack 19 | [ichack.org](https://ichack.org) | Imperial College London | 400 | 26th-27th January 2019 |
 | ManMetHacks | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 26th-27th January 2019 |
+
+## Autumn 2018
+
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
 | HackKings v5.0 | [hackkings.org](https://hackkings.org) | King's College London | 200 | 8th-9th December 2018 |
 | HackNotts 2018  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 25th-26th November 2018 |
 | DurHack 2018   | [durhack.com](https://durhack.com) | Durham University | 150 | 17th-18th November 2018 |
@@ -85,7 +96,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
 | hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
 
-2018 Season
+## Spring 2018
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
@@ -101,7 +112,12 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackCity 2018 | N/A | City, University of London | 100 | 17th-18th February 2018 |
 | IC Hack 18 | [ichack.org](https://ichack.org) | Imperial College London | 250 | 27th-28th January 2018 |
 | Global Game Jam @ Goldsmiths | N/A | Goldsmiths, University of London | 100 | 26th-27th January 2018 |
-| DurHack | [durhack.com](http://durhack.com) | Durham University | 100 | 9th-10th December 2017 |
+
+## Autumn 2017
+
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
+| DurHack 2017 | [durhack.com](http://durhack.com) | Durham University | 100 | 9th-10th December 2017 |
 | Sex Tech Hack II | [sexhack.tech](https://sexhack.tech) | Goldsmiths, University of London | 100 | 25th-26th November 2017 | 
 | HackKings 4.0 | [hackkings.org](https://hackkings.org) | King's College London | 200 | 25th-26th November 2017 |
 | Hatch UCL | N/A | University College London | 100 | 25th-26th November 2017 |
