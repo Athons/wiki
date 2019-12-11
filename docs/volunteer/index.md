@@ -13,4 +13,4 @@ Amazing hacks wouldn't happen without amazing support! Hackathons are always loo
 
 Some events have a mentoring system, where hackers can submit their problems, whilst others use Slack or Discord channels as a space for people to communicate.
 
-TODO: FINISH THIS
+If you're interested in helping hackers get the best experience, get in contact with the hackathon organisers and they will let you know more information about their mentoring system!
