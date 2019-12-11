@@ -4,6 +4,6 @@ Thinking about getting one? [Check here for more info](providers.md)
 
 Please share it as a vector (SVG, EPS, etc)!
 <script>
-document.getElementById('stickerframe').contentWindow.location.reload();
+function resizeIframe(obj) {obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';}
 </script>
-<iframe src="/art/hexbin/stickers.html" frameborder="0" id="stickerframe" scrolling="no" style="border: none; width: 100%; height: 1550px;"></iframe>
+<iframe src="/art/hexbin/stickers.html" frameborder="0" id="stickerframe" scrolling="no" style="border: none; width: 100%" onload="resizeIframe(this)"></iframe>
