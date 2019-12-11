@@ -2,6 +2,8 @@
 
 Mentors can really help hackers make really cool projects at your hackathon. However, it's important to easily connect your hackers to your mentors.
 
+Before the hackathon, you should send them an event pack that explains how mentoring is going to work at the hackathon, so they can get signed up to any platform before the hackathon.
+
 Before hackers arrive, it's best to brief your mentors on the tools they should use to communicate with the hackers, and how to best approach it. 
 
 If possible, get your mentors to introduce themselves in your opening ceremony.
