@@ -1,9 +1,33 @@
 [
   {
+    "raster": "hexagons/201617/anvil_hack_2017.png",
+    "name": "anvil_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/anvil_hack_2017.json"
+  },
+  {
     "name": "AstonHackDemo15",
     "raster": "hexagons/aston_hack_demo_2015.png",
     "description": "I demoed sticker for Aston Hack 2015",
     "filename": "meta/aston_hack_demo_2015.json"
+  },
+  {
+    "raster": "hexagons/201617/aston_hacks_2016.png",
+    "name": "aston_hacks_2016",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/aston_hacks_2016.json"
+  },
+  {
+    "raster": "hexagons/201718/aston_hacks.png",
+    "name": "aston_hacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/aston_hacks201718.json"
+  },
+  {
+    "raster": "hexagons/201819/aston_hacks.png",
+    "name": "aston_hacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/aston_hacks201819.json"
   },
   {
     "name": "BathHackDemo15",
@@ -12,10 +36,28 @@
     "filename": "meta/bath_hack_demo_2015.json"
   },
   {
+    "raster": "hexagons/201617/brum_hack 2017.png",
+    "name": "brum_hack 2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/brum_hack 2017.json"
+  },
+  {
+    "raster": "hexagons/201617/brum_hack_2016.png",
+    "name": "brum_hack_2016",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/brum_hack_2016.json"
+  },
+  {
     "name": "BrumHackDemo16",
     "raster": "hexagons/brum_hack_demo_2016.png",
     "description": "I demoed sticker for Brum Hack 2016",
     "filename": "meta/brum_hack_demo_2016.json"
+  },
+  {
+    "raster": "hexagons/201718/brum_hack.png",
+    "name": "brum_hack",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/brum_hack201718.json"
   },
   {
     "name": "Colin",
@@ -43,10 +85,40 @@
     "filename": "meta/covhack20.json"
   },
   {
+    "raster": "hexagons/201617/cucc_hack_2017.png",
+    "name": "cucc_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/cucc_hack_2017.json"
+  },
+  {
     "name": "DU CompSoc 2019",
     "raster": "hexagons/ducompsoc2019.png",
     "description": "Durham University Computing Society Hex sticker",
     "filename": "meta/ducompsoc2019.json"
+  },
+  {
+    "raster": "hexagons/201617/dur_hack_2017.png",
+    "name": "dur_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/dur_hack_2017.json"
+  },
+  {
+    "raster": "hexagons/201920/durhack (1).png",
+    "name": "durhack (1)",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/durhack (1).json"
+  },
+  {
+    "raster": "hexagons/201718/durhack.png",
+    "name": "durhack",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/durhack201718.json"
+  },
+  {
+    "raster": "hexagons/201819/durhack.png",
+    "name": "durhack",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/durhack201819.json"
   },
   {
     "name": "DurHack 2019",
@@ -75,10 +147,70 @@
     "filename": "meta/durhackdino.json"
   },
   {
+    "raster": "hexagons/201617/ex_hack_2017.png",
+    "name": "ex_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/ex_hack_2017.json"
+  },
+  {
+    "raster": "hexagons/201718/exihack.png",
+    "name": "exihack",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/exihack201718.json"
+  },
+  {
+    "raster": "hexagons/201718/eximpact.png",
+    "name": "eximpact",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/eximpact201718.json"
+  },
+  {
+    "raster": "hexagons/201819/eximpact.png",
+    "name": "eximpact",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/eximpact201819.json"
+  },
+  {
+    "raster": "hexagons/201617/great_uni_hack_2016.png",
+    "name": "great_uni_hack_2016",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/great_uni_hack_2016.json"
+  },
+  {
+    "raster": "hexagons/201718/great_uni_hack.png",
+    "name": "great_uni_hack",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/great_uni_hack201718.json"
+  },
+  {
+    "raster": "hexagons/201617/guts.png",
+    "name": "guts",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/guts.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_brookes.png",
+    "name": "hack_brookes",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_brookes.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_burg_2017.png",
+    "name": "hack_burg_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_burg_2017.json"
+  },
+  {
     "name": "HackBurghDemo16",
     "raster": "hexagons/hack_burgh_demo_2016.png",
     "description": "I demoed sticker for  Hack the Burgh 2016",
     "filename": "meta/hack_burgh_demo_2016.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_cambridge_2017.png",
+    "name": "hack_cambridge_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_cambridge_2017.json"
   },
   {
     "name": "HackCambridgeDemo16",
@@ -87,10 +219,64 @@
     "filename": "meta/hack_cambridge_demo_2016.json"
   },
   {
+    "raster": "hexagons/201718/hack_cambridge.png",
+    "name": "hack_cambridge",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_cambridge201718.json"
+  },
+  {
+    "raster": "hexagons/201819/hack_cambridge.png",
+    "name": "hack_cambridge",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_cambridge201819.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_city.png",
+    "name": "hack_city",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_city.json"
+  },
+  {
+    "raster": "hexagons/201718/hack_city.png",
+    "name": "hack_city",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_city201718.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_essex.png",
+    "name": "hack_essex",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_essex.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_holidays.png",
+    "name": "hack_holidays",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_holidays.json"
+  },
+  {
     "name": "HackKingsDemo15",
     "raster": "hexagons/hack_kings_demo_2015.png",
     "description": "I demoed sticker for Hack Kings 2015",
     "filename": "meta/hack_kings_demo_2015.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_kings.png",
+    "name": "hack_kings",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_kings.json"
+  },
+  {
+    "raster": "hexagons/201819/hack_kings.png",
+    "name": "hack_kings",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_kings201819.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_london_2017.png",
+    "name": "hack_london_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_london_2017.json"
   },
   {
     "name": "HackLondonDemo16",
@@ -99,10 +285,40 @@
     "filename": "meta/hack_london_demo_2016.json"
   },
   {
+    "raster": "hexagons/201617/hack_med.png",
+    "name": "hack_med",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_med.json"
+  },
+  {
+    "raster": "hexagons/201819/hack_med.png",
+    "name": "hack_med",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_med201819.json"
+  },
+  {
+    "raster": "hexagons/201718/hack_notss.png",
+    "name": "hack_notss",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_notss201718.json"
+  },
+  {
     "name": "HackNottsDemo15",
     "raster": "hexagons/hack_notts_demo_2015.png",
     "description": "I demoed sticker for HackNotts 2015",
     "filename": "meta/hack_notts_demo_2015.json"
+  },
+  {
+    "raster": "hexagons/201617/hack_notts.png",
+    "name": "hack_notts",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_notts.json"
+  },
+  {
+    "raster": "hexagons/201819/hack_notts.png",
+    "name": "hack_notts",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_notts201819.json"
   },
   {
     "name": "HackSheffieldDemo16",
@@ -111,10 +327,28 @@
     "filename": "meta/hack_sheffield_demo_2016.json"
   },
   {
+    "raster": "hexagons/201617/hack_sheffield.png",
+    "name": "hack_sheffield",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_sheffield.json"
+  },
+  {
+    "raster": "hexagons/201718/hack_sheffield.png",
+    "name": "hack_sheffield",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_sheffield201718.json"
+  },
+  {
     "name": "HackSussexDemo16",
     "raster": "hexagons/hack_sussex_demo_2016.png",
     "description": "I demoed sticker for  Hack Sussex 2016",
     "filename": "meta/hack_sussex_demo_2016.json"
+  },
+  {
+    "raster": "hexagons/201718/hack_sussex.png",
+    "name": "hack_sussex",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hack_sussex201718.json"
   },
   {
     "name": "hack.athon.uk",
@@ -123,10 +357,34 @@
     "filename": "meta/hack.athon.uk.json"
   },
   {
+    "raster": "hexagons/201819/Hackaburg.png",
+    "name": "Hackaburg",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/Hackaburg201819.json"
+  },
+  {
     "name": "Hackathons for Schools Association",
     "raster": "hexagons/hackathonsforschools.png",
     "description": "Hackathons for Schools Association Sticker",
     "filename": "meta/hackathonsforschools.json"
+  },
+  {
+    "raster": "hexagons/201920/hackNotts.png",
+    "name": "hackNotts",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/hackNotts.json"
+  },
+  {
+    "raster": "hexagons/201920/hacksheffield.png",
+    "name": "hacksheffield",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/hacksheffield.json"
+  },
+  {
+    "raster": "hexagons/201819/hacktheburgh.png",
+    "name": "hacktheburgh",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/hacktheburgh201819.json"
   },
   {
     "name": "HackTheMidlands 4.0",
@@ -141,16 +399,82 @@
     "filename": "meta/ic_hack_demo_2016.json"
   },
   {
+    "raster": "hexagons/201819/manmethacks.png",
+    "name": "manmethacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/manmethacks201819.json"
+  },
+  {
     "name": "NUCATSHackDemo16",
     "raster": "hexagons/nucats_demo_2016.png",
     "description": "I demoed sticker for  NUCATS 2016",
     "filename": "meta/nucats_demo_2016.json"
   },
   {
+    "raster": "hexagons/201617/oxford_hacks.png",
+    "name": "oxford_hacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/oxford_hacks.json"
+  },
+  {
+    "raster": "hexagons/201920/oxford-hacks.png",
+    "name": "oxford-hacks",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/oxford-hacks.json"
+  },
+  {
+    "raster": "hexagons/201617/porticode.png",
+    "name": "porticode",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/porticode.json"
+  },
+  {
+    "raster": "hexagons/201718/porticode.png",
+    "name": "porticode",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/porticode201718.json"
+  },
+  {
+    "raster": "hexagons/201617/rgu_hacks_2017.png",
+    "name": "rgu_hacks_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/rgu_hacks_2017.json"
+  },
+  {
     "name": "RGUHackDemo16",
     "raster": "hexagons/rgu_hacks_demo_2016.png",
     "description": "I demoed sticker for  RGU Hacks 2016",
     "filename": "meta/rgu_hacks_demo_2016.json"
+  },
+  {
+    "raster": "hexagons/201718/royal_hackaway (1).png",
+    "name": "royal_hackaway (1)",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/royal_hackaway (1)201718.json"
+  },
+  {
+    "raster": "hexagons/201819/royal_hackaway (1).png",
+    "name": "royal_hackaway (1)",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/royal_hackaway (1)201819.json"
+  },
+  {
+    "raster": "hexagons/201819/RU Hacks.png",
+    "name": "RU Hacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/RU Hacks201819.json"
+  },
+  {
+    "raster": "hexagons/201617/ru_hacking.png",
+    "name": "ru_hacking",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/ru_hacking.json"
+  },
+  {
+    "raster": "hexagons/201617/soton_hacks_2017.png",
+    "name": "soton_hacks_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/soton_hacks_2017.json"
   },
   {
     "name": "StacHackDemo16",
@@ -171,10 +495,28 @@
     "filename": "meta/strath_hack_demo_2016.json"
   },
   {
+    "raster": "hexagons/201617/student_hack_2017.png",
+    "name": "student_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/student_hack_2017.json"
+  },
+  {
     "name": "StundetHackDemo16",
     "raster": "hexagons/student_hack_demo_2016.png",
     "description": "I demoed sticker for  Student Hack 2016",
     "filename": "meta/student_hack_demo_2016.json"
+  },
+  {
+    "raster": "hexagons/201617/suss_hacks.png",
+    "name": "suss_hacks",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/suss_hacks.json"
+  },
+  {
+    "raster": "hexagons/201617/warwick_hack_2017.png",
+    "name": "warwick_hack_2017",
+    "description": "2017 season I demoed sticker",
+    "filename": "meta/warwick_hack_2017.json"
   },
   {
     "name": "WarwickHacksDemo16",
