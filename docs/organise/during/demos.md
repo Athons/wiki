@@ -18,7 +18,7 @@ Set your tables up so it's easy to navigate between them, so judges and hackers 
 
 Presentations are a great way for hackers fo improve their public speaking, as well as have an opportunity to present their ideas in front of an audience. However presentations can take a while, especially with larger hackathons.
 
-Devpost can generate a running order, by looking at the list of submissions. Have somebody in charge of this list, who cna call down the next team as another is about to pressnt. Someone else can help the current team get their project connected to the projector.
+Devpost can generate a running order, by looking at the list of submissions. Have somebody in charge of this list, who can call down the next team as another is about to present. Someone else can help the current team get their project connected to the projector.
 
 Key things to note:
 
@@ -28,7 +28,7 @@ Key things to note:
 * Hardware hacks will require a camera or visualiser
 * Some teams will want to display 2 different laptops and switch between them
 * Using a microphone can help project the speakers
-* Having a timer visable to the speakers is helpful for keeping on time. 2-3 minuted is a good benchmark
+* Having a timer visible to the speakers is helpful for keeping on time. 2-3 minuted is a good benchmark
 * When teams run out of time, organisers should start clapping, which should get the rest of the room clapping
 
 Talk to [Will](https://twitter.com/wrussell1999) for help planning presentations, and how he can come and help you during your event with some additional equipment!
