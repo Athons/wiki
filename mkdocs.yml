@@ -60,5 +60,16 @@ theme:
   feature:
     tabs: true
 
+extra:
+  social:
+    - type: globe
+      link: https://hackathonhackers.eu
+    - type: facebook
+      link: https://www.facebook.com/groups/hackathonhackerseu/
+    - type: twitter
+      link: https://twitter.com/_HHEU
+    - type: github-alt
+      link: https://github.com/hheu
+
 extra_css: 
   - static/css/home.css
