@@ -35,7 +35,7 @@ nav:
       - Food: 'organise/during/food.md'
       - Submissions: 'organise/during/submissions.md'
       - Demos: 'organise/during/demos.md'
-      - Judging: 'organise/during/judging.md'
+      #- Judging: 'organise/during/judging.md'
     - After The Event:
       - Photography: 'organise/after/photography.md'
       - Debrief: 'organise/after/debrief.md'
@@ -57,3 +57,6 @@ theme:
     accent: 'pink'
   logo:
     icon: computer
+
+extra_css: 
+  - static/css/home.css

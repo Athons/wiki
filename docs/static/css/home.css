@@ -1,0 +1,19 @@
+.menu {
+    margin: 16px;
+    align-items: center;
+}
+
+.button {
+    font-size: xx-large;
+    font-weight: 800;
+    color: white;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 10px;
+    background-color: #E81E62;
+    
+}
+
+span {
+    color: white;
+}
