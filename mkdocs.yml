@@ -1,13 +1,15 @@
 site_name: UK Hackathons
 
 nav:
-  - Home: 'index.md'
-  - Events:
-    - Index: 'events/index.md'
-    - Family Tree: 'events/familytree.md'
-    - HackSoc Lists:
-      - Twitter: 'events/lists/twitter.md'
-      - GitHub: 'events/lists/github.md'
+  - Community:
+    - Index: 'index.md'
+    - Art: 'art/index.md'
+    - Events:
+      - Index: 'events/index.md'
+      - Family Tree: 'events/familytree.md'
+      - HackSoc Lists:
+        - Twitter: 'events/lists/twitter.md'
+        - GitHub: 'events/lists/github.md'
   - Attend:
     - First Time: 'attend/firsttime.md'
     - What to Bring: 'attend/bring.md'
@@ -45,9 +47,7 @@ nav:
         - Talking to Other Organisers: 'organise/help/communication.md'
         - Share Equipment: 'organise/help/share.md'
   - Sponsor: 'sponsor/index.md'
-  - Volunteer: 'volunteer/index.md'
-  - Art: 'art/index.md'
-
+  - Help: 'volunteer/index.md'
 
 
 theme:
@@ -57,6 +57,8 @@ theme:
     accent: 'pink'
   logo:
     icon: computer
+  feature:
+    tabs: true
 
 extra_css: 
   - static/css/home.css

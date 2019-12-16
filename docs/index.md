@@ -1,7 +1,7 @@
 <img src="/static/logo.svg" width="50%">
 
 <div class="menu">
-  <a class="button" href="./attend/fisttime"><span>Attend</span></a>
+  <a class="button" href="./attend/firsttime"><span>Attend</span></a>
   <a class="button" href="./organise/before/gettingstarted"><span>Organise</span></a>
   <a class="button" href="./sponsor"><span>Sponsor</span></a>
   <a class="button" href="./volunteer"><span>Volunteer</span></a>
