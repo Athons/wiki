@@ -2,6 +2,13 @@
 
 ## CovHack
 
+* President / Lead Organiser: [James Vickery](https://twitter.com/jmsve)
+* Vice President: [Maria Aveiro](https://github.com/aveirinha)
+* Treasurer: [Jonny Marsh](https://github.com/j-m)
+* Inclusion Officer: [Tom Atkins](https://twitter.com/hackT0m)
+* Social Sec: [Mol Ratcliffe](https://twitter.com/firatcliffe)
+* Technical Lead / Former President: [Bear](https://twitter.com/baahorn)
+
 [Generic](mailto:hello@covhack.org)
 
 Updated 2020 Season
