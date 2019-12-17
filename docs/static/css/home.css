@@ -12,7 +12,7 @@
     color: white;
     padding: 8px 16px;
     border-radius: 3px;
-    background-color: #E81E62;
+    background-color: var(--color-primary);
 }
 
 span {

@@ -72,4 +72,5 @@ extra:
       link: https://github.com/hheu
 
 extra_css: 
+  - static/css/theme.css
   - static/css/home.css
