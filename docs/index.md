@@ -81,6 +81,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | CovHack 19   | [covhack.org](https://covhack.org) | Coventry University | 110 | 16th-17th March 2019 |
 | R. U. Hacking? 2019   | [ruhacking.me](https://ruhacking.me) | University of Reading | 150 | 16th-17th February 2019 |
 | HackSurrey Mk2 | [mk2.hacksurrey.uk](https://mk2.hacksurrey.uk) | University of Surrey | 150 | 9th-10th February 2019 |
+| Hack The South | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | 150 | 9th-10th February 2019 |
 | Royal Hackaway v2 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
 | IC Hack 19 | [ichack.org](https://ichack.org) | Imperial College London | 400 | 26th-27th January 2019 |
 | ManMetHacks | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 26th-27th January 2019 |
