@@ -1,17 +1,18 @@
 .menu {
-    margin: 16px;
-    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.menu > * {
+    margin: 0 8px 8px 0;
 }
 
 .button {
-    font-size: xx-large;
-    font-weight: 800;
     color: white;
-    padding: 16px;
-    margin: 8px;
-    border-radius: 10px;
+    padding: 8px 16px;
+    border-radius: 3px;
     background-color: #E81E62;
-    
 }
 
 span {
