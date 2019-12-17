@@ -61,7 +61,7 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| HackKing's 6.0.  | [https://hackkings.org/](https://hackkings.org/) | Kings College London | 150 | 30th November - 1st December |
+| HackKing's 6.0  | [hackkings.org](https://hackkings.org/) | Kings College London | 150 | 30th November - 1st December |
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 200 | 23rd-24th November 2019 |
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
 | Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | University of Oxford | 300 | 16th-17th November 2019 |
