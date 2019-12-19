@@ -1,5 +1,5 @@
 site_name: UK Hackathons
-site_url: https://hack.athon.uk/
+site_url: /
 
 nav:
   - Community:
@@ -43,10 +43,10 @@ nav:
       - Photography: 'organise/after/photography.md'
       - Debrief: 'organise/after/debrief.md'
     - Help From The Community: 
-        - Community: 'organise/help/community.md'
-        - Hackathon Contacts: 'organise/help/poi.md'
-        - Talking to Other Organisers: 'organise/help/communication.md'
-        - Share Equipment: 'organise/help/share.md'
+      # - Community: 'organise/help/community.md'
+      - Hackathon Contacts: 'organise/help/poi.md'
+      - Talking to Other Organisers: 'organise/help/communication.md'
+      - Share Equipment: 'organise/help/share.md'
   - Sponsor: 'sponsor/index.md'
   - Help: 'volunteer/index.md'
 
