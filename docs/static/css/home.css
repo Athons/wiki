@@ -1,0 +1,20 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.menu > * {
+    margin: 0 8px 8px 0;
+}
+
+.button {
+    color: white;
+    padding: 8px 16px;
+    border-radius: 3px;
+    background-color: var(--color-primary);
+}
+
+span {
+    color: white;
+}

@@ -2,6 +2,13 @@
 
 ## CovHack
 
+* President / Lead Organiser: [James Vickery](https://twitter.com/jmsve)
+* Vice President: [Maria Aveiro](https://github.com/aveirinha)
+* Treasurer: [Jonny Marsh](https://github.com/j-m)
+* Inclusion Officer: [Tom Atkins](https://twitter.com/hackT0m)
+* Social Sec: [Mol Ratcliffe](https://twitter.com/firatcliffe)
+* Technical Lead / Former President: [Bear](https://twitter.com/baahorn)
+
 [Generic](mailto:hello@covhack.org)
 
 Updated 2020 Season
@@ -126,3 +133,30 @@ Updated 2020 Season
 * Kevin Wong
 
 Will be updated for 2021 Season
+
+## HackTheMidlands
+
+Contact us on any of our social medias [@HackTheMidlands](https://twitter.com/hackthemidlands), or indivuduals below:
+
+* [Tom Goodman](https://twitter.com/TauOmicronMu)
+* [Liam Sorta](https://twitter.com/LiamSorta)
+* [Helena Bower](https://twitter.com/bowerhe)
+* [Will Russell](https://twitter.com/wrussell1999)
+* [Charlie de Freitas](https://twitter.com/chasbob97)
+* [Jon Kingsley](https://twitter.com/JFKingsley)
+* [Justin Chadwell](https://twitter.com/jedevc)
+* [Lik Kan Chung](https://twitter.com/LikkanChung)
+* [Daniel Spencer](mailto:danielfspencer1@gmail.com) 
+* Fraser Wade
+* [Hugh Wells](https://twitter.com/crablabuk)
+
+2019 Team. Will be updated to 2020.
+
+## Hackathons for Schools Association
+
+Contact us at [contact@hackathonsforschools.com](mailto:contact@hackathonsforschools.com)
+
+* [Will Russell](mailto:will@hackathonsforschools.com)
+* Jacob Wilson
+* Lauren Alie
+* Daniel Spencer

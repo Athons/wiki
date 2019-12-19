@@ -1,38 +1,53 @@
 site_name: UK Hackathons
 
 nav:
-  - Home: 'index.md'
-  - Attending:
-    - First time: 'attending/firsttime.md'
-    - What to Bring: 'attending/bring.md'
-    - What to make: 'attending/projects.md'
-    - Judging: 'attending/judging.md'
-    - Workshops: 'attending/workshops.md'
-    - Transport: 'attending/transport.md' 
-  - Events:
-    - Index: 'events/index.md'
-    - Family Tree: 'events/familytree.md'
+  - Community:
+    - Index: 'index.md'
+    - Art: 'art/index.md'
+    - Events:
+      - Index: 'events/index.md'
+      - Family Tree: 'events/familytree.md'
+      - HackSoc Lists:
+        - Twitter: 'events/lists/twitter.md'
+        - GitHub: 'events/lists/github.md'
+  - Attend:
+    - First Time: 'attend/firsttime.md'
+    - What to Bring: 'attend/bring.md'
+    - What to Make: 'attend/projects.md'
+    - Judging: 'attend/judging.md'
+    - Transport: 'attend/transport.md' 
+    - Workshops:
+      - Getting Started: 'attend/workshops.md'
+      - Intro to Git: 'attend/workshops/introtogit.md'
   - Organise:
-    - Getting Started: 'organise/gettingstarted.md'
-    - Talking to Other Organisers: 'organise/communication.md'
-    - Finances: 'organise/finance.md'
-    - Sponsorship: 'organise/sponsorship.md'
-    - Catering: 'organise/catering.md'
-    - Venue: 'organise/venue.md'
-    - Tech: 'organise/tech.md'
-    - Health And Safety: 'organise/has.md'
-    - Opening and Closing Ceremonies: 'organise/av.md'
-    - Side Events: 'organise/sideevents.md'
-    - Share Equipment: 'organise/share.md'
-    - Stash and Swag: 'organise/stashandswag.md'
-    - Hackathon Contacts: 'organise/POI.md'
+    - Before The Event:
+      - Getting Started: 'organise/before/gettingstarted.md'
+      - Sponsorship: 'organise/before/sponsorship.md'
+      - Finances: 'organise/before/finance.md'
+      - Venue: 'organise/before/venue.md'
+      - Catering: 'organise/before/catering.md'
+      - Health and Safety: 'organise/before/health_and_safety.md'
+      - Tech: 'organise/before/tech.md'
+      - Opening and Closing Ceremonies: 'organise/before/av.md'
+      - Stash and Swag: 'organise/before/stash_and_swag.md'
+      - Side Events: 'organise/before/side_events.md'
+    - During The Event:
+      - Volunteers: 'organise/during/volunteers.md'
+      - Mentors: 'organise/during/mentors.md'
+      - Food: 'organise/during/food.md'
+      - Submissions: 'organise/during/submissions.md'
+      - Demos: 'organise/during/demos.md'
+      #- Judging: 'organise/during/judging.md'
+    - After The Event:
+      - Photography: 'organise/after/photography.md'
+      - Debrief: 'organise/after/debrief.md'
+    - Help From The Community: 
+      # - Community: 'organise/help/community.md'
+      - Hackathon Contacts: 'organise/help/poi.md'
+      - Talking to Other Organisers: 'organise/help/communication.md'
+      - Share Equipment: 'organise/help/share.md'
   - Sponsor: 'sponsor/index.md'
-  - Volunteer: 'volunteer/index.md'
-  - HackSoc Lists:
-    - Twitter: 'lists/twitter.md'
-    - Github: 'lists/github.md'
-  - Art: 'art/index.md'
-
+  - Help: 'volunteer/index.md'
 
 
 theme:
@@ -42,3 +57,20 @@ theme:
     accent: 'pink'
   logo:
     icon: computer
+  feature:
+    tabs: true
+
+extra:
+  social:
+    - type: globe
+      link: https://hackathonhackers.eu
+    - type: facebook
+      link: https://www.facebook.com/groups/hackathonhackerseu/
+    - type: twitter
+      link: https://twitter.com/_HHEU
+    - type: github-alt
+      link: https://github.com/hheu
+
+extra_css: 
+  - static/css/theme.css
+  - static/css/home.css

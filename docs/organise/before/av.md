@@ -8,14 +8,14 @@ This normally works well inside a lecture theatre that has enough seating for yo
 
 A general structure:
 
-* Welcome to the hackathon.
-* Event schedule.
+* Welcome to the hackathon
+* Event schedule
 * Things going on at the hackathon.
-* Safety information (fire alarm, etc).
-* Mentors.
-* Devpost.
-* Sponsors.
-* Challenges.
+* Safety information (fire alarm, etc)
+* Mentors
+* Devpost
+* Sponsors
+* Challenges
 
 ## Presentations
 
@@ -23,17 +23,17 @@ Your hackathon may have presentations for all attendees, or just the finalist. M
 
 Some of the things people might want for their presentation:
 
-* Audio out of their laptop.
-* Video from 2 laptops.
-* Camera feed on a hardware hack.
+* Audio out of their laptop
+* Video from 2 laptops
+* Camera feed on a hardware hack
 
 ## Closing Ceremony
 
 General structure:
 
-* Prizes.
-* Thank yous to the sponsors.
-* Final thank you.
+* Prizes
+* Thank yous to the sponsors
+* Final thank you
 
 ## Add a professional touch to your AV
 
@@ -42,9 +42,9 @@ On top of that, he can also help with your ceremonies and presentations, adding 
 
 Hackathons he has worked with:
 
-* HackTheMidlands 4.0 as AV Lead.
-* OxfordHack 2019 by providing the dongle box and running the presentations.
-* DurHack 2019 by running the opening and closing ceremonies, as well as providing the dongle box.
+* HackTheMidlands 4.0 as AV Lead
+* OxfordHack 2019 by providing the dongle box and running the presentations
+* DurHack 2019 by running the opening and closing ceremonies, as well as providing the dongle box
 
 Contact Will by [email](mailto:will@will-russell.com) or on [Twitter](https://twitter.com/wrussell1999) to see how he can help.
 

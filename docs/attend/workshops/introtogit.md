@@ -1,6 +1,6 @@
 # Introduction to Git
 
-Here we will explain how to get started with Git so that you can work colaboratively on code at the hackathon.
+Here we will explain how to get started with Git so that you can work collaboratively on code at the hackathon.
 
 ## What do I need?
 
@@ -118,3 +118,5 @@ On the repository you would like to accept your PR you should see a green banner
 Your code may be accepted or asked for changes depending on if your code meets the requirements. Simply make the changes and commit again, you may however be required to request a review from your previous reviewer.
 
 ## Advanced Git
+
+Make a Pull Request and contribute!

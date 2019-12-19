@@ -10,7 +10,7 @@ for easing your deploys.
 
 ## Werewolf
 
-Werewolf is like the game "Town of Salem". Roles and rules can be found [here](https://www.playwerewolf.co/rules/roles) but 
+Werewolf, sometimes referred to as Mafia, is like the game "Town of Salem". Roles and rules can be found [here](https://www.playwerewolf.co/rules/roles) but 
 is effectively find who's the werewolf before all the villagers get killed. 
 
 ## Code in the Dark
