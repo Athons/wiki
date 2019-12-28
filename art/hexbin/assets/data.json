@@ -375,10 +375,80 @@
     "filename": "meta/hackNotts.json"
   },
   {
+    "name": "HackNotts 2018 Colourful",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacknotts2018_colourful.png",
+    "filename": "meta/hacknotts2018_colourful.json"
+  },
+  {
+    "name": "HackNotts 2018 Ribbon",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacknotts2018_ribbon_dark.png",
+    "filename": "meta/hacknotts2018_ribbon_dark.json"
+  },
+  {
+    "name": "HackNotts 2019 Blueprint",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacknotts2019_blueprint.png",
+    "description": "HackNotts 2019 Blueprint Sticker - decode the hexadecimal",
+    "filename": "meta/hacknotts2019_blueprint.json"
+  },
+  {
+    "name": "HackNotts 2019 Splatter",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacknotts2019_splatter.png",
+    "description": "HackNotts 2019 Splatter Sticker",
+    "filename": "meta/hacknotts2019_splatter.json"
+  },
+  {
+    "name": "HackNotts 2019 Stripes",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacknotts2019_stripes.png",
+    "description": "Flagship HackNotts 2019 Sticker",
+    "filename": "meta/hacknotts2019_stripes.json"
+  },
+  {
     "raster": "hexagons/201920/hacksheffield.png",
     "name": "hacksheffield",
     "description": "2020 season I demoed sticker",
     "filename": "meta/hacksheffield.json"
+  },
+  {
+    "name": "HackSoc 2018 Sticker",
+    "author": "Aaron Osher - HackSoc Nottingham",
+    "raster": "hexagons/hacksoc_2018.png",
+    "description": "HackSoc Sticker after new logo in old green.",
+    "filename": "meta/hacksoc_2018.json"
+  },
+  {
+    "name": "HackSoc Legacy",
+    "raster": "hexagons/hacksoc_legacy.png",
+    "description": "Unprinted legacy HackSoc sticker with old logo.",
+    "filename": "meta/hacksoc_legacy.json"
+  },
+  {
+    "name": "HackSoc 2019/20 Dark",
+    "author": "Zain Ali - HackSoc Nottingham",
+    "raster": "hexagons/hacksoc2019_dark.png",
+    "filename": "meta/hacksoc2019_dark.json"
+  },
+  {
+    "name": "HackSoc 2019/20 Light",
+    "author": "Zain Ali - HackSoc Nottingham",
+    "raster": "hexagons/hacksoc2019_light.png",
+    "filename": "meta/hacksoc2019_light.json"
+  },
+  {
+    "name": "HackSoc 2019 Pride",
+    "author": "Zain Ali - HackSoc Nottingham",
+    "raster": "hexagons/hacksoc2019_pride.png",
+    "filename": "meta/hacksoc2019_pride.json"
+  },
+  {
+    "name": "HackSoc 2019/20 Uno",
+    "author": "Zain Ali",
+    "raster": "hexagons/hacksoc2019_uno.png",
+    "filename": "meta/hacksoc2019_uno.json"
   },
   {
     "raster": "hexagons/201819/hacktheburgh.png",
