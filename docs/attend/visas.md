@@ -1,5 +1,7 @@
 # Visas
 
+__Note that this information does not constitute official advice, just outlining experiences people have had. Seek advise from your government or a qualified lawyer if you have any concerns!__
+
 International travel comes with some pain points surrounding visas.
 
 If you plan on attending a hackathon in a country where you require a visa (due to your nationality) you need to plan in advance. For example:
