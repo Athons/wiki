@@ -20,7 +20,7 @@ MLH events may also do something from this [list](https://localhost.mlh.io/#acti
 
 ## Existing Workshops
 
-You can find some of the other workshops run by members of the hacker community.
+You can find some of the other workshops run by members of the hacker community. Slides can typically be found in the GitHub repository README.
 
 | Workshop | Authors | Event |
 |----------------|---------|-------|
