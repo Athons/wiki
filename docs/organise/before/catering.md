@@ -11,7 +11,7 @@ code (like HackUPC).
 
 For snacks, having a table and periodically adding new things to it as it gets emptied works. It's worth trying  to time this after meals to avoid people getting full before a whole meal. Snack tables should ideally be out of direct sight of the hackers, especially at larger hackathons, to avoid the crab bucket.
 
-## What to get
+## What To Get
 
 It tends to be preferable to get food the hackers can eat with their hands over things like curries.
 

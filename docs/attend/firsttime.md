@@ -2,10 +2,10 @@
 
 Hackathons generally run like so:
 
-* Arrive ~10-11am.
+* Arrive ~10-11am
 * Do the opening talk, go through sponsorship challenges, etc
 * Form teams if you want to
-* Start hacking at midday.
+* Start hacking at midday
 * Do some workshops throughout the first day
 * Play a game like [Werewolf](https://en.wikipedia.org/wiki/Werewolf_(social_deduction_game))
 a bit later on.
@@ -32,6 +32,8 @@ up some knowledge to build something cool!
 
 You don't need to do a pure software project! Electronics, design and all sorts
 of things are normally allowed!
+
+We have a few guides to help you get started [here](/index)
 
 ### Do I sleep?
 

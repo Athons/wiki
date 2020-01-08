@@ -6,6 +6,8 @@ something either really below your skill level or something way beyond it.
 You'll get the best experience with a Hackathon if you try and learn something
 new!
 
+Hackathons typicall use [Devpost](https://devpost.com) to submit your projects. You can have a look here to see what others have created at hackathons!
+
 ### Beginner
 
 If you are just learning programming for the first time, making a simple website is a great thing to try.

@@ -2,7 +2,7 @@ A lot of Hackathons tend to run workshops, which can be helpful if it's your fir
 
 Common Workshops:
 
-* [Introduction to Git](IntroToGit.md)
+* [Introduction to Git](workshops/introtogit.md)
 * Basic Python Programming
 * Making your first website
 
