@@ -14,9 +14,9 @@ tend to be a bit unsure of how to do this.
 
 Be prepared to provide evidence of being a student, etc.
 
-Some events will require you with an earlier batch or not be willing to provide LOIs.
+Some events will ask you to register from a separate batch of tickets or not be willing to provide LOIs.
 
-If you are unsure of the requirements, check with your governments travel advice.
+If you are unsure of the requirements, check with your government's travel advice.
 
 Some countries will consider your visit as a business one. Looking at the rules that apply to attending a conference would likely be what effects hackathon attendees.
 
