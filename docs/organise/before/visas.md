@@ -25,10 +25,10 @@ The template used for HackTheMidlands is the following:
 
 > To whom it may concern, 
 > 
-> We are pleased to confirm that <NAME> is in possession of a ticket for our <EVENT NAME> event, which will be hosted on > ><DATE> at the following address,
+> We are pleased to confirm that $NAME is in possession of a ticket for our $EVENT event, which will be hosted on $DATE at the following address,
 > 
-> <YOUR VENUE ADDRESS>
+> $VENUE_ADDRESS
 >
-> The event will run from <START TIME> until <END TIME>.
+> The event will run from $START_TIME until $END_TIME.
 
 This only confirms they have a ticket and not a formal invitation. 
