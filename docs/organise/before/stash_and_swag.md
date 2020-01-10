@@ -36,3 +36,19 @@ If you are wanting your own hackathon laptop sticker, you can create your own. T
 | Monzo          |press@monzo.com<br>hello@monzo.com                            |Some?           |Currently out of stickers (as of 11/11/19) |
 | Devpost        |hackathons@devpost.com                                        |DurHack 19      |N/A|
 | Discord        | [Discord HypeSquad Events](https://discordapp.com/hypesquad) |HackTheMidlands 4.0|Must already have a Discord Server with 100+ members| 
+
+## T-shirts 
+
+Another great item of swag that hackathon attendees love is t-shirts! While these aren't necessary for an event, they are a welcome addition.    
+* It is also easier if you have different coloured/designed t-shirts for different roles of the people at the event eg. Blue for Organisers, Green for Hackers, Yellow for Mentors etc.     
+* This allows easier to identify someone of importance at your event with ease, especially for larger events.  
+
+### T-shirt providers
+
+Currently, many hackathons across the UK use [Go2Dave](https://www.go2dave.co.uk/) as the products in their [short lead time catalogue](http://www.pp.prod-cat.com/index.php) can be ordered up to 10 business days ahead of the event. Other t-shirt providers are available.
+
+### T-shirt sizes
+
+Getting the correct number of the right size of a t-shirt is a skill of its own! We would recommend that as part of the sign-up / ticket buying process to best estimate the sizes you require.    
+
+* It is hard to predict but as a general rule of thumb, the 1-2-2-1 ratio (S: M : L : XL) is a good prediction if you don't have data to hand!
