@@ -40,8 +40,8 @@ If you are wanting your own hackathon laptop sticker, you can create your own. T
 
 ## T-shirts 
 
-Another great item of swag that hackathon attendees love is t-shirts! While these aren't necessary for an event, they are a welcome addition.  
-* It is also easier if you have different coloured/designed t-shirts for different roles of the people at the event eg. Blue for Organisers, Green for Hackers, Yellow for Mentors etc. 
+Another great item of swag that hackathon attendees love is t-shirts! While these aren't necessary for an event, they are a welcome addition.   
+* It is also easier if you have different coloured/designed t-shirts for different roles of the people at the event eg. Blue for Organisers, Green for Hackers, Yellow for Mentors etc.   
 * This allows easier to identify someone of importance at your event with ease, especially for larger events.
 
 ### T-shirt providers
