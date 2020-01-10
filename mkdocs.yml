@@ -21,6 +21,7 @@ nav:
     - Workshops:
       - Getting Started: 'attend/workshops.md'
       - Intro to Git: 'attend/workshops/introtogit.md'
+    - Visas: 'attend/visas.md'
   - Organise:
     - Before The Event:
       - Getting Started: 'organise/before/gettingstarted.md'
@@ -33,6 +34,7 @@ nav:
       - Opening and Closing Ceremonies: 'organise/before/av.md'
       - Stash and Swag: 'organise/before/stash_and_swag.md'
       - Side Events: 'organise/before/side_events.md'
+      - Visas: 'organise/before/visas.md'
     - During The Event:
       - Volunteers: 'organise/during/volunteers.md'
       - Mentors: 'organise/during/mentors.md'
