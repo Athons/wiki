@@ -71,6 +71,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://hack.athon.uk/attend/visas/</loc>
+     <lastmod>2020-01-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://hack.athon.uk/organise/before/gettingstarted/</loc>
      <lastmod>2020-01-10</lastmod>
      <changefreq>daily</changefreq>
@@ -117,6 +122,11 @@
     </url>
     <url>
      <loc>https://hack.athon.uk/organise/before/side_events/</loc>
+     <lastmod>2020-01-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://hack.athon.uk/organise/before/visas/</loc>
      <lastmod>2020-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
