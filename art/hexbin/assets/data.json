@@ -457,6 +457,13 @@
     "filename": "meta/hacktheburgh201819.json"
   },
   {
+    "name": "HackTheMidlands 4.0 I Demoed Sticker",
+    "raster": "hexagons/hackthemidlands4_demo.png",
+    "vector": "vector/hackthemidlands4.ai",
+    "description": "HackTheMidlands 4.0 I Demoed Sticker",
+    "filename": "meta/hackthemidlands4_demo.json"
+  },
+  {
     "name": "HackTheMidlands 4.0",
     "raster": "hexagons/hackthemidlands4.png",
     "description": "HackTheMidlands 4.0 Sticker",
@@ -513,7 +520,7 @@
   {
     "name": "RGUHackDemo16",
     "raster": "hexagons/rgu_hacks_demo_2016.png",
-    "description": "I demoed sticker for  RGU Hacks 2016",
+    "description": "I demoed sticker for RGU Hacks 2016",
     "filename": "meta/rgu_hacks_demo_2016.json"
   },
   {
