@@ -22,7 +22,7 @@ everyone at the end of the event.
 Projects are normally rated based on a grading rubric which covers the criteria
 the organisers are looking for. At student hackathons, they tend to be:
 
-* Technical Challenge of the Project
+* Technical challenge of the project
 * How well presented and the design of the project
 * How complete the project is
 * How much you learned while making it

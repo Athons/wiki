@@ -1,0 +1,4 @@
+[submodule "docs/art/hexbin"]
+	path = docs/art/hexbin
+	url = https://github.com/HHEU/hexbin.git
+	branch = gh-pages

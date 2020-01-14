@@ -1,8 +1,8 @@
 # Introduction to Git
 
-Here we will explain how to get started with git so that you can work colaboratively on code at the hackathon.
+Here we will explain how to get started with Git so that you can work collaboratively on code at the hackathon.
 
-## What do I need
+## What do I need?
 
 There are two main things you need:
 
@@ -10,12 +10,13 @@ There are two main things you need:
 
 2 - [GitHub Account](https://github.com/) (This can be substituted for others such as [GitLab](https://about.gitlab.com/) or [BitBucket](https://bitbucket.org/product))
 
-If you're on windows you can either use the github GUI application or git command line version. As the command line version is global across Windows, Linux and Mac we will describe that here.
+If you're on windows you can either use the Github GUI application or Git command line version. As the command line version is global across Windows, Linux and Mac we will describe that here.
+
+_Note for Mac Users: Git comes pre-installed, however it maybe installed with a previous version, instead of the current version_
 
 Lots of Integrated development environments (IDE's) like [Atom](https://atom.io/) and [VS Code](https://code.visualstudio.com/) have their own inbuilt GUI systems for Git integration. These are again out of scope here for now.
 
 ## Creating a  *Repository*
-
 
 ### Repository Name
 After logging into GitHub you can create a new repository by clicking the + symbol at the top right.
@@ -69,52 +70,53 @@ git commit -m "Message"
 git push origin master
 ```
 
-# Medium Git
-## Merge conflicts
+## Medium Git
+### Merge conflicts
 Merge conflicts happen when two people try to change the same file lines resulting in conflicting code. To fix these one contributor needs to act to mediate these conflicts to choose which code should stay and what is un-needed.
 
 Many IDEs (definitely [Atom](https://atom.io/) and [VS Code](https://code.visualstudio.com/)) have inbuilt systems to help deal with merge conflicts.
 
-### Status
+#### Status
 The best thing to do first is to find out where the issues are, the best method of doing this is `git status`. Most of the time you will see `Both modified` next to a file name, sometimes a file may have been deleted in another branch.
 
-### Resolving
+#### Resolving
 The easiest method is to use an IDE, start by finding the offending file(s), in [Atom](https://atom.io/) and [VS Code](https://code.visualstudio.com/) the sections of code will be highlighted with buttons to select local or remote or both changes to be kept. Use your best intuition to change the code to what is best. 
 
-#### Uh Oh
+##### Uh Oh
 In the case you've messed up the merge conflicts and things don't work you can abort the merge at any point to return to the pre-merged state  using `git merge --abort`
 
-### Pushing
+#### Pushing
 After the code is working as desired a normal commit cycle of add, commit and push will send the merged file to GitHub.
 
-## Branching
-### Creating a branch
+### Branching
+#### Creating a branch
 `git checkout -b "BranchName"`
 ### Push
 `git push origin BranchName`
 
-### Merge
+#### Merge
 ```
 git checkout master
 git merge BranchName
 ```
 
-## Pull requests
-### Fork
+### Pull requests
+#### Fork
 Fork the repository you want to Pull Request using GitHub *Fork* button at the top right of the repository.
 Clone the repository to your PC using `git clone RepositoryLink` where the Repository link is the link found in your forked repository clone button.
-### Branch
+#### Branch
 Create a branch using `git checkout -b "BranchName"`
-### Push changes
+#### Push changes
 ```
 git add .
 git commit -m "Message"
 git push origin BranchName
 ```
-### Pull Request
+#### Pull Request
 On the repository you would like to accept your PR you should see a green banner with a button exclaiming change. Follow the pull request section until you enter your code for a review. 
 
 Your code may be accepted or asked for changes depending on if your code meets the requirements. Simply make the changes and commit again, you may however be required to request a review from your previous reviewer.
 
+## Advanced Git
 
-# Advanced Git
+Make a Pull Request and contribute!
