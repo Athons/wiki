@@ -102,6 +102,7 @@ This list showcases past UK student-run hackathons (most recent first).
 |-----------------|-------|--------------------|--------------|----|
 | HackKings v5.0 | [hackkings.org](https://hackkings.org) | King's College London | 200 | 8th-9th December 2018 |
 | HackNotts 2018  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 25th-26th November 2018 |
+| OxfordHack | [oxfordhack.uk](http://www.oxfordhack.uk/) | University of Oxford | 300 | 25th-26th November 2018 |
 | DurHack 2018   | [durhack.com](https://durhack.com) | Durham University | 150 | 17th-18th November 2018 |
 | Porticode 3.0 | [porticode.org](https://www.porticode.org/) | University College London | ?? | 17th-18th November 2018 |
 | ExImpact | [exeterentrepreneurs.com/eximpact](http://exeterentrepreneurs.com/eximpact/) | University of Exeter | ?? | 16th-18th November 2018 |
