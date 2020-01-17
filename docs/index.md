@@ -135,6 +135,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | DurHack 2017 | [durhack.com](http://durhack.com) | Durham University | 100 | 9th-10th December 2017 |
 | Sex Tech Hack II | [sexhack.tech](https://sexhack.tech) | Goldsmiths, University of London | 100 | 25th-26th November 2017 | 
 | HackKings 4.0 | [hackkings.org](https://hackkings.org) | King's College London | 200 | 25th-26th November 2017 |
+| OxfordHack 2017 | [oxfordhack.com](http://oxfordhack.com/) | University of Oxford | 200? | 25th-26th November 2017 |
 | Hatch UCL | N/A | University College London | 100 | 25th-26th November 2017 |
 | HackSussex | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 11th-12th November 2017 |
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 11th-12th November 2017 |
