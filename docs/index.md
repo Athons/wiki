@@ -121,7 +121,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | STACSHack | N/A | St Andrews, UK | 130 | 7th-8th April 2018 | 
 | HackKent | [kentcomputingsociety.co.uk/hackkent](https://kentcomputingsociety.co.uk/hackkent) | University of Kent | N/A | 13th-14th March |
 | HackMed | [hackmed.uk](https://hackmed.uk) | University of Sheffield | 80 | 10th-11th March |
-| Hack the Burgh 2018 | [hacktheburgh.com](https://hacktheburgh.com) |  University of Edinburgh | 150 | 10th-11th March 2018 |
+| Hack the Burgh 2018 | [hacktheburgh.com](https://2018.hacktheburgh.com) |  University of Edinburgh | 150 | 10th-11th March 2018 |
 | BullHacks | [bullhacks.tech/](https://bullhacks.tech/) | Birmingham City University | 100 | 3rd-4th March 2018 |
 | Anvil Hack IV | [goldsmiths.tech/anvil](https://goldsmiths.tech/anvil) | Goldsmiths, University of London | 120 | 24th-25th February 2018 | 
 | HackCity 2018 | N/A | City, University of London | 100 | 17th-18th February 2018 |
