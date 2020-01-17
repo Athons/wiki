@@ -126,6 +126,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | Anvil Hack IV | [goldsmiths.tech/anvil](https://goldsmiths.tech/anvil) | Goldsmiths, University of London | 120 | 24th-25th February 2018 | 
 | HackCity 2018 | N/A | City, University of London | 100 | 17th-18th February 2018 |
 | IC Hack 18 | [ichack.org](https://ichack.org) | Imperial College London | 250 | 27th-28th January 2018 |
+| ExHack | [exeterentrepreneurs.com/exhack](http://exeterentrepreneurs.com/exhack/) | University of Exeter | ?? | 26th-28th January 2018 |
 | Global Game Jam @ Goldsmiths | N/A | Goldsmiths, University of London | 100 | 26th-27th January 2018 |
 | Hack Cambridge Ternary | [hackcambridge.com](https://hackcambridge.com/) | University of Cambridge | 300 | 20th-21st January 2018 |
 | Royal Hackaway | [royalhackaway.xyz](https://royalhackaway.xyz/) | Royal Holloway, University of London | ?? | 13th-14th January 2018 |
