@@ -95,6 +95,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | Royal Hackaway v2 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
 | IC Hack 19 | [ichack.org](https://ichack.org) | Imperial College London | 400 | 26th-27th January 2019 |
 | ManMetHacks | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 26th-27th January 2019 |
+| Hack Cambridge 4D | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 19th-20th January 2019 |
 
 ## Autumn 2018
 
