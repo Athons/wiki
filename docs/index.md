@@ -79,6 +79,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | AstonHack 2019 | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 175 | 2nd-3rd November 2019 |
 | HackTheMidlands 4.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
 | HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University | 100 | 26th-27th October 2019 |
+| Do You Have The GUTS? | [gutechsoc.com/hackathon](https://gutechsoc.com/hackathon) | University of Glasgow | 300 | 18th-20th October 2019 |
 | HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | Nottingham University | 25 | 5th October 2019 |
 
 ## Spring 2019
@@ -106,6 +107,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 10th-11th November 2018 |
 | HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
 | hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
+| Do You Have The GUTS? | [gutechsoc.com/hackathon](https://gutechsoc.com/hackathon) | University of Glasgow | ?? | 12th-14th October 2018 |
 
 ## Spring 2018
 
@@ -136,6 +138,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 11th-12th November 2017 |
 | GreatUniHack 2017 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 11th-12th November 2017 |
 | HackNotts 2017  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 150 | 28th-29th October 2017 |
+| Do You Have The Guts | [gutechsoc.com/hackathon](https://gutechsoc.com/hackathon) | University of Glasgow | ?? | 27th-29th October 2017 |
 | hackSheffield 3 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 14th-15th October 2017 |
 | HackTheMidlands 2.0 | [hackthemidlands.com](https://hackthemidlands.com/) | Millennium Point, Birmingham | 150 | 23rd-24th September 2017 |
 
