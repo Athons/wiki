@@ -85,7 +85,7 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | 50? | 30th-31st March 2019 |
+| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | 100 | 30th-31st March 2019 |
 | CovHack 19   | [covhack.org](https://covhack.org) | Coventry University | 110 | 16th-17th March 2019 |
 | R. U. Hacking? 2019   | [ruhacking.me](https://ruhacking.me) | University of Reading | 150 | 16th-17th February 2019 |
 | HackSurrey Mk2 | [mk2.hacksurrey.uk](https://mk2.hacksurrey.uk) | University of Surrey | 150 | 9th-10th February 2019 |
