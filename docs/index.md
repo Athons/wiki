@@ -137,6 +137,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackKings 4.0 | [hackkings.org](https://hackkings.org) | King's College London | 200 | 25th-26th November 2017 |
 | OxfordHack 2017 | [oxfordhack.com](http://oxfordhack.com/) | University of Oxford | 200? | 25th-26th November 2017 |
 | Hatch UCL | N/A | University College London | 100 | 25th-26th November 2017 |
+| BrumHack 7.0 | [brumhack.co.uk](https://www.brumhack.co.uk) | University of Birmingham | ?? | 18th-19th November 2017 |
 | HackSussex | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 11th-12th November 2017 |
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 11th-12th November 2017 |
 | GreatUniHack 2017 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 11th-12th November 2017 |
