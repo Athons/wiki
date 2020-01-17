@@ -39,7 +39,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 |-----------------|-------|--------------------|--------------|----|
 | Hack Cambridge 2020 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
 | ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
-| Royal Hackaway v3 | [royalhackaway.com](https://royalhackaway.com/) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
+| Royal Hackaway v3 | [royalhackaway.com/hackawayv3](https://royalhackaway.com/hackawayv3) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
 | Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | CovHack 2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
