@@ -37,7 +37,6 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
 | Royal Hackaway v3 | [royalhackaway.com/hackawayv3](https://royalhackaway.com/hackawayv3) | Royal Holloway, University of London | 300 | 1st-2nd February 2020|
 | Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
@@ -65,11 +64,18 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 # Past Events
 This list showcases past UK student-run hackathons (most recent first).
 
+## Spring 2020
+
+|Hackathon        |Website| University         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
+| ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
+| Hack Cambridge 101 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
+
+
 ## Autumn 2019
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| Hack Cambridge 101 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
 | HackKing's 6.0  | [hackkings.org](https://hackkings.org/) | Kings College London | 150 | 30th November-1st December 2019 |
 | DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 200 | 23rd-24th November 2019 |
 | HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
