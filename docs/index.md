@@ -112,7 +112,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | HackSussex 2018 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 150 | 10th-11th November 2018 |
 | AstonHack | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 150 | 10th-11th November 2018 |
 | HackTheMidlands 3.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 200 | 3rd-4th November 2018 |
-| hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2019 |
+| hackSheffield 4 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 27th-28th October 2018 |
 | Do You Have The GUTS? | [gutechsoc.com/hackathon](https://gutechsoc.com/hackathon) | University of Glasgow | ?? | 12th-14th October 2018 |
 
 ## Spring 2018
