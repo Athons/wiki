@@ -64,13 +64,14 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 # Past Events
 This list showcases past UK student-run hackathons (most recent first).
 
+## Spring 2020
+
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
 | Hack Cambridge 101 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
 
 
-## Spring 2020
 ## Autumn 2019
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
