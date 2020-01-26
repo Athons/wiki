@@ -10,10 +10,10 @@ Things to consider:
 
 ### Examples
 
-Feel free to publish yours here! Either as a link or upload it to the repo, preferably in an open format!
+Feel free to publish your hackathon budget here! Either as a link or upload it to the repo, preferably in an open format!
 
-You can find CovHack 2019s budget [here](/static/documents/budgets/covhack-2019-budget.ods).
-We were a 60 person event.
+- [CovHack 2019, 60 people, £1.6k](/static/documents/budgets/covhack-2019-budget.ods)
+- [DurHack 2019, 200 hackers, £20k](https://docs.google.com/spreadsheets/d/1x8HTl7jF7SYvDP-vbJRcZhI07ZajUaRZB0xCzftUaPA/edit#gid=0)
 
 MLH provides a template [here](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit#gid=1863528508)
 but it over estimates a lot, including assuming a 500 person attendance.
