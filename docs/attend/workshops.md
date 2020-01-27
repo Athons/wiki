@@ -28,3 +28,4 @@ You can find some of the other workshops run by members of the hacker community.
 | [Docker Dino Workshop](https://github.com/jedevc/docker-dino-demo) | [Justin Chadwell](https://github.com/jedevc) | [Developer Student Clubs](https://developers.google.com/community/dsc) at the University of Birmingham
 | [Git Workshop](https://github.com/wrussell1999/git-workshop) | [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://github.com/wrussell1999) | [Developer Student Clubs](https://developers.google.com/community/dsc) at the University of Birmingham |
 | [Google Cloud Vision Workshop](https://github.com/jedevc/blurbot-workshop) | [Justin Chadwell](https://github.com/jedevc) | [HackTheMidlands](https://hackthemidlands.com) 4.0 |
+| [Introduction to Android Development](http://github.com/wrussell1999/android-workshop-kotlin) | [Will Russell](https://github.com/wrussell1999) | [ManMetHacks](https://manmethacks.com) 2.0 | 
