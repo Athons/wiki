@@ -12,8 +12,10 @@ Things to consider:
 
 Feel free to publish your hackathon budget here! Either as a link or upload it to the repo, preferably in an open format!
 
-- [CovHack 2019, 60 people, £1.6k](/static/documents/budgets/covhack-2019-budget.ods)
+- [CovHack 2019, 60 hackers, £1.6k](/static/documents/budgets/covhack-2019-budget.ods)
+- [ManMetHacks 2.0, 120 hackers, £5.3k](https://docs.google.com/spreadsheets/d/1lwTVGATFNx7C5VJKUwkwcu_Ti-ADNvgKoK9b8eNFqg8/edit?usp=drivesdk)
 - [DurHack 2019, 200 hackers, £20k](https://docs.google.com/spreadsheets/d/1x8HTl7jF7SYvDP-vbJRcZhI07ZajUaRZB0xCzftUaPA/edit#gid=0)
+
 
 MLH provides a template [here](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit#gid=1863528508)
 but it over estimates a lot, including assuming a 500 person attendance.
