@@ -1,3 +1,21 @@
 :root {
     --color-primary: #e91e63;
 }
+
+.timeago {
+    /* Color from the theme */
+    color: rgba(0,0,0,.87);
+}
+
+.contributors-text{
+    color: rgba(0,0,0,.87);
+}
+
+.contributors{
+    padding:0 0.6rem;
+}
+.contributors li{
+    display:inline-block;
+    vertical-align:top;
+    list-style-type:none;
+}

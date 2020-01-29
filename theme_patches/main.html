@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block site_nav %}
+<!-- Main navigation -->
+{% if nav %}
+<div class="md-sidebar md-sidebar--primary"
+     data-md-component="navigation">
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            {% include "partials/nav.html" %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Table of contents -->
+{% if page.toc %}
+<div class="md-sidebar md-sidebar--secondary">
+    <!-- Last update + contributors -->
+    <nav class="md-nav md-nav--secondary">
+
+        <div class="md-sidebar__scrollwrap">
+            <div class="md-sidebar__inner">
+                {% if page.meta.git_revision_date_localized %}
+                <li class="md-nav__item">
+                    <i>Last Modified: {{ page.meta.git_revision_date_localized }}</i>
+                </li>
+                {% endif %}
+                {% if committers %}
+                    <div class="contributors">
+                        <li class="contributors-holder">
+                            <ul class="contributors" data-bi-name="contributors">
+                                {%- for user in committers -%}
+                                    <a href="{{ user.repos }}" title="{{ user.name }}" data-bi-name="contributorprofile">
+                                        <img width="30px" src="/static/img/contributor.svg" data-src="{{ user.avatar }}" alt="{{ user.name }}">
+                                    </a>
+                                {%- endfor -%}
+                            </ul>
+                        </li>
+                    </div>
+                {% endif %}
+    </nav>
+    <br />
+
+    <!-- Table of contents -->
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            {% include "partials/toc.html" %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+{% endblock %}
+
+{% block libs %}
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+	crossorigin="anonymous">
+</script>
+<script src="{{ base_url }}/assets/javascripts/modernizr.74668098.js"></script>
+{% endblock %}

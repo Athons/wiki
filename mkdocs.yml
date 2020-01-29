@@ -64,6 +64,16 @@ theme:
     icon: computer
   feature:
     tabs: true
+  custom_dir: theme_patches/
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: timeago
+  - git-committers:
+      repository: HHEU/wiki
+      branch: master
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
 
 extra:
   social:
@@ -79,3 +89,6 @@ extra:
 extra_css: 
   - static/css/theme.css
   - static/css/home.css
+
+extra_javascript:
+  - static/js/contributors.js
