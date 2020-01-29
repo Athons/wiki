@@ -37,7 +37,7 @@ General structure:
 
 ## Add a professional touch to your AV
 
-[Will Russell](https://twitter.com/wrussell1999) has a [box of dongles and adapters](/organise/share/) to help you connect up any computer to your displays / projectors. 
+[Will Russell](https://twitter.com/wrussell1999) has a [box of dongles and adapters](/organise/help/share.md) to help you connect up any computer to your displays / projectors. 
 On top of that, he can also help with your ceremonies and presentations, adding background music and smooth transitions.
 
 Hackathons he has worked with:
