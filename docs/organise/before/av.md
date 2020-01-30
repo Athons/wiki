@@ -19,7 +19,7 @@ A general structure:
 
 ## Presentations
 
-Your hackathon may have presentations for all attendees, or just the finalist. Make sure you have some dongles to ensure they can connect up to the display. USB C and Mini Display port are very common (MacBooks and Surface Pros), but it doesn't hurt to have others too! Most lecture theatres have HDMI and VGA already in them, which will cover most situations. Some also have a visualiser that is useful for hardware hacks. Contact [Will](/organise/share/) if you need to borrow dongles for your event.
+Your hackathon may have presentations for all attendees, or just the finalist. Make sure you have some dongles to ensure they can connect up to the display. USB C and Mini Display port are very common (MacBooks and Surface Pros), but it doesn't hurt to have others too! Most lecture theatres have HDMI and VGA already in them, which will cover most situations. Some also have a visualiser that is useful for hardware hacks. Contact [Will](/organise/help/share/) if you need to borrow dongles for your event.
 
 Some of the things people might want for their presentation:
 
@@ -37,7 +37,7 @@ General structure:
 
 ## Add a professional touch to your AV
 
-[Will Russell](https://twitter.com/wrussell1999) has a [box of dongles and adapters](/organise/help/share.md) to help you connect up any computer to your displays / projectors. 
+[Will Russell](https://twitter.com/wrussell1999) has a [box of dongles and adapters](/organise/help/share) to help you connect up any computer to your displays / projectors. 
 On top of that, he can also help with your ceremonies and presentations, adding background music and smooth transitions.
 
 Hackathons he has worked with:
