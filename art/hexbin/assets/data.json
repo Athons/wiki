@@ -482,6 +482,12 @@
     "filename": "meta/ic_hack_demo_2016.json"
   },
   {
+    "raster": "hexagons/mmh_demo_201920.png",
+    "name": "mmh_demo",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/man_mat_hack_demo_201920.json"
+  },
+  {
     "raster": "hexagons/201819/manmethacks.png",
     "name": "manmethacks",
     "description": "2017 season I demoed sticker",
@@ -546,6 +552,12 @@
     "name": "royal_hackaway (1)",
     "description": "2017 season I demoed sticker",
     "filename": "meta/royal_hackaway (1)201819.json"
+  },
+  {
+    "raster": "hexagons/royal-hackway-201920.png",
+    "name": "royal-hackway-201920",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/royal-hackway-201920.json"
   },
   {
     "raster": "hexagons/201617/ru_hacking.png",
