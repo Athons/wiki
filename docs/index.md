@@ -5,6 +5,7 @@
   <a class="button" href="./organise/before/gettingstarted"><span>Organise</span></a>
   <a class="button" href="./sponsor"><span>Sponsor</span></a>
   <a class="button" href="./volunteer"><span>Volunteer</span></a>
+  <a class="button" href="./discord"><span>Chat</span></a>
 </div>
 
 ## About
