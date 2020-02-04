@@ -5,6 +5,7 @@
   <a class="button" href="./organise/before/gettingstarted"><span>Organise</span></a>
   <a class="button" href="./sponsor"><span>Sponsor</span></a>
   <a class="button" href="./volunteer"><span>Volunteer</span></a>
+  <a class="button" href="./discord"><span>Chat</span></a>
 </div>
 
 ## About
@@ -14,6 +15,8 @@ Student Hackathons ran at all the various Universities around the country.
 
 Here you can find information on what to expect when attending, event information
 and help with organising your own hackathon!
+
+We also have a Discord server, whether you're an experienced organiser or want to attend your first hackathon or something inbetween join us at: https://hack.athon.uk/discord.
 
 This site was set up by [@baahorn](https://twitter.com/baahorn), who
 previously organised [CovHack](https://covhack.org), and currently managed by
