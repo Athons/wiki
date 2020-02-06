@@ -2,17 +2,19 @@
 
 Hackers love stickers!
 
-If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and Githib stickers as well.
+If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and Github stickers as well.
 
 ### Sticker Providers
 
-These are some providers that have been known to hackathons & hackers (Feel free to add any other providers as see fit)
+These are some providers that have been known to hackathons & hackers (feel free to add any other providers as see fit).
 
-* [Stickermule](https://stickermule.com) has always been the go-to for any hackathon due to their quality. (US Based + UK Free Shipping). MLH Events get credit from them and they often also willing to give you free credit even if you aren't with MLH.
+* [Stickermule](https://stickermule.com) has always been the go-to for any hackathon due to their quality. (US Based + UK Free Shipping) MLH Events get credit from them and they often also willing to give you free credit even if you aren't with MLH.
 
 * [InstantPrint](https://instantprint.co.uk) (UK-Based)
 
-* [Diginate](https://diginate.com/) UK Based and also do metallic stickers.
+* [STKRS](https://stkrs.co.uk/) (UK-Based)
+
+* [Diginate](https://diginate.com/) (UK Based and also do metallic stickers)
 
 ### Sticker Sizes
 
@@ -40,8 +42,9 @@ If you are wanting your own hackathon laptop sticker, you can create your own. T
 ## T-shirts 
 
 Another great item of swag that hackathon attendees love is t-shirts! While these aren't necessary for an event, they are a welcome addition.    
-* It is also easier if you have different coloured/designed t-shirts for different roles of the people at the event eg. Blue for Organisers, Green for Hackers, Yellow for Mentors etc.     
-* This allows easier to identify someone of importance at your event with ease, especially for larger events.  
+
+It is also easier if you have different coloured/designed t-shirts for different roles of the people at the event eg. Blue for Organisers, Green for Hackers, Yellow for Mentors etc.   
+This allows easier to identify someone of importance at your event with ease, especially for larger events.  
 
 ### T-shirt providers
 
@@ -51,4 +54,4 @@ Currently, many hackathons across the UK use [Go2Dave](https://www.go2dave.co.uk
 
 Getting the correct number of the right size of a t-shirt is a skill of its own! We would recommend that as part of the sign-up / ticket buying process to best estimate the sizes you require.    
 
-* It is hard to predict but as a general rule of thumb, the 1-2-2-1 ratio (S: M : L : XL) is a good prediction if you don't have data to hand!
+It is hard to predict but as a general rule of thumb, the 1-2-2-1 ratio (S: M : L : XL) is a good prediction if you don't have data to hand!
