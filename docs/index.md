@@ -52,6 +52,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 7th-8th March 2020 |
 | CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
+| HackThePlug   | [hacktheplug.tech](http://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
 | DurHack:NextGen   | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
 | Hackathons UK Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | April 2020 |
 
