@@ -10,9 +10,9 @@ These are some providers that have been known to hackathons & hackers (feel free
 
 * [Stickermule](https://stickermule.com) has always been the go-to for any hackathon due to their quality. (US Based + UK Free Shipping) MLH Events get credit from them and they often also willing to give you free credit even if you aren't with MLH.
 
-* [InstantPrint](https://instantprint.co.uk) (UK-Based)
-
 * [STKRS](https://stkrs.co.uk/) (UK-Based)
+
+* [InstantPrint](https://instantprint.co.uk) (UK-Based)
 
 * [Diginate](https://diginate.com/) (UK Based and also do metallic stickers)
 
@@ -52,6 +52,6 @@ Currently, many hackathons across the UK use [Go2Dave](https://www.go2dave.co.uk
 
 ### T-shirt sizes
 
-Getting the correct number of the right size of a t-shirt is a skill of its own! We would recommend that as part of the sign-up / ticket buying process to best estimate the sizes you require.    
+Getting the correct number of the right size of a t-shirt is a skill of its own! We would recommend that as part of the sign-up/ticket buying process to best estimate the sizes you require.    
 
 It is hard to predict but as a general rule of thumb, the 1-2-2-1 ratio (S: M : L : XL) is a good prediction if you don't have data to hand!
