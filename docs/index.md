@@ -46,7 +46,6 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | JunctionX Exeter | [junctionexeter.com](https://junctionxexeter.com/) | University of Exeter | ?? | 21st-23rd February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
 | HackSurrey v3.0 | [hacksurrey.github.io/v3.0](https://hacksurrey.github.io/v3.0/) | University of Surrey | 150 | 22nd-23rd February 2020 |
-| HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | 29th February 2020 |
 | Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | ?? | 29th February-1st March 2020 |
 | IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
@@ -54,6 +53,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | DurHack:NextGen   | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
+| Hackathons UK Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | ?? | ?? | April 2020 |
 
 ## Autumn 2020
 |Hackathon        |Website| University         |No. of Hackers|Date|
