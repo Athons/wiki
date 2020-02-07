@@ -156,4 +156,4 @@ This also ensures there are still available options before the rest of the hacke
 
 You can find some information on the [NHS website covering common ones](https://www.nhs.uk/conditions/food-allergy/).
 
-Try to keep an emergancy contact for each of your attendees if they have a strange allergy.
+Try to keep an emergency contact for each of your attendees if they have a strange allergy.
