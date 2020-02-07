@@ -4,7 +4,7 @@ Budgets are what makes the hackathon work properly. They provide refreshments, m
 
 Things to consider:
 
-* Not everyone is present at every meal. (But Sponsors and Volunteers need food too.)
+* Not everyone is present at every meal. (But sponsors and volunteers need food too.)
 * Most hackathons have an attrition rate (tickets sold that will not attend) of 30-50%, usually around 40%.
 * Try and have some money put aside for on-the-day emergencies.
 
