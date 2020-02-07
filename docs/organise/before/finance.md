@@ -1,6 +1,6 @@
 ## Budget
 
-Budgets are what makes the hackathon work properly. They provide refreshments, meals, prizes, etc. from sponsors. Your budget will come from your [Sponsors](/organise/sponsorship) and at times, depending on budget history, any surplus from the previous hackathon's budget.
+Budgets are what makes the hackathon work properly. They provide refreshments, meals, prizes, etc. from sponsors. Your budget will come from your [sponsors](/organise/sponsorship) and at times, depending on budget history, any surplus from the previous hackathon's budget.
 
 Things to consider:
 
