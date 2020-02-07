@@ -2,15 +2,15 @@
 
 Two main options here:
 
-* Slack
 * Discord
+* Slack
 
-## Hosting
+## Web Hosting
 
 Netlify is great for static sites and what this wiki is hosted on.
 
-For dynamic things, you could use heroku which has a good free tier. (and
-not a bad option for bots)
+For dynamic things, you could use heroku which has a good free tier. 
+(As well as not a bad option for bots.)
 
 Firebase also works pretty well if you don't want to maintain any
 infrastructure.
@@ -36,4 +36,4 @@ for HackNotts by [@MrJamesCo](https://twitter.com/MrJamesCo).
 ## Navigation
 
 If you are running a very large event with a huge venue, it might be worth
-forking [c3nav](https://github.com/c3nav/c3nav)
+forking [c3nav](https://github.com/c3nav/c3nav).

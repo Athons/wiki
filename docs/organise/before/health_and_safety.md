@@ -11,7 +11,7 @@ PAT testing for your equipment, etc.
 * No Alcohol being consumed at the event.
 * Sleep deprivation and how you encourage people to sleep.
 * Harassment and how you enforce your code of conduct.
-* Crime related and how you have team members in every room with attendees
+* Crime related issues and how you have team members in every room with attendees
 valuables and how you have the security contacts in case of other issues.
 * Power / Lighting failure.
 * Heating equipment and burns. Normally you aren't heating things on site

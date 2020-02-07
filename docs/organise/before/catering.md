@@ -6,10 +6,10 @@ For main meals, you'll need to sort of people with dietary requirements first.
 
 You might need to keep people to only having one portion if you are dealing 
 with certain businesses. This can be done with either a tick mark on their 
-wristbands (Like HackSheffield) or a card (like StudentHack) or even a QR 
+wristbands (like HackSheffield) or a card (like StudentHack) or even a QR 
 code (like HackUPC).
 
-For snacks, having a table and periodically adding new things to it as it gets emptied works. It's worth trying  to time this after meals to avoid people getting full before a whole meal. Snack tables should ideally be out of direct sight of the hackers, especially at larger hackathons, to avoid the crab bucket.
+For snacks, having a table and periodically adding new things to it as it gets emptied works. It's worth trying to time this after meals to avoid people getting full before a whole meal. Snack tables should ideally be out of direct sight of the hackers, especially at larger hackathons, to avoid the crab bucket.
 
 ## What To Get
 
@@ -35,15 +35,15 @@ Advised against for larger-sized hackathons.
 
 _Everyone love pizza._
 
-Can be quite expensive, but depends on the hackathon location and nearest pizza delivery store. Cost quoted to CovHack was £8 per large pizza, where AstonHack was quoted .
+Can be quite expensive, but depends on the hackathon location and nearest pizza delivery store. Cost quoted to CovHack was £8 per large pizza, where HackNotts pay £6 per large.
 
 Need to get a good balance. Over buying Margarita tends to be an issue.
 
-The Vegan pizza is not well liked.
+The vegan pizza is not well liked.
 
 #### Papa John's
 
-The Vegan pizza, generally, is much better received compared to Dominos.
+The vegan pizza, generally, is much better received compared to Dominos.
 
 #### Subway Platters
 
@@ -57,7 +57,7 @@ It's about £18-£20 per plater, with some volume discounts.
 
 Very good for large orders and very well priced. Tends to go down well with
 hackers. Decent for vegetarians, if a little boring. They can take the order
-pretty close to the event (handy if you get funding late)
+pretty close to the event. (Handy if you get funding late.)
 
 CovHack had a really good experience with our local franchise and AstonHack
 has had it starting AstonHack 4.
@@ -65,7 +65,7 @@ has had it starting AstonHack 4.
 
 #### Zizzis
 
-Offers a good vegan pizza and has a whole menu for [dietary requirements](https://www.zizzi.co.uk/data/menus/static_menus/1/pdf/autumn19-allergen-menu-tab-web.pdf)
+Offers a good vegan pizza and has a whole menu for [dietary requirements](https://www.zizzi.co.uk/data/menus/static_menus/1/pdf/autumn19-allergen-menu-tab-web.pdf).
 
 #### Breakfast
 
@@ -100,8 +100,8 @@ Some common requirements to have are:
 
 Some sites that had relatively good information on these:
 
-* <https://ebpcooh.org.uk/common-dietary-requirements-explained/>
-* <https://www.comtix.com/blog/7-dietary-restrictions-every-event-planner-aware/>
+* [EBPCOOH](https://ebpcooh.org.uk/common-dietary-requirements-explained/)
+* [comtix](https://www.comtix.com/blog/7-dietary-restrictions-every-event-planner-aware/)
 
 ### Vegetarians
 
@@ -109,12 +109,12 @@ Vegetarians are fairly easy to handle. Most places will offer vegetarian
 options at the same cost of normal options.
 
 Worth considering is that some vegetarians don't consume eggs (some religious
-requirements cover this)
+requirements cover this.)
 
 ### Pescatarians
 
-As you generally do not serve fish at hackathons, Pescatarians can be handled
-the same way as Vegetarians.
+As you generally do not serve fish at hackathons, pescatarians can be handled
+the same way as vegetarians.
 
 ### Vegans
 
@@ -134,12 +134,11 @@ check with everyone.
 
 ### Lactose Intolerance / Dairy Free
 
-Lactose Intolerance is not the same thing as a dairy free. 
+Lactose intolerance is not the same thing as a dairy free. 
 Those with dairy allergies can be very serious, 
 so it's best to check with the hacker about how serious it is.
 
-Not being able to consume dairy effects a lot of options. Most chains will cover it though.
-
+Not being able to consume dairy effects a lot of options, most chains will cover it though.
 Remember, eggs aren't dairy so they can be part of options for this.
 
 ### Religious Requirements
@@ -152,9 +151,9 @@ Allergies can be quite hard to handle due to how variable they can be. You'll ha
 _Make sure to also be extra careful with uncommon allergies that attendees have_
 
 One key thing to handle is cross contamination. Allow those with allergies to be served first,
-so the allergen options don't get cross containmened from other options. 
-This also ensures there are still availabile options before the rest of the hackers eat.
+so the allergen options don't get cross contaminated from other options. 
+This also ensures there are still available options before the rest of the hackers eat.
 
-You can find some information on the [NHS website covering common ones](https://www.nhs.uk/conditions/food-allergy/)
+You can find some information on the [NHS website covering common ones](https://www.nhs.uk/conditions/food-allergy/).
 
-Try to keep an emergancy contact for each of your contacts if you have someone with a strange allergy.
+Try to keep an emergency contact for each of your attendees if they have a strange allergy.

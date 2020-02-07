@@ -2,7 +2,7 @@
 
 Every hackathon has an opening and closing ceremony. This is a great way to introduce your event to your attendees, and give them all the information they'll need. This is also an opportunity for sponsors to talk too. Some also have presentations from the hackers. 
 
-This normally works well inside a lecture theatre that has enough seating for your attendees, sponsors, volunteers, and organisers. You can also use an auditorium for this too.
+This normally works well inside a lecture theatre or auditorium that has enough seating for your attendees, sponsors, volunteers, and organisers.
 
 ## Opening Ceremony
 
@@ -10,7 +10,7 @@ A general structure:
 
 * Welcome to the hackathon
 * Event schedule
-* Things going on at the hackathon.
+* Things going on at the hackathon
 * Safety information (fire alarm, etc)
 * Mentors
 * Devpost
@@ -37,7 +37,7 @@ General structure:
 
 ## Add a professional touch to your AV
 
-[Will Russell](https://twitter.com/wrussell1999) has a [box of dongles and adapters](/organise/help/share) to help you connect up any computer to your displays / projectors. 
+[Will Russell](https://twitter.com/wrussell1999) has a [box](/organise/help/share) of dongles and adapters to help you connect up any computer to your displays / projectors. 
 On top of that, he can also help with your ceremonies and presentations, adding background music and smooth transitions.
 
 Hackathons he has worked with:
@@ -73,6 +73,7 @@ Contact Will by [email](mailto:will@will-russell.com) or on [Twitter](https://tw
 > doing finalist presentations a breeze due to picture-in-picture really helping for hardware hacks. 
 >
 > I first met Will at HackTheMidlands 4.0 and after seeing what an impressive job he and the rest of Levitation Events did 
-> with the sound, lighting and visuals, I almost begged him to be a part of ManMetHacks. He was a perfect addition to the team > and the event couldn't have run smoother if we had tried thanks to his dedication and hard work. 
+> with the sound, lighting and visuals, I almost begged him to be a part of ManMetHacks. He was a perfect addition to the team 
+> and the event couldn't have run smoother if we had tried thanks to his dedication and hard work. 
 > 
 > — **Tom Misson**, Organiser,  ManMetHacks 2020

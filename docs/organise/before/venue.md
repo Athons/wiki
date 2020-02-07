@@ -11,16 +11,16 @@ When looking for a venue, you want to pay attention to the following:
 In most cases if you are a student hackathon you'll end up running in one of
 the following:
 
-* A Engineering Building
-* A Business Schools Building
-* A Student Union Building
+* An Engineering Building
+* A Business School Building
+* A Students Union Building
 
 Ideally, you shouldn't end up paying for a venue unless you are running
 an extremely large event.
 
-You may however be asked to pay for cleaning and portering of your event as below.
+You may however be asked to pay for cleaning or porter and security fees for your event as below.
 
-If you can not find a venue on campus and your university is in a major city
+If you cannot find a venue on campus and your university is in a major city
 you might find a local tech company willing to host you.
 
 ## Booking
@@ -28,8 +28,8 @@ you might find a local tech company willing to host you.
 Getting a building for a whole weekend will take a lot of work. Your university
 will be very hesitant if they have not previously hosted a hackathon before.
 
-It is _NOT_ something you can sort out in two weeks. You will jump between
-different people trying to find who handles it as you can not book though
+It is _NOT_ something you can sort out in two weeks. You will be bounced between
+different people trying to find who handles it as you cannot book though
 your normal room booking system.
 
 To give a time frame, for CovHack we were trying to get our venue booked for
@@ -49,6 +49,6 @@ This can be a big benefit for risk assessments and red tape.
 
 ## Things to Consider
 
-You can't "officially" let people sleep in most venues due to insurance reasons
-but your buildings security mostly will relax the rule. Just say your sleeping
-room is a relaxation/quiet room :)
+You can't _"officially"_ let people sleep in most venues due to insurance reasons
+but your building's security mostly will relax the rule. Just say your sleeping
+room is a relaxation/quiet room. :)
