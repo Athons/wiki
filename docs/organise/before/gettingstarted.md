@@ -30,7 +30,7 @@ Most hackathons have at least 3 different tiers, often bronze, silver and gold, 
 
 ### [Major League Hacking (MLH)](https://mlh.io)
 If you're creating a brand new Hackathon, MLH may be able to provide some key information and financial support to ensure that the hackathon runs smoothly.
-Hackathons registered with MLH also recieve additional support with events before, during & after the day. Check here for the process to make it an [MLH hackathon event](https://mlh.io/).
+Hackathons registered with MLH also receive additional support with events before, during & after the day. Check here for the process to make it an [MLH hackathon event](https://mlh.io/).
 
 ### Social Media
 Consider which social media outlets you're wanting to use.
