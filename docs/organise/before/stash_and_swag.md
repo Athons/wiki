@@ -2,7 +2,7 @@
 
 Hackers love stickers!
 
-If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and Github stickers as well.
+If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and GitHub stickers as well.
 
 ### Sticker Providers
 
