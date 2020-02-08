@@ -7,7 +7,7 @@ Two main options here:
 
 ## Web Hosting
 
-Netlify is great for static sites and what this wiki is hosted on.
+Both [Netlify](https://www.netlify.com/) and [GitHub Pages](https://pages.github.com/) are great for static sites and what this wiki is hosted on GitHub Pages and compiled with [GitHub Actions](https://github.com/features/actions).
 
 For dynamic things, you could use heroku which has a good free tier. 
 (As well as not a bad option for bots.)
