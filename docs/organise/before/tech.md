@@ -9,7 +9,7 @@ Two main options here:
 
 Both [Netlify](https://www.netlify.com/) and [GitHub Pages](https://pages.github.com/) are great for static sites and what this wiki is hosted on GitHub Pages and compiled with [GitHub Actions](https://github.com/features/actions).
 
-For dynamic things, you could use heroku which has a good free tier. 
+For dynamic things, you could use [heroku](https://www.heroku.com/) which has a good free tier, it is also part of the [GitHub Student Developer Pack](https://www.heroku.com/github-students).
 (As well as not a bad option for bots.)
 
 Firebase also works pretty well if you don't want to maintain any
