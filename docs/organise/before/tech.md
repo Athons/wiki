@@ -7,13 +7,13 @@ Two main options here:
 
 ## Web Hosting
 
-Both [Netlify](https://www.netlify.com/) and [GitHub Pages](https://pages.github.com/) are great for static sites and what this wiki is hosted on GitHub Pages and compiled with [GitHub Actions](https://github.com/features/actions).
+Both [Netlify](https://www.netlify.com/) and [GitHub Pages](https://pages.github.com/) are great for static sites. This wiki is hosted on GitHub Pages and compiled with [GitHub Actions](https://github.com/features/actions).
 
 For dynamic things, you could use [heroku](https://www.heroku.com/) which has a good free tier, it is also part of the [GitHub Student Developer Pack](https://www.heroku.com/github-students).
-(As well as not a bad option for bots.)
 
-Firebase also works pretty well if you don't want to maintain any
-infrastructure.
+[Firebase](https://firebase.google.com) also works pretty well if you don't want to maintain any infrastructure, but can be limiting as it adopts a serverless model. It's also worth noting, Google's had a history of deprecating features on short notice for the Firebase platform.
+
+If you need a fully fledged virtual machine, both [Google Cloud](https://cloud.google.com/free) and [Amazon Web Services](https://aws.amazon.com/free/) offer free tiers for [Compute Engine](https://cloud.google.com/compute) and [Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/).
 
 ## Info Hub
 
