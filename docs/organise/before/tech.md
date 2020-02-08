@@ -33,6 +33,8 @@ Slack is chat platform designed for corporate and enterprise use, it's been adop
   * Limited permissions model
   * 10 Apps/Bots per workspace limit
 
+**Note**: If using slack, make sure to disable public email and phone number listings within the workspace
+
 ## Web Hosting
 
 Both [Netlify](https://www.netlify.com/) and [GitHub Pages](https://pages.github.com/) are great for static sites. This wiki is hosted on GitHub Pages and compiled with [GitHub Actions](https://github.com/features/actions).
