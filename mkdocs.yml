@@ -65,17 +65,20 @@ theme:
     icon: computer
   feature:
     tabs: true
+  custom_dir: 'theme'
 
 extra:
   social:
     - type: globe
-      link: https://hackathonhackers.eu
+      link: https://hackathons.org.uk
     - type: facebook
       link: https://www.facebook.com/groups/hackathonhackerseu/
     - type: twitter
-      link: https://twitter.com/_HHEU
+      link: https://twitter.com/Hackathons_UK
     - type: github-alt
-      link: https://github.com/hheu
+      link: https://github.com/Hackathons-UK
+    - type: discord
+      link: https://hack.athon.uk/discord
 
 extra_css: 
   - static/css/theme.css
