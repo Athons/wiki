@@ -69,15 +69,15 @@ theme:
 
 extra:
   social:
-    - type: globe
+    - type: fas fa-globe
       link: https://hackathons.org.uk
-    - type: facebook
+    - type: fab fa-facebook-f
       link: https://www.facebook.com/groups/hackathonhackerseu/
-    - type: twitter
+    - type: fab fa-twitter
       link: https://twitter.com/Hackathons_UK
-    - type: github-alt
+    - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
-    - type: discord
+    - type: fab fa-discord
       link: https://hack.athon.uk/discord
 
 extra_css: 
