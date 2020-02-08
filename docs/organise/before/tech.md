@@ -1,9 +1,37 @@
 ## Communication
 
-Two main options here:
+In the immediate run up to, during and after the event, it's important to have a solid platform for communicating with your attendees, sponsors, volunteers, etc. Historically, the two main options have been [Discord](https://discordapp.com/) and [Slack](https://slack.com/).
 
-* Discord
-* Slack
+If you're feeling adventurous, and are confident in your I.T. infrastructure and abilities to maintain it, [Rocket.Chat](https://rocket.chat/) is also an option that has been passed around in the past.
+
+### [Discord](https://discordapp.com/)
+Discord is a chat platform originally targeted at gamers. However, has recently seen an uptick in adoption by communities, especially on reddit, but recently also within tech and academic environments.
+#### Pros
+  * No account creation required (if already on platform)
+  * Straightforward Permissions Model
+  * No message limit
+  * More reliable for pre/post-event communications
+  * Easier to indicate mentors/organizers etc. using roles
+
+#### Cons
+  * No message threading
+  * Limited customizable features e.g. emojis
+  * Limitations with platform privacy e.g. mixing anonymous gamer communities with in-person hackathons
+
+### [Slack](https://slack.com/)
+Slack is chat platform designed for corporate and enterprise use, it's been adopted by thousands both tech and other-sector companies. And has also seen widespread adoption as the platform of choice for tech events.
+#### Pros
+  * Workspace specific DMs
+  * Users can create channels
+  * Message Threading
+  * Unlimited custom emojis
+  * Slackbot Keywords
+
+#### Cons
+  * 10,000 message limit
+  * Requires new account per workspace
+  * Limited permissions model
+  * 10 Apps/Bots per workspace limit
 
 ## Web Hosting
 
