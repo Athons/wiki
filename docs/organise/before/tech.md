@@ -45,6 +45,27 @@ For dynamic things, you could use [heroku](https://www.heroku.com/) which has a 
 
 If you need a fully fledged virtual machine, both [Google Cloud](https://cloud.google.com/free) and [Amazon Web Services](https://aws.amazon.com/free/) offer free tiers for [Compute Engine](https://cloud.google.com/compute) and [Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/).
 
+## Shortlinks/URL Shorteners
+Using shortlinks is key to providing links to resources at various points during your event, especially when they're presented to attendees in a form that doesn't give them an immediate hyperlink (e.g. opening ceremony slides, over a PA, etc.).
+
+Generally speaking their are two common approaches to providing shortlinks, using a url shortener (e.g. <u>_example.com/devpost_</u>) or using subdomains (e.g. <u>_devpost.example.com_</u>). Both approaches accomplish the same thing however require different types of configuration, DNS vs. running a web service.
+
+### URL Shorteners
+There are loads of options and approaches you can take for URL shortening. Primarily, using a service like [bit.ly](https://bit.ly), or hosting your own. The primary advantage of hosting your own over using a service is the ability to control the domain it runs on. However, as with hosting anything, there's a significantly higher risk of downtime as you're responsible for the infrastructure.
+
+Two of the most popular free URL shorteners are [bit.ly](https://bit.ly) and [tinyurl](https://tinyurl.com). bit.ly also lets you customize your links and provides analytics.
+
+Additionally, some paid options for URL shorteners that support custom domains are [bit.ly](https://bit.ly), [rebrandly](https://rebrandly.com), and [short.cm](https://short.cm). Please note, we do not explicitly endorse any of the listed services.
+
+If you wish to host your own URL shortener a couple of options are (smtchahal/url-shortener)[https://github.com/smtchahal/url-shortener] which uses Django and can easily be deployed to [Heroku](https://elements.heroku.com/buttons/smtchahal/url-shortener), and [Polr](https://polrproject.org/) which is built in PHP and can easily be deployed using [Docker or Kubernetes](https://hub.docker.com/r/ajanvier/polr) or to a service like [Google Cloud Run](https://cloud.google.com/run).
+
+Running your URL shortener on your root domain (e.g. example.com) and then your website on (www.example.com) and setting up requests to the root to redirect to the website by default can add an extra touch of professionalism to your event. As of January 2020, HackNotts runs Polr on [hacknotts.com](hacknotts.com) and defaults traffic to [www.hacknotts.com](https://www.hacknotts.com) which runs on GitHub pages.
+
+### Subdomains
+Many domain registrars such as [Gandi](https://gandi.net) and [Google Domains](https://domains.google) are able to offer subdomain redirecting for free provided you don't use custom nameservers.
+
+It's worth noting, that unlike an HTTP redirect using a URL shortener, subdomain redirects will often have a delay while DNS servers propagate the new record. Additionally, if hackers enter the subdomain incorrectly, they're likely to just get shown a "server IP address could not be found." error in the browser.
+
 ## Info Hub
 
 The Manchester CS society wrote a [hub](https://github.com/unicsmcr/hs_hub)
