@@ -45,6 +45,27 @@ For dynamic things, you could use [heroku](https://www.heroku.com/) which has a 
 
 If you need a fully fledged virtual machine, both [Google Cloud](https://cloud.google.com/free) and [Amazon Web Services](https://aws.amazon.com/free/) offer free tiers for [Compute Engine](https://cloud.google.com/compute) and [Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/).
 
+## Ticketing and Applications
+There are generally two ways to manage sign-ups to your hackathon: tickets and applications.
+
+For both options there are plenty of options for platforms, but here are some of the most common.
+
+### Tickets
+When picking a ticketing platform, it's important to factor in what you value most (e.g. customizability, ticket management, mailing list support etc.).
+
+#### [Tito](https://ti.to)
+
+#### [Eventbrite](https://www.eventbrite.co.uk/)
+
+
+### Applications
+
+#### [Typeform](https://typeform.com)
+
+#### [Quill](https://github.com/techx/quill)
+
+#### [HackAssistant Registration](https://github.com/HackAssistant/registration)
+
 ## Shortlinks/URL Shorteners
 Using shortlinks is key to providing links to resources at various points during your event, especially when they're presented to attendees in a form that doesn't give them an immediate hyperlink (e.g. opening ceremony slides, over a PA, etc.).
 
