@@ -43,7 +43,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | Hack The South 2020 | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | ?? | 8th-9th February 2020 |
 | CovHack2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
-| JunctionX Exeter | [junctionexeter.com](https://junctionxexeter.com/) | University of Exeter | ?? | 21st-23rd February 2020 |
+| JunctionX Exeter | [junctionxexeter.com](https://junctionxexeter.com/) | University of Exeter | ?? | 21st-23rd February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
 | HackSurrey v3.0 | [hacksurrey.github.io/v3.0](https://hacksurrey.github.io/v3.0/) | University of Surrey | 150 | 22nd-23rd February 2020 |
 | Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | ?? | 29th February-1st March 2020 |
