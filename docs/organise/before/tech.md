@@ -61,7 +61,6 @@ Tito hasn't been around as long, and has more of a startup/small operation feeli
 
 It's worth noting, though, tito can be a bit awkward for some, such that an order is not a ticket, you need to assign one. Which means abandoned tickets can sometimes cause issues with total availability.
 
-
 ### Applications
 There are loads of options for applications, below are some of the most common. If you want a dedicated platform, you'll have to self-host 99% of the time, but there are still plenty of ways to run effective applications without using one.
 
@@ -117,3 +116,17 @@ for HackNotts by [@MrJamesCo](https://twitter.com/MrJamesCo).
 
 If you are running a very large event with a huge venue, it might be worth
 forking [c3nav](https://github.com/c3nav/c3nav).
+
+## Hardware Loaning
+It isn't uncommon for events to have their own hardware that they're able to lend to hackers. Below are some proposed solutions to keeping track of who has what.
+
+If you go with the Google Form/Sheet or Snipe-IT options, it's of relative importance to ensure you have someway of having hackers agree to terms and conditions.
+
+### Google Form and a Google Sheet
+The "low-fi" solution, but fairly reliable. You can make this solution as complex or simple as you want, but at its core, have a google form for requesting hardware, and then let have your volunteers update and add entires to a spreadsheet when people borrow and return hardware.
+
+### [MLH Hardware Lab](https://hardware.mlh.io)
+Unfortunately, this solution only really applies to events that are partnered with Major League Hacking, but if you are, you can give your hardware to your MLH coach, and they can add your equipment to the MLH Hardware Lab page for the event.
+
+### [Snipe-IT](https://snipeitapp.com/)
+Arguably a bit overkill for a hackathon, it's certainly a valid option if you already use their platform for other community activities. Snipe-IT is a powerful open source asset management system that's used by many companies and organizations of varying sizes. An advantage of Snipe-IT over the others is that it takes care of and gives you access to asset history, and other actions. It also, unlike the MLH Hardware Lab, can allow the person staffing your check-in/check-out to loan equipment to individuals without requiring them to register/request hardware in advance.
