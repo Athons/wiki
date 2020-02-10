@@ -63,12 +63,16 @@ It's worth noting, though, tito can be a bit awkward for some, such that an orde
 
 
 ### Applications
+There are loads of options for applications, below are some of the most common. If you want a dedicated platform, you'll have to self-host 99% of the time, but there are still plenty of ways to run effective applications without using one.
 
 #### [Typeform](https://typeform.com)
+Typeform isn't a platform for applications, it isn't really anything more than a really pretty and powerful web form maker. Many events have used Typeform for hackathon applications and registrations of the years. They also offer student discount pricing, and have been known to sponsor some hackathons in the past.
 
 #### [Quill](https://github.com/techx/quill)
+Quill is also incredibly common, and popular. It's built in JavaScript using express.js and angular.js, originally for HackMIT. Events all over the UK and Europe now use it for their application system as it's simple to setup and use, and fairly easy to customize.
 
 #### [HackAssistant Registration](https://github.com/HackAssistant/registration)
+HackAssistant has been tried and tested by some of the communities largest events, originally built for HackUPC and HackCU (in Barcelona, and Colorado). Unlike Quill it also provides tools for ranking applications. It's also easily customizable, and can be deployed to Heroku easily.
 
 ## Shortlinks/URL Shorteners
 Using shortlinks is key to providing links to resources at various points during your event, especially when they're presented to attendees in a form that doesn't give them an immediate hyperlink (e.g. opening ceremony slides, over a PA, etc.).
