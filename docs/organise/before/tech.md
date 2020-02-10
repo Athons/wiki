@@ -51,11 +51,15 @@ There are generally two ways to manage sign-ups to your hackathon: tickets and a
 For both options there are plenty of options for platforms, but here are some of the most common.
 
 ### Tickets
-When picking a ticketing platform, it's important to factor in what you value most (e.g. customizability, ticket management, mailing list support etc.).
-
-#### [Tito](https://ti.to)
+When picking a ticketing platform, it's important to factor in what you value most (e.g. customizability, ticket management, mailing list support etc.). The two most widely used platforms are [Tito](https://ti.to) and [Eventbrite](https://www.eventbrite.co.uk/). They're fairly comparable platforms, but they have some differences noted below.
 
 #### [Eventbrite](https://www.eventbrite.co.uk/)
+Eventbrite has been around for a long time, and operates as both an event discovery system and a ticketing platform. Some of its key advantages are built integrations with services like Mailchimp, the ability to search the platform for events, it also tends to have a better track record when dealing with high volume traffic, which is important if your batches tend to sell out in seconds.
+
+#### [Tito](https://ti.to)
+Tito hasn't been around as long, and has more of a startup/small operation feeling, but it tends to offer a load of features that organizers value. While tito doesn't natively integrate with mailing list services, it does have a fairly competent mailing list tool (which you have to request access to). But where it really shines is in customizability, a ticket page on tito is dedicated to your event, and you're able to set a custom domain, details data and gdpr policies, use custom styles etc.
+
+It's worth noting, though, tito can be a bit awkward for some, such that an order is not a ticket, you need to assign one. Which means abandoned tickets can sometimes cause issues with total availability.
 
 
 ### Applications
