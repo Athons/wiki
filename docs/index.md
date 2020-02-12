@@ -40,8 +40,6 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
-| Hack The South 2020 | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | ?? | 8th-9th February 2020 |
 | CovHack2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
 | JunctionX Exeter | [junctionxexeter.com](https://junctionxexeter.com/) | University of Exeter | ?? | 21st-23rd February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
@@ -73,6 +71,8 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
+| Hack The South 2020 | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | 75 | 8th-9th February 2020 |
+| IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
 | Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
 | Royal Hackaway v3 | [royalhackaway.com/hackawayv3](https://royalhackaway.com/hackawayv3) | Royal Holloway, University of London | 75 | 1st-2nd February 2020|
 | ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
