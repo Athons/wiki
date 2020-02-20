@@ -66,6 +66,12 @@
     "filename": "meta/colin.json"
   },
   {
+    "raster": "hexagons/covhack-201920.png",
+    "name": "covhack-201920",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/covhack-201920.json"
+  },
+  {
     "name": "CovHack 2019",
     "raster": "hexagons/covhack19.png",
     "description": "CovHack 2019 Sticker",
