@@ -2,7 +2,7 @@
 
 ### Hackathons UK unconference 
 
-This is a conference for hackathon organisers of UK hackathons to get together, help eachother, network and discuss various topics. No fixed adgenda.
+This is a conference for hackathon organisers of UK hackathons to get together, help each other, network and discuss various topics. No fixed agenda.
 
 Being run out of the [MMU Business School](https://www.google.com/maps/place/Manchester+Metropolitan+University+Business+School/@53.4709725,-2.2411787,17z/data=!3m1!4b1!4m5!3m4!1s0x487bb1be49ec27dd:0x236f941c8f2d5bba!8m2!3d53.4709725!4d-2.23899) on 4th April 2020
 
