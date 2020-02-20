@@ -51,7 +51,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 | CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | HackThePlug   | [hacktheplug.tech](https://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
-| Hackathons UK Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) |  Manchester Metropolitan University  | ~50 | 4th April 2020 |
+| Hackathons UK Unconference | TBC |  Manchester Metropolitan University  | ~50 | 4th April 2020 |
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
 | StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | University of Manchester & Manchester Metropolitan| 250 | 25th-26th April 2020 |
 
