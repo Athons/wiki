@@ -3,9 +3,9 @@ Hackathons can't run without sponsors, and getting sponsorship is one of the har
 
 ## Prospectus 
 You need to write a sponsorship prospectus. You can find tons of examples in 
-the [MLHs repository](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
+the [MLHs repository](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks).
 
-The DurHack19 Sponsorship Deck can be found [here](/static/documents/decks/DH19SponsorshipDeck.pdf)
+The DurHack19 Sponsorship Deck can be found [here](/static/documents/decks/DH19SponsorshipDeck.pdf).
 
 ## Finding Sponsors
 Unfortunately the best way to get sponsorship is to 'cold email' as many companies as possible. Remember to try and tailor the initial email to the company and to think about what that company will want to get out of the hackathon, a local startup will want something very different to Microsoft.
@@ -41,8 +41,8 @@ _Note: This is a sample tier system with addons._
 || Top Tier | Mid Tier | Low Tier |
 |--|-----------|-------------|-------------|
 |Tier Description| This is the best tier which will provide the most amount of abilities in the hackathon. | This is the most common tier which will provide the stable amount of abilities within the hackathon. | This is the beginning tier which will provide the stable amount of abilities within the hackathon.  |
-|Addons / Perks|<ul><li>2+ Workshops</li><li>Abilitiy to come to the hackathon</li><li>Social Media Presence</li><li>Judging Panel</li></ul> | <ul><li>Abilitiy to come to the hackathon</li><li>1-2 Workshop</li><li>Social Media Presence</li><li>Judging Panel</li></ul> | <ul><li>Social Media Presence</li></li>No Workshop</li><li>Swag Pack</li></ul>|
-|Tier Price Logic| Can be at least 10-20% of the hackathon budget | Can be at least 1/3 to 40% of the hackathon budget | Can be at least 25% of the hackathon budget |
+|Addons / Perks|<ul><li>Abilitiy to come to the hackathon</li><li>2+ Workshops</li><li>Social Media Presence</li><li>Judging Panel</li></ul> | <ul><li>Abilitiy to come to the hackathon</li><li>1-2 Workshop</li><li>Social Media Presence</li><li>Judging Panel</li></ul> | <ul><li>Social Media Presence</li><li>No Workshop</li><li>Swag Pack</li></ul>|
+|Tier Price Guidance| Around 30-40% of the hackathon budget | Around 15-25% of the hackathon budget | Around 10% of the hackathon budget |
 |First-time hackathons projections| Best to have up to 2 if possible. | Best to have up to 1 if possible. | Best to have more than 2 if possible. You can also have no low tier sponsors but it's advised to have a couple. |
 
 ## Example

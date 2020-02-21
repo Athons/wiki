@@ -10,7 +10,7 @@ _Note: Some can also provide more technical-heavy workshops, but it is uncommon.
 
 Hackathons, if capable and able to, will also allow associated sponsors to provide their own workshops to provide more understanding of how to use their products.
 
-* Twillio / Nexmo with their API usage
+* Twilio / Nexmo with their API usage
 * GitHub with their internal systems (Previously ElectronJS) 
 
 You can also find, if doable, organisers or the university's hackathon/CS Society will provide providing their own workshops.
@@ -28,3 +28,4 @@ You can find some of the other workshops run by members of the hacker community.
 | [Docker Dino Workshop](https://github.com/jedevc/docker-dino-demo) | [Justin Chadwell](https://github.com/jedevc) | [Developer Student Clubs](https://developers.google.com/community/dsc) at the University of Birmingham
 | [Git Workshop](https://github.com/wrussell1999/git-workshop) | [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://github.com/wrussell1999) | [Developer Student Clubs](https://developers.google.com/community/dsc) at the University of Birmingham |
 | [Google Cloud Vision Workshop](https://github.com/jedevc/blurbot-workshop) | [Justin Chadwell](https://github.com/jedevc) | [HackTheMidlands](https://hackthemidlands.com) 4.0 |
+| [Introduction to Android Development](http://github.com/wrussell1999/android-workshop-kotlin) | [Will Russell](https://github.com/wrussell1999) | [ManMetHacks](https://manmethacks.com) 2.0 | 
