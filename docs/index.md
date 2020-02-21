@@ -26,7 +26,7 @@ HHEU supports the MLH Ducky the Debugger for he protecc, he attacc, but most of 
 
 ## Contribute
 
-You can find the Git Repository [here](https://github.com/HHEU/wiki)
+You can find the Git Repository [here](https://github.com/Hackathons-UK/wiki)
 
 Feel free to send Pull Requests to update the content!
 
