@@ -4,6 +4,7 @@ Hackers love stickers!
 
 If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and GitHub stickers as well.
 
+You can find some examples of hex stickers [here](/https://hack.athon.uk/art), if you want to add your own sticker to this list you can make a [pr](https://github.com/Hackathons-UK/hexbin).
 ### Sticker Providers
 
 These are some providers that have been known to hackathons & hackers (feel free to add any other providers as see fit).
@@ -18,12 +19,14 @@ These are some providers that have been known to hackathons & hackers (feel free
 
 ### Sticker Sizes
 
-If you are wanting your own hackathon laptop sticker, you can create your own. These have been some popular sticker types regularly seen
+If you are wanting your own hackathon laptop sticker, you can create your own.
+There is a defacto standard for sizes (need to make sure the hexagons all line up) and it can be found [here](https://sticker.how).
 
+These have been some popular sticker types regularly seen:
 * Custom Hexagon Stickers (Use [Stickermule's dedicated Hexagon template](https://downloads.ctfassets.net/rw1l6cgr235r/6s5KQ6UkfeMaKgcCW6EySu/335f6657fe821bae394afb30dad54955/hexagon-sticker-templates.zip) as a guideline to create them.)
-    * General size is mainly 1.73" x 2"
+    * General size is mainly 44m x 51mm (1.73" x 2")
 * Square sized stickers
-    * 40mm x 40mm
+    * 40mm x 40mm 
     * 50mm x 50mm
 * Rectangular-sized stickers
     * Usually 50mm x 80-100mm
