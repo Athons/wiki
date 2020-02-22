@@ -3,7 +3,9 @@
 ##### Recurring Hackathon
 If it is a continuing hackathon, grab the statistics from the most recent hackathon, and work off of the pros and cons from the last to create a skeleton for the next one.
 ##### Brand new hackathon
-Make sure you have an organising team ready. MLH does have a massive documentation with how to organise a hack within a year.
+Make sure you have an organising team ready. MLH does have a massive documentation with how to organise a hack within a year. We have  put together an [Organiser toolkit](https://drive.google.com/uc?export=download&id=ttps://drive.google.com/drive/u/2/folders/1iIOneyeHVOUFHOfWB-psFwDIbxBxRgF) with everything you may need to get the ball rolling!  
+
+Email [tom.misson@hackathons.org.uk](mailto:tom.misson@hackathons.org.uk) if you think there is anything that needs to be added!
 
 #### Hackathon Organising Team
 Make sure that it is a team of at least 5-6 and more depending on the size and location of the hackathon.
