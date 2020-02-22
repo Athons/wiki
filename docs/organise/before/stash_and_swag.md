@@ -26,7 +26,7 @@ These have been some popular sticker types regularly seen:
 * Custom Hexagon Stickers (Use [Stickermule's dedicated Hexagon template](https://downloads.ctfassets.net/rw1l6cgr235r/6s5KQ6UkfeMaKgcCW6EySu/335f6657fe821bae394afb30dad54955/hexagon-sticker-templates.zip) as a guideline to create them.)
     * General size is mainly 44m x 51mm (1.73" x 2")
 * Square sized stickers
-    * 40mm x 40mm 
+    * 40mm x 40mm
     * 50mm x 50mm
 * Rectangular-sized stickers
     * Usually 50mm x 80-100mm
