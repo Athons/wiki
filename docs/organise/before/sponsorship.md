@@ -13,7 +13,8 @@ Unfortunately the best way to get sponsorship is to 'cold email' as many compani
 A few could starting places when looking for sponsors:
 
 * Your university/department, most hackathons manage to get their Computer Science department (or equivalent) to put in some money, especially to help with a new hackathon.
-* Local county/city council.
+* Local county/city council. (Check for a culture fund!)
+* Large companies Student developer programs. Microsoft offers a good one!
 * Spinoff companies from your university/department.
 * Your department's advisory board, this is normally full of companies who want to help students! 
 
