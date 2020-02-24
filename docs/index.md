@@ -56,7 +56,7 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 |-----------------|-------|--------------------|--------------|----|
 | HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | Autumn 2020 |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 24th-25th October 2020 |
-| Hack Brunel 2.0  | [hackbrunel.com](https://hackbrunel.com/) | Brunel University London | 150 | 31st OCtober-1st November 2020 |
+| Hack Brunel 2.0  | [hackbrunel.com](https://hackbrunel.com/) | Brunel University London | 150 | 31st October-1st November 2020 |
 | DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | 425 | 14th-15th November 2020 |
 | HackNotts 2020  | [hacknotts.com](https://www.hacknotts.com) | University of Nottingham | 200 | 28th-29th November 2020 |
 
