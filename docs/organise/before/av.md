@@ -65,7 +65,7 @@ Contact Will by [email](mailto:will@will-russell.com) or on [Twitter](https://tw
 > 
 > — **Robbie Jakob-Whitworth**, Lead Organiser, DurHack 2017–2019
 
-#### ManMetHacks 2020
+#### ManMetHacks 2.0
 
 > Will's constant devotion to our event and the AV solutions involved were far more than anyone could have expected 
 > for a volunteer. He created animated assets that adhered to the branding guidelines and looked stunning and really added 
