@@ -16,22 +16,13 @@ Student Hackathons ran at all the various Universities around the country.
 Here you can find information on what to expect when attending, event information
 and help with organising your own hackathon!
 
-We also have a Discord server, whether you're an experienced organiser or want to attend your first hackathon or something inbetween join us [here](https://hack.athon.uk/discord).
-
-This site was set up by [@baahorn](https://twitter.com/baahorn), who
-previously organised [CovHack](https://covhack.org), and currently managed by
-[HHEU](https://hackathonhackers.eu).  
-
-HHEU supports the MLH Ducky the Debugger for he protecc, he attacc, but most of all he love to hacc!
+We also have a Discord server, whether you're an experienced organiser or want
+to attend your first hackathon or something inbetween join us [here](https://hack.athon.uk/discord).
 
 ## Contribute
 
-You can find the Git Repository [here](https://github.com/Hackathons-UK/wiki)
-
+You can find the Git Repository [here](https://github.com/Hackathons-UK/wiki).
 Feel free to send Pull Requests to update the content!
-
-Site is built with [mkdocs](https://www.mkdocs.org) with the
-[Material Design](https://squidfunk.github.io/mkdocs-material/) theme.
 
 # Upcoming Events
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
