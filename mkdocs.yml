@@ -8,6 +8,7 @@ nav:
     - Art: 'art/index.md'
     - Events:
       - Index: 'events/index.md'
+      - List: 'events/list.md'
       - Family Tree: 'events/familytree.md'
       - HackSoc Lists:
         - Twitter: 'events/lists/twitter.md'
