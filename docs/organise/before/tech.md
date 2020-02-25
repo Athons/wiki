@@ -87,7 +87,7 @@ Additionally, some paid options for URL shorteners that support custom domains a
 
 If you wish to host your own URL shortener a couple of options are (smtchahal/url-shortener)[https://github.com/smtchahal/url-shortener] which uses Django and can easily be deployed to [Heroku](https://elements.heroku.com/buttons/smtchahal/url-shortener), and [Polr](https://polrproject.org/) which is built in PHP and can easily be deployed using [Docker or Kubernetes](https://hub.docker.com/r/ajanvier/polr) or to a service like [Google Cloud Run](https://cloud.google.com/run).
 
-Running your URL shortener on your root domain (e.g. example.com) and then your website on (www.example.com) and setting up requests to the root to redirect to the website by default can add an extra touch of professionalism to your event. As of January 2020, HackNotts runs Polr on [hacknotts.com](hacknotts.com) and defaults traffic to [www.hacknotts.com](https://www.hacknotts.com) which runs on GitHub pages.
+Running your URL shortener on your root domain (e.g. example.com) and then your website on (www.example.com) and setting up requests to the root to redirect to the website by default can add an extra touch of professionalism to your event. As of January 2020, HackNotts runs Polr on [hacknotts.com](https://www.hacknotts.com) and defaults traffic to [www.hacknotts.com](https://www.hacknotts.com) which runs on GitHub pages.
 
 ### Subdomains
 Many domain registrars such as [Gandi](https://gandi.net) and [Google Domains](https://domains.google) are able to offer subdomain redirecting for free provided you don't use custom nameservers.
