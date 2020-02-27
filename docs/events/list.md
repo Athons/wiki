@@ -21,7 +21,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 ## Autumn 2020
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Birmingham (Venue TBC) | 300 | 24th-25th October 2020 (TBC) 
+| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Birmingham (Venue TBC) | 300 | 24th-25th October 2020 (TBC) |
 | R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 24th-25th October 2020 |
 | Hack Brunel 2.0  | [hackbrunel.com](https://hackbrunel.com/) | Brunel University London | 150 | 31st October-1st November 2020 |
 | hackSheffield 6.0 | [hacksheffield.com](https://hacksheffield.com) | University of Sheffield | 200 | 7th-8th November 2020 |
