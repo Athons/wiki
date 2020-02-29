@@ -11,6 +11,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 | IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | Hack Keele | [Facebook post](https://www.facebook.com/hackkeele/posts/2571192316537510) | Keele University | ?? | 29th February 2020 |
+| StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
 | CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | HackThePlug   | [hacktheplug.tech](https://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
