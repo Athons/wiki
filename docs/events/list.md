@@ -7,10 +7,6 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 240 | 29th February-1st March 2020 |
-| IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
-| AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
-| Hack Keele | [Facebook post](https://www.facebook.com/hackkeele/posts/2571192316537510) | Keele University | ?? | 29th February 2020 |
 | StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
 | CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
@@ -39,10 +35,14 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| JunctionX Exeter | [junctionxexeter.com](https://junctionxexeter.com/) | University of Exeter | 300 | 21st-23rd February 2020 |
+| Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 240 | 29th February-1st March 2020 |
+| IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
+| AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
+| Hack Keele | [Facebook post](https://www.facebook.com/hackkeele/posts/2571192316537510) | Keele University | ?? | 29th February 2020 |
 | ECSS CampusHack20 | [eventbrite/campushack20](https://www.eventbrite.co.uk/e/campushack20-tickets-91715420291) | University of Southampton | ?? | 22nd-23rd February 2020 |
 | RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
 | HackSurrey v3.0 | [hacksurrey.github.io/v3.0](https://hacksurrey.github.io/v3.0/) | University of Surrey | 150 | 22nd-23rd February 2020 |
+| JunctionX Exeter | [junctionxexeter.com](https://junctionxexeter.com/) | University of Exeter | 300 | 21st-23rd February 2020 |
 | CovHack2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
 | Hack The South 2020 | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | 75 | 8th-9th February 2020 |
 | IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 400 | 8th-9th February 2020 |
