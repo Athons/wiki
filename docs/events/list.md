@@ -17,7 +17,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 | HackThePlug   | [hacktheplug.tech](https://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
 | Hackathons UK Unconference | TBC |  Manchester Metropolitan University  | ~50 | 4th April 2020 |
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | 18th-19th April 2020 |
-| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | University of Manchester & Manchester Metropolitan| 250 | 25th-26th April 2020 |
+| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
 
 
 ## Autumn 2020
