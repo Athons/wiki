@@ -363,6 +363,12 @@
     "filename": "meta/hack_sussex201718.json"
   },
   {
+    "raster": "hexagons/Hack_the_Burgh_201920.png",
+    "name": "Hack_the_Burgh_201920",
+    "description": "2020 season I demoed sticker",
+    "filename": "meta/Hack_the_Burgh_201920.json"
+  },
+  {
     "name": "hack.athon.uk",
     "raster": "hexagons/hackathonuk.png",
     "description": "hack.athon.uk Hex sticker",
