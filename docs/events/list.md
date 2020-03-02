@@ -35,7 +35,7 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 240 | 29th February-1st March 2020 |
+| Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 200 | 29th February-1st March 2020 |
 | IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | Hack Keele | [Facebook post](https://www.facebook.com/hackkeele/posts/2571192316537510) | Keele University | ?? | 29th February 2020 |
