@@ -8,7 +8,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
-| CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 200 | 14th-15th March 2020 |
+| CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 110 | 14th-15th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | HackThePlug   | [hacktheplug.tech](https://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
 | Hackathons UK Unconference | TBC |  Manchester Metropolitan University  | ~50 | 4th April 2020 |
