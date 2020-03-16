@@ -7,9 +7,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
-| CreatED Hack '20 | [createdhack.com](https://createdhack.com/) | University of Edinburgh | 110 | 14th-15th March 2020 |
-| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
+| HackQuarantine | [hackquarantine.com](https://hackquarantine.com/) | Online | ?? | 23rd March-12th April 2020 |
 | HackThePlug   | [hacktheplug.tech](https://hacktheplug.tech/) | University of Bath | ?? |  28th-29th March 2020 |
 | Hackathons UK Unconference | TBC |  Manchester Metropolitan University  | ~50 | 4th April 2020 |
 | StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
@@ -35,6 +33,8 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
+| StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
+| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 200 | 29th February-1st March 2020 |
 | IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
 | AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
