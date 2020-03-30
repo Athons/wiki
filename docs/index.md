@@ -34,7 +34,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | HackQuarantine | [hackquarantine.com](https://hackquarantine.com/) | Online | ?? | 23rd March-12th April 2020 |
-| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
+| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | Online| 250 | 25th-26th April 2020 |
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
 
 
