@@ -62,10 +62,13 @@ theme:
   palette:
     primary: 'pink'
     accent: 'pink'
-  logo:
-    icon: computer
-  feature:
-    tabs: true
+  icon:
+    logo: material/beaker
+    repo: fontawesome/brands/git-alt
+    
+  features:
+    - tabs
+    - instant
   custom_dir: 'theme'
 
 extra:
@@ -84,3 +87,18 @@ extra:
 extra_css: 
   - static/css/theme.css
   - static/css/home.css
+
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+  - minify:
+      minify_html: true
