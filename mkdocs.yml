@@ -62,8 +62,10 @@ theme:
   palette:
     primary: 'pink'
     accent: 'pink'
-  logo:
-    icon: computer
+  icon:
+    logo: material/beaker
+    repo: fontawesome/brands/git-alt
+    
   feature:
     tabs: true
   custom_dir: 'theme'
