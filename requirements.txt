@@ -21,7 +21,6 @@ mkdocs-material==5.0.1
 mkdocs-minify-plugin==0.2.3
 nltk==3.4.5
 pep562==1.0
-pkg-resources==0.0.0
 Pygments==2.6.1
 pymdown-extensions==7.0
 pytz==2019.3
