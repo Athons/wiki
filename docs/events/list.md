@@ -7,7 +7,6 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| HackQuarantine | [hackquarantine.com](https://hackquarantine.com/) | Online | ?? | 23rd March-12th April 2020 |
 | StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
 
@@ -31,6 +30,7 @@ This list showcases past UK student-run hackathons (most recent first).
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
+| HackQuarantine | [hackquarantine.com](https://hackquarantine.com/) | Online | ?? | 23rd March-12th April 2020 |
 | StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
 | HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
 | Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 200 | 29th February-1st March 2020 |
