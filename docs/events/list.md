@@ -7,7 +7,6 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
-| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
 
 
@@ -48,6 +47,7 @@ This list showcases past UK student-run hackathons (most recent first).
 | Royal Hackaway v3 | [royalhackaway.com/hackawayv3](https://royalhackaway.com/hackawayv3) | Royal Holloway, University of London | 75 | 1st-2nd February 2020|
 | ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
 | Hack Cambridge 101 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
+| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
 
 
 ### Autumn 2019
