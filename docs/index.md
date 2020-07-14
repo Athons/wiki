@@ -29,12 +29,17 @@ Feel free to send Pull Requests to update the content!
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
 
+## Summer 2020
+
+|Hackathon        |Website|   Location         |No. of Hackers|Date|
+|-----------------|-------|--------------------|--------------|----|
+| STEAM AiHack | [hack.innovationfest.co.uk/AiHack/](https://hack.innovationfest.co.uk/AiHack/) | Birmingham (Online) | 100 | 27th-31st July 2020
+
 ## Spring 2020
 
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
 |-----------------|-------|--------------------|--------------|----|
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
-
 
 ## Autumn 2020
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
