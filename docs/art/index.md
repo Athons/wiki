@@ -43,6 +43,4 @@ Please share it as a vector (SVG, EPS, etc)!
 
 	}
 
-	
-
 </script>
