@@ -15,7 +15,7 @@
         <div class="header">
             <div class="backdrop" style="background-image: url('{{ background }}'")></div>
         </div>
-        <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
+        <img class="icon" src="{{ logo }}" alt="{{ hackathon.name }}">
         <dl class="hack-details">
             <dt class="name">Hackathon</dt>
             <dd class="name">{{ hackathon.name }}</dd>
