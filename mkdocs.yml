@@ -93,7 +93,7 @@ extra:
       past: false
       hackathons:
         - name: STEAM AiHack
-          website: hack.innovationfest.co.uk/AiHack/
+          website: https://hack.innovationfest.co.uk/AiHack/
           location: Birmingham (Online)
           when: 27th-31st July 2020
           atendees: 100
