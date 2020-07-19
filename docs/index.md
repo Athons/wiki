@@ -22,7 +22,7 @@ template: overrides/home.html
 
 {% endfor %}
 
-Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/mkdocs.yml) to add your event! You can find the hackathons inside <code>hackathon_seasons:</code>
+Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/mkdocs.yml) to add your event! You can find the hackathons inside `hackathon_seasons:`
 
 # Past Events
 This list has been moved to [here](events/list)
