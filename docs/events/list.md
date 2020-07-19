@@ -9,11 +9,21 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
     
     {% for hackathon in extra.hackathons.autumn_2020 %}
 
+        {% set background = extra.cal %}
+        {% if hackathon.background is defined %}
+            {% set background = hackathon.background %}
+        {% endif %}
+
+        {% set logo = extra.cal %}
+        {% if hackathon.logo is defined %}
+            {% set logo = hackathon.logo %}
+        {% endif %}
+
         <a href="{{ hackathon.website }}">
             <div class="card">
                 <div class="header">
-                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-                    <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
+                    <div class="backdrop" style="background-image: url('{{ background }}'")></div>
+                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 </div>
                 <dl class="hack-details">
                     <dt class="name">Hackathon</dt>
@@ -34,16 +44,21 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 
 
-##  Autumn 2020
+##  TBC
 
 <div class="hack-list">
     
     {% for hackathon in extra.hackathons.tbc %}
 
+        {% set background = extra.cal %}
+        {% if hackathon.background is not none %}
+            {% set background = hackathon.background %}
+        {% endif %}
+
         <a href="{{ hackathon.website }}">
             <div class="card">
                 <div class="header">
-                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
+                    <div class="backdrop" style="background-image: url('{{ background }}'")></div>
                     <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
                 </div>
                 <dl class="hack-details">
