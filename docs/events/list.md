@@ -105,23 +105,6 @@ This list showcases past UK student-run hackathons (most recent first).
 {% endfor %}
 
 
-### Autumn 2019
-
-|Hackathon        |Website| University         |No. of Hackers|Date|
-|-----------------|-------|--------------------|--------------|----|
-| HackKing's 6.0  | [hackkings.org](https://hackkings.org/) | Kings College London | 150 | 30th November-1st December 2019 |
-| DurHack 2019    | [durhack.com](https://durhack.com) | Durham University | 200 | 23rd-24th November 2019 |
-| HackNotts 2019  | [hacknotts.com](https://www.hacknotts.com)  | University of Nottingham  | 200 | 16th-17th November 2019 |
-| Oxford Hack 2019 | [oxfordhack.co.uk](https://oxfordhack.co.uk/) | University of Oxford | 300 | 16th-17th November 2019 |
-| GreatUniHack 2019 | [greatunihack.com](https://greatunihack.com/) | University of Manchester | 200 | 16th-17th November 2019 |
-| HackSussex 2019 | [hacksussex.com](https://hacksussex.com/) | University of Sussex | 100 | 9th-10th November 2019 |
-| hackSheffield 5 | [hacksheffield.co](https://hacksheffield.co/) | University of Sheffield | 200 | 2nd-3rd November 2019 |
-| AstonHack 2019 | [astonhack.co.uk](https://astonhack.co.uk/) | Aston University, Birmingham | 175 | 2nd-3rd November 2019 |
-| HackTheMidlands 4.0 | [hackthemidlands.com](https://Hackthemidlands.com/) | Millennium Point, Curzon St, Birmingham B4 7XG | 300 | 26th-27th October 2019 |
-| HackBrunel | [hackbrunel.com](https://hackbrunel.com/) | Brunel University | 100 | 26th-27th October 2019 |
-| Do You Have The GUTS? | [gutechsoc.com/hackathon](https://gutechsoc.com/hackathon) | University of Glasgow | 300 | 18th-20th October 2019 |
-| HHEU Unconference | [hackathonhackers.eu](https://hackathonhackers.eu) | Nottingham University | 25 | 5th October 2019 |
-
 ### Spring 2019
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
