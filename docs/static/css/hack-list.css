@@ -1,23 +1,39 @@
 .hack-list {
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-start;
 }
 
 .hack-list .card {
-    width: 250px;
+    width: 200px;
+    border: #757575 solid 1px;
+    margin: 10px 20px;
 }
 
-.hack-list dl {
+.hack-list .card .header {
+    height: 170px;
+}
+
+.hack-list .card .header .backdrop {
+    height: 150px;
+}
+
+.hack-list .card .header .icon {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 50px;
+    bottom: 80px;
+}
+
+.hack-details {
     margin: 0;
+    margin-top: 0.9em;
 }
 
 .hack-details dt, .hack-details dd {
     margin: 0;
-    font-size: 0.8em;
-}
-
-.hack-details dd {
-    margin-top: 0.2em;
+    text-align: center;
 }
 
 .hack-details dt {
@@ -25,5 +41,6 @@
 }
 
 .hack-details dd.name {
-    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
 }
