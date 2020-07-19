@@ -13,7 +13,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
     
     {% for hackathon in season.hackathons %}
 
-        {% set background = extra.cal %}
+        {% set background = extra.placeholder_hackathon_background %}
         {% if hackathon.background is defined %}
             {% set background = hackathon.background %}
         {% endif %}
@@ -38,6 +38,13 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
                     
                     <dt class="date">Date</dt>
                     <dd class="date">{{ hackathon.when }}</dd>
+                    
+                    <dt class="additional-information">Additional Information</dt>
+                    <dd class="additional-information">
+                        <ul>
+                            <!--<li><i class="fas fa-laptop-code"></i> Digital</li>-->
+                        </ul>
+                    </dd>
                 </dl>
             </div>
         </a>

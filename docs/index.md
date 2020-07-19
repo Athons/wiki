@@ -40,7 +40,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
     
     {% for hackathon in season.hackathons %}
 
-        {% set background = extra.cal %}
+        {% set background = extra.placeholder_hackathon_background %}
         {% if hackathon.background is defined %}
             {% set background = hackathon.background %}
         {% endif %}

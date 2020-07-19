@@ -28,14 +28,15 @@
     height: 75px;
     width: 75px;
     margin-left: 15px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     float: left;
 }
 
 .hack-details {
     margin: 0;
     margin-top: 0.9em;
-    min-height: 90px;
+    min-height: 100px;
 }
 
 .hack-details dt, .hack-details dd {
@@ -43,6 +44,22 @@
     text-align: center;
     color: hsla(0, 0%, 0%, 0.87);
     font-size: 0.8em;
+}
+
+.hack-details dd ul {
+    margin: 0;
+    list-style: none;
+}
+
+.hack-details dd ul li {
+    display: inline;
+    background: #e92063;
+    color: white;
+    font-weight: bold;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    margin-left: 0px;
 }
 
 .hack-details dt {
