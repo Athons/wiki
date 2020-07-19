@@ -82,7 +82,7 @@ This list showcases past UK student-run hackathons (most recent first).
     
     {% for hackathon in season.hackathons %}
 
-        {% set background = extra.cal %}
+        {% set background = extra.placeholder_hackathon_background %}
         {% if hackathon.background is defined %}
             {% set background = hackathon.background %}
         {% endif %}
@@ -96,8 +96,8 @@ This list showcases past UK student-run hackathons (most recent first).
             <div class="card">
                 <div class="header">
                     <div class="backdrop" style="background-image: url('{{ background }}'")></div>
+                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 </div>
-                <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 <dl class="hack-details">
                     <dt class="name">Hackathon</dt>
                     <dd class="name">{{ hackathon.name }}</dd>
