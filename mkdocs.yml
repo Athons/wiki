@@ -2,7 +2,6 @@ site_name: UK Hackathons
 site_url: https://hack.athon.uk/
 
 nav:
-  - Home: 'index.md'
   - Community:
     - Index: 'index.md'
     - Art: 'art/index.md'
