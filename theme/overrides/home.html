@@ -13,18 +13,34 @@
 
             <!-- Hero image -->
             <div class="tx-hero__image">
-                    <img
-                    src="/static/svg/illustration.svg"
+                <!--    
+                <img
+                    src="/static/logo.svg"
                     alt=""
-                    height="200px"
+                    width="75%"
                     draggable="false"
-                    />
+                    />-->
             </div>
 
             <!-- Hero content -->
             <div class="tx-hero__content">
-                <h1>Wiki for the Hackathon Community</h1>
+                <h1>Welcome to the Hackathon Community!</h1>
                 <p>{{ config.site_description }}</p>
+                <a
+                    href="{{ config.social.discord}}"
+                    title="{{ lang.t('source.link.title') }}"
+                    class="md-button md-button--primary"
+                >
+                    Join the Discord
+                </a>
+
+                <a
+                    href="{{ config.repo_url }}"
+                    title="{{ lang.t('source.link.title') }}"
+                    class="md-button"
+                >
+                    Contribute
+                </a>
             </div>
         </div>
         <br />
@@ -49,4 +65,6 @@
     </article>
     </div>
 </section>
+
+
 {% endblock %}

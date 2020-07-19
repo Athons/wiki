@@ -1,7 +1,9 @@
 site_name: hack.athon.uk
 site_url: https://hack.athon.uk/
 site_description: |
-  Here you can find information on what to expect when attending, event information and help with organising your own hackathon!
+  A wiki for documenting how to get started attending and organising hackathons!
+
+repo_url: https://github.com/Hackathons-UK/wiki
 
 nav:
   - Home: 'index.md'
@@ -73,6 +75,10 @@ theme:
     - instant
   custom_dir: 'theme'
 
+social:
+  discord: https://discord.gg/fpFWRQP 
+
+
 extra:
   social:
     - type: fas fa-globe
@@ -84,7 +90,7 @@ extra:
     - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
     - type: fab fa-discord
-      link: https://hack.athon.uk/discord
+      link: https://discord.gg/fpFWRQP
 
 extra_css: 
   - static/css/theme.css

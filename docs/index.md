@@ -2,11 +2,6 @@
 template: overrides/home.html
 ---
 
-# Contribute
-
-You can find the Git Repository [here](https://github.com/Hackathons-UK/wiki).
-Feel free to send Pull Requests to update the content!
-
 # Upcoming Events
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
