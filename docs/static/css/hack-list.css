@@ -1,7 +1,7 @@
 .hack-list {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .hack-list .card {

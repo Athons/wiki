@@ -97,6 +97,7 @@ extra:
           location: Birmingham (Online)
           when: 27th-31st July 2020
           atendees: 100
+          digital: true
 
     - name: Autumn 2020
       past: false
@@ -108,31 +109,38 @@ extra:
           location: Birmingham (Venue TBC)
           when: 24th-25th October 2020 (TBC)
           atendees: 300
+          all_ages: true
+          digital: true
         - name: R.U. Hacking? 2020
           website: https://ruhacking.me/
           location: Reading University
           when: 24th-25th October 2020
           atendees: TBC
+          digital: true
         - name: Hack Brunel 2.0
           website: https://hackbrunel.com/
           location: Brunel University London
           when: 31st October-1st November 2020
           atendees: 150
+          digital: true
         - name: hackSheffield 6.0
           website: https://hacksheffield.com/
           location: University of Sheffield
           when: 7th-8th November 2020
           atendees: 200
+          digital: true
         - name: DurHack 2020
           website: https://durhack.com/
           location: Durham University
           when: 14th-15th November 2020
           atendees: 425
+          digital: true
         - name: HackNotts 2020
           website: https://www.hacknotts.com/
           location: University of Nottingham
           when: 28th-29th November 2020
           atendees: 200
+          digital: true
 
     - name: Spring 2020
       past: true
@@ -142,11 +150,13 @@ extra:
           location: Online
           when: 23rd March-12th April 2020
           atendees: null
+          digital: true
         - name: StacsHack 2020
           website: https://www.facebook.com/events/950732241970896/
           location: University of St Andrews
           when: 7th-8th March 2020
           atendees: null
+          digital: true
         - name: HackMed
           website: http://hackmed.uk/
           location: University of Sheffield
@@ -434,6 +444,7 @@ extra:
           location: Durham University
           when: TBC
           atendees: 100 (U18 only!)
+          u_18_only: true
 
 
 
