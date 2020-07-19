@@ -128,4 +128,8 @@
         transform: translate(12rem, 10%);
 
     }
+    
+    .tx-container {
+        margin-bottom: -5em;   
+    }
 }
