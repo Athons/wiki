@@ -104,22 +104,6 @@ This list showcases past UK student-run hackathons (most recent first).
 
 {% endfor %}
 
-
-### Spring 2019
-
-|Hackathon        |Website| University         |No. of Hackers|Date|
-|-----------------|-------|--------------------|--------------|----|
-| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | 100 | 30th-31st March 2019 |
-| CovHack 19   | [covhack.org](https://covhack.org) | Coventry University | 110 | 16th-17th March 2019 |
-| Hack the Burgh V | [hacktheburgh.com](https://2019.hacktheburgh.com) | University of Edinburgh | 200 | 16th-17th March 2019 |
-| R. U. Hacking? 2019   | [ruhacking.me](https://ruhacking.me) | University of Reading | 150 | 16th-17th February 2019 |
-| HackSurrey Mk2 | [mk2.hacksurrey.uk](https://mk2.hacksurrey.uk) | University of Surrey | 150 | 9th-10th February 2019 |
-| Hack The South | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | 150 | 9th-10th February 2019 |
-| Royal Hackaway v2 | [royalhackaway.com/hackaway2019](https://royalhackaway.com/hackaway2019) | Royal Holloway | 150 | 2nd-3rd February 2019 |
-| IC Hack 19 | [ichack.org](https://ichack.org) | Imperial College London | 400 | 26th-27th January 2019 |
-| ManMetHacks | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 26th-27th January 2019 |
-| Hack Cambridge 4D | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 19th-20th January 2019 |
-
 ### Autumn 2018
 
 |Hackathon        |Website| University         |No. of Hackers|Date|
