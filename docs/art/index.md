@@ -17,15 +17,18 @@ Please share it as a vector (SVG, EPS, etc)!
 
 <script>
 
+    console.log("test1")
     
 	document.addEventListener("DOMContentLoaded", function(event) {
+
+		console.log("test2")
 
 		var stickerFrame = document.getElementById("stickerframe");
 		
 		var onStickerFrameLoad = function() {
 
-			console.log("test")
-			
+			console.log("test3")
+
 			stickerFrame.removeEventListener("load", onStickerFrameLoad);
 
 			iFrameResize({heightCalculationMethod: "lowestElement"});
