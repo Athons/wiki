@@ -3,17 +3,31 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
 
-## Autumn 2020
+
+
+{% for season in extra.hackathon_seasons %}
+
+## {{season.name}}
 
 <div class="hack-list">
     
-    {% for hackathon in extra.hackathons.autumn_2020 %}
+    {% for hackathon in season.hackathons %}
+
+        {% set background = extra.cal %}
+        {% if hackathon.background is defined %}
+            {% set background = hackathon.background %}
+        {% endif %}
+
+        {% set logo = extra.cal %}
+        {% if hackathon.logo is defined %}
+            {% set logo = hackathon.logo %}
+        {% endif %}
 
         <a href="{{ hackathon.website }}">
             <div class="card">
                 <div class="header">
-                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-                    <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
+                    <div class="backdrop" style="background-image: url('{{ background }}'")></div>
+                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 </div>
                 <dl class="hack-details">
                     <dt class="name">Hackathon</dt>
@@ -32,47 +46,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 </div>
 
-
-
-##  Autumn 2020
-
-<div class="hack-list">
-    
-    {% for hackathon in extra.hackathons.tbc %}
-
-        <a href="{{ hackathon.website }}">
-            <div class="card">
-                <div class="header">
-                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-                    <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
-                </div>
-                <dl class="hack-details">
-                    <dt class="name">Hackathon</dt>
-                    <dd class="name">{{ hackathon.name }}</dd>
-                    
-                    <dt class="location">Location</dt>
-                    <dd class="location">{{ hackathon.location }}</dd>
-                    
-                    <dt class="date">Date</dt>
-                    <dd class="date">{{ hackathon.when }}</dd>
-                </dl>
-            </div>
-        </a>
-
-    {% endfor %}
-
-</div>
-
-## Autumn 2020
-|Hackathon        |Website|   Location         |No. of Hackers|Date|
-|-----------------|-------|--------------------|--------------|----|
-| HackTheMidlands 5.0 | [hackthemidlands.com](https://hackthemidlands.com) | Birmingham (Venue TBC) | 300 | 24th-25th October 2020 (TBC) |
-| R.U. Hacking? 2020 | [ruhacking.me](https://ruhacking.me) | Reading University | TBC | 24th-25th October 2020 |
-| Hack Brunel 2.0  | [hackbrunel.com](https://hackbrunel.com/) | Brunel University London | 150 | 31st October-1st November 2020 |
-| hackSheffield 6.0 | [hacksheffield.com](https://hacksheffield.com) | University of Sheffield | 200 | 7th-8th November 2020 |
-| DurHack 2020    | [durhack.com](https://durhack.com) | Durham University | 425 | 14th-15th November 2020 |
-| HackNotts 2020  | [hacknotts.com](https://www.hacknotts.com) | University of Nottingham | 200 | 28th-29th November 2020 |
-
+{% endfor %}
 
 
 ## Past Events
