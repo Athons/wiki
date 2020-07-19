@@ -3,43 +3,33 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
 
-## Spring 2020
-
-|Hackathon        |Website|   Location         |No. of Hackers|Date|
-|-----------------|-------|--------------------|--------------|----|
-| DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
+## TBC
 
 <div class="hack-list">
     
+    {% for hackathon in extra.hackathons.tbc %}
 
-    {% for i in range(18) %}
-
-        <div class="card">
-            <div class="header">
-                <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-                <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
+        <a href="{{ hackathon.website }}">
+            <div class="card">
+                <div class="header">
+                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
+                    <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
+                </div>
+                <dl class="hack-details">
+                    <dt class="name">Hackathon</dt>
+                    <dd class="name">{{ hackathon.name }}</dd>
+                    
+                    <dt class="location">Location</dt>
+                    <dd class="location">{{ hackathon.location }}</dd>
+                    
+                    <dt class="date">Date</dt>
+                    <dd class="date">{{ hackathon.when }}</dd>
+                </dl>
             </div>
-            <dl class="hack-details">
-                <dt class="name">Hackathon</dt>
-                <dd class="name">DurHack:NextGen</dd>
-                
-                <dt class="location">Location</dt>
-                <dd class="location">Durham University</dd>
-                
-                <dt class="date">Date</dt>
-                <dd class="date">Date TBC</dd>
-                
-                <!--<dt class="website">Website</dt>
-                <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
-                
-                <dt class="no-of-hackers">No. of Hackers</dt>
-                <dd class="no-of-hackers">100 (U18 only!)</dd>-->
-               
-            </dl>
-        </div>
+        </a>
 
     {% endfor %}
-    
+
 </div>
 
 ## Autumn 2020

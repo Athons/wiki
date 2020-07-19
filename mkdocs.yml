@@ -85,6 +85,15 @@ extra:
       link: https://discord.gg/fpFWRQP
       alt: Hackathons UK Discord Server
 
+
+  hackathons:
+    tbc:
+      - name: DurHack:NextGen
+        website: https://durhack.com/nextgen
+        location: Durham University
+        when: TBC
+        atendees: 100 (U18 only!)
+
 extra_css: 
   - static/css/theme.css
   - static/css/home.css
