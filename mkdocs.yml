@@ -81,7 +81,7 @@ extra:
     - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
     - type: fab fa-discord
-      link: https://hack.athon.uk/discord
+      link: https://discord.gg/fpFWRQP
 
 extra_css: 
   - static/css/theme.css
