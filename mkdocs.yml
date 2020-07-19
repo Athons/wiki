@@ -93,11 +93,35 @@ extra:
       - name: HackTheMidlands 5.0
         background: /static/art/hackathon_tiles/htm_2020_background.png
         logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
+        website: https://hackthemidlands.com
+        location: Birmingham (Venue TBC)
+        when: 	24th-25th October 2020 (TBC)
+        atendees: 300
       - name: R.U. Hacking? 2020
+        website: https://ruhacking.me/
+        location: Reading University
+        when: 24th-25th October 2020
+        atendees: TBC
       - name: Hack Brunel 2.0
+        website: https://hackbrunel.com/
+        location: Brunel University London
+        when: 31st October-1st November 2020
+        atendees: 150
       - name: hackSheffield 6.0
+        website: https://hacksheffield.com/
+        location: University of Sheffield
+        when: 7th-8th November 2020
+        atendees: 200
       - name: DurHack 2020
+        website: https://durhack.com/
+        location: Durham University
+        when: 14th-15th November 2020
+        atendees: 425
       - name: HackNotts 2020
+        website: https://www.hacknotts.com/
+        location: University of Nottingham
+        when: 28th-29th November 2020
+        atendees: 200
 
     tbc:
       - name: DurHack:NextGen
