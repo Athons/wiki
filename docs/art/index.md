@@ -19,7 +19,7 @@ Please share it as a vector (SVG, EPS, etc)!
 
     console.log("test1")
 
-	window.onload = function() {
+    var loadHexes = function() {
 
 		console.log("test2")
 
@@ -37,6 +37,14 @@ Please share it as a vector (SVG, EPS, etc)!
 
     	stickerFrame.addEventListener("load", onStickerFrameLoad);
 
-	};
+	}
+
+    if(document.readyState === "complete") {
+    	loadHexes()
+	} else {
+		document.addEventListener("DOMContentLoaded", loadHexes);
+	}
+
+	
 
 </script>
