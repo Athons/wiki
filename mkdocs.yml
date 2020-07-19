@@ -8,15 +8,6 @@ repo_url: https://github.com/Hackathons-UK/wiki
 nav:
 
   - Home: 'index.md'
-  - Community:
-    - Art: 'art/index.md'
-    - Events:
-      - Index: 'events/index.md'
-      - List: 'events/list.md'
-      - Family Tree: 'events/familytree.md'
-      - HackSoc Lists:
-        - Twitter: 'events/lists/twitter.md'
-        - GitHub: 'events/lists/github.md'
   - Attend:
     - First Time: 'attend/firsttime.md'
     - What to Bring: 'attend/bring.md'
@@ -57,8 +48,19 @@ nav:
       - Hackathon Contacts: 'organise/help/poi.md'
       - Talking to Other Organisers: 'organise/help/communication.md'
       - Share Equipment: 'organise/help/share.md'
-  - Sponsor: 'sponsor/index.md'
-  - Help: 'volunteer/index.md'
+  - Sponsor:
+    - Index: 'sponsor/index.md'
+  - Volunteer:
+    - Index: 'volunteer/index.md'
+  - Community:
+    - Art: 'art/index.md'
+    - Events:
+      - Index: 'events/index.md'
+      - List: 'events/list.md'
+      - Family Tree: 'events/familytree.md'
+      - HackSoc Lists:
+        - Twitter: 'events/lists/twitter.md'
+        - GitHub: 'events/lists/github.md'
 
 
 theme:
