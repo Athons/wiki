@@ -15,12 +15,12 @@ assignees: ''
 
 ## Is the even primarily for students?
 
-[ ] Yes
+* [ ] Yes
 
 ## Is this an online or in person?
 
-[ ] Online
-[ ] In Person]
+* [ ] Online
+* [ ] In Person
 
 ## If in person, where is it hosted?
 
@@ -40,5 +40,5 @@ assignees: ''
 
 ## Do Hackers own 100% of their Intellectual Property?
 
-[ ] Yes
-[ ] No - Verify you adhere to our [corporate guidelines](https://github.com/Hackathons-UK/hackathons-uk-policies/blob/master/corporate-standards.md)
+* [ ] Yes
+* [ ] No - Verify you adhere to our [corporate guidelines](https://github.com/Hackathons-UK/hackathons-uk-policies/blob/master/corporate-standards.md)
