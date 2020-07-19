@@ -20,11 +20,17 @@ Please share it as a vector (SVG, EPS, etc)!
     
 	document.addEventListener("DOMContentLoaded", function(event) {
 
-    	document.getElementById("stickerframe").addEventListener("load", function() {
+		var stickerFrame = document.getElementById("stickerframe");
+		
+		var onStickerFrameLoad = function() {
 
-    		iFrameResize({heightCalculationMethod: 'lowestElement'});
-			this.contentWindow.location.reload();
-		});
+			stickerFrame.removeEventListener("load", onStickerFrameLoad);
+
+			iFrameResize({heightCalculationMethod: "lowestElement"});
+			stickerFrame.contentWindow.location.reload();
+		};
+
+    	stickerFrame.addEventListener("load", onStickerFrameLoad);
 
 	});
 
