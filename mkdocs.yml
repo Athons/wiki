@@ -72,16 +72,18 @@ theme:
 
 extra:
   social:
-    - type: fas fa-globe
-      link: https://hackathons.org.uk
     - type: fab fa-facebook-f
       link: https://www.facebook.com/Hackathons-UK-104661511136163/
+      alt: Hackathons UK Facebook
     - type: fab fa-twitter
       link: https://twitter.com/Hackathons_UK
+      alt: Hackathons UK Twitter
     - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
+      alt: Hackathons UK GitHub
     - type: fab fa-discord
       link: https://discord.gg/fpFWRQP
+      alt: Hackathons UK Discord Server
 
 extra_css: 
   - static/css/theme.css
