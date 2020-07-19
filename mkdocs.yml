@@ -2,7 +2,6 @@ site_name: UK Hackathons
 site_url: https://hack.athon.uk/
 
 nav:
-  - Home: 'index.md'
   - Community:
     - Index: 'index.md'
     - Art: 'art/index.md'
@@ -82,6 +81,9 @@ extra:
     - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
       alt: Hackathons UK GitHub
+    - type: fab fa-discord
+      link: https://discord.gg/fpFWRQP
+      alt: Hackathons UK Discord Server
 
 extra_css: 
   - static/css/theme.css
