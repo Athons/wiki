@@ -351,6 +351,84 @@ extra:
           when: 19th-20th January 2019
           atendees: 300
 
+    - name: Spring 2018
+      past: true
+      hackathons:
+        - name: HackSurrey Beta 
+          website: https://beta.hacksurrey.uk/
+          location: University of Surrey
+          when: 5th-6th May 2018
+          atendees: 100
+        - name: StudentHack VI  
+          website: null
+          location: Manchester  
+          when: 28th-29th April 2018
+          atendees: 150
+        - name: Music Hack Day London 2018  
+          website: https://goldsmiths.tech/music/
+          location: Goldsmiths, University of London
+          when: 9th-10th April 2018
+          atendees: 100
+        - name: STACSHack
+          website: null
+          location: St Andrews, UK
+          when: 7th-8th April 2018
+          atendees: 130
+        - name: HackKent
+          website: https://kentcomputingsociety.co.uk/hackkent
+          location: University of Kent  
+          when: 13th-14th March
+          atendees: null
+        - name: HackMed 
+          website: https://hackmed.uk/
+          location: University of Sheffield 
+          when: 10th-11th March
+          atendees: 80
+        - name: Hack the Burgh 2018 
+          website: https://2018.hacktheburgh.com/
+          location: University of Edinburgh 
+          when: 10th-11th March 2018
+          atendees: 150
+        - name: BullHacks
+          website: null
+          location: Birmingham City University  
+          when: 3rd-4th March 2018
+          atendees: 100
+        - name: Anvil Hack IV 
+          website: https://goldsmiths.tech/anvil
+          location: Goldsmiths, University of London  
+          when: 24th-25th February 2018
+          atendees: 120
+        - name: HackCity 2018 
+          website: null
+          location: City, University of London  
+          when: 17th-18th February 2018
+          atendees: 100
+        - name: IC Hack 18  
+          website: https://ichack.org/
+          location: Imperial College London 
+          when: 27th-28th January 2018
+          atendees: 250
+        - name: ExHack  
+          website: http://exeterentrepreneurs.com/exhack/
+          location: University of Exeter  
+          when: 26th-28th January 2018
+          atendees: null
+        - name: Global Game Jam @ Goldsmiths  
+          website: null
+          location: Goldsmiths, University of London
+          when: 26th-27th January 2018
+          atendees: 100
+        - name: Hack Cambridge Ternary  
+          website: https://hackcambridge.com/
+          location: University of Cambridge 
+          when: 20th-21st January 2018
+          atendees: 300
+        - name: Royal Hackaway
+          website: https://royalhackaway.xyz/
+          location: Royal Holloway, University of London  
+          when: 13th-14th January 2018
+          atendees: null
 
     - name: Autumn 2017
       past: true
