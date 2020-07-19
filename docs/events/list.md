@@ -3,7 +3,38 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
 
-## TBC
+## Autumn 2020
+
+<div class="hack-list">
+    
+    {% for hackathon in extra.hackathons.autumn_2020 %}
+
+        <a href="{{ hackathon.website }}">
+            <div class="card">
+                <div class="header">
+                    <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
+                    <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="{{ hackathon.location }}">
+                </div>
+                <dl class="hack-details">
+                    <dt class="name">Hackathon</dt>
+                    <dd class="name">{{ hackathon.name }}</dd>
+                    
+                    <dt class="location">Location</dt>
+                    <dd class="location">{{ hackathon.location }}</dd>
+                    
+                    <dt class="date">Date</dt>
+                    <dd class="date">{{ hackathon.when }}</dd>
+                </dl>
+            </div>
+        </a>
+
+    {% endfor %}
+
+</div>
+
+
+
+##  Autumn 2020
 
 <div class="hack-list">
     

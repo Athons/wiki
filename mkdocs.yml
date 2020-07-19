@@ -87,12 +87,23 @@ extra:
 
 
   hackathons:
+
+    autumn_2020:
+      - name: HackTheMidlands 5.0
+      - name: R.U. Hacking? 2020
+      - name: Hack Brunel 2.0
+      - name: hackSheffield 6.0
+      - name: DurHack 2020
+      - name: HackNotts 2020
+
     tbc:
       - name: DurHack:NextGen
         website: https://durhack.com/nextgen
         location: Durham University
         when: TBC
         atendees: 100 (U18 only!)
+
+
 
 extra_css: 
   - static/css/theme.css
