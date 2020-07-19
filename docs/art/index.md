@@ -17,12 +17,30 @@ Please share it as a vector (SVG, EPS, etc)!
 
 <script>
 
-    
-	document.addEventListener("DOMContentLoaded", function(event) {
+    var loadHexes = function() {
 
-		iFrameResize({heightCalculationMethod: 'lowestElement'});
-    	document.getElementById('stickerframe').contentWindow.location.reload();
+		var stickerFrame = document.getElementById("stickerframe");
+		
+		var onStickerFrameLoad = function() {
 
-	});
-	
+			stickerFrame.removeEventListener("load", onStickerFrameLoad);
+
+			iFrameResize({heightCalculationMethod: "lowestElement"});
+			stickerFrame.contentWindow.location.reload();
+		};
+
+    	stickerFrame.addEventListener("load", onStickerFrameLoad);
+
+	}
+
+    if(document.readyState === "complete") {
+
+    	loadHexes();
+
+	} else {
+
+		document.addEventListener("DOMContentLoaded", loadHexes);
+
+	}
+
 </script>
