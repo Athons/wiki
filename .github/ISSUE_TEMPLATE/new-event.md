@@ -11,9 +11,10 @@ assignees: ''
 
 ## Date
 
-* DATE HERE
+* Start: YEAR-MONTH-DAY
+* End: YEAR-MONTH-DAY
 
-## Is the even primarily for students?
+## Is the event primarily for students?
 
 * [ ] Yes
 
