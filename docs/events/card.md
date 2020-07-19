@@ -5,7 +5,7 @@
     {% set background = hackathon.background %}
 {% endif %}
 
-{% set logo = extra.cal %}
+{% set logo = extra.placeholder_hackathon_icon %}
 {% if hackathon.logo is defined %}
     {% set logo = hackathon.logo %}
 {% endif %}

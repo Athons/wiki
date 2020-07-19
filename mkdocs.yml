@@ -85,7 +85,7 @@ extra:
       link: https://discord.gg/fpFWRQP
       alt: Hackathons UK Discord Server
 
-  cal: https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg
+  placeholder_hackathon_icon: /static/art/hackathon_tiles/default_hackathon_image.png
   placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
 
   hackathon_seasons:
