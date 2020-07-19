@@ -1,6 +1,3 @@
-
-
-
 {% if hackathon is defined %}
 
     {% set background = extra.placeholder_hackathon_background %}
