@@ -1,13 +1,14 @@
-site_name: hack.athon.uk
+site_name: UK Hackathons
 site_url: https://hack.athon.uk/
 site_description: |
-  A wiki for documenting how to get started attending and organising hackathons!
+  A wiki for helping hackers get into hackathons and organise them!
 
 repo_url: https://github.com/Hackathons-UK/wiki
 
 nav:
+
+  - Home: 'index.md'
   - Community:
-    - Index: 'index.md'
     - Art: 'art/index.md'
     - Events:
       - Index: 'events/index.md'
@@ -67,7 +68,7 @@ theme:
     primary: 'pink'
     accent: 'pink'
   icon:
-    logo: material/beaker
+    logo: fontawesome/solid/robot
     repo: fontawesome/brands/git-alt
     
   features:
