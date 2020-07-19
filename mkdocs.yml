@@ -86,6 +86,7 @@ extra:
       alt: Hackathons UK Discord Server
 
   cal: https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg
+  placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
 
   hackathon_seasons:
     - name: Summer 2020
@@ -297,58 +298,133 @@ extra:
           atendees: 25
 
     - name: Spring 2019
-        past: true
-        hackathons:
-          - name: HackMed
-            website: http://hackmed.uk/
-            location: University of Sheffield
-            when: 30th-31st March 2019
-            atendees: 100
-          - name: CovHack 19
-            website: https://covhack.org/
-            location: Coventry University
-            when: 16th-17th March 2019
-            atendees: 110
-          - name: Hack the Burgh V
-            website: https://2019.hacktheburgh.com/
-            location: University of Edinburgh
-            when: 16th-17th March 2019
-            atendees: 200
-          - name: R. U. Hacking? 2019
-            website: https://ruhacking.me/
-            location: University of Reading
-            when: 16th-17th February 2019
-            atendees: 150
-          - name: HackSurrey Mk2
-            website: https://mk2.hacksurrey.uk/
-            location: University of Surrey
-            when: 9th-10th February 2019
-            atendees: 150
-          - name: Hack The South
-            website: https://hackthesouth.co.uk/
-            location: University of Southampton
-            when: 9th-10th February 2019
-            atendees: 150
-          - name: Royal Hackaway v2
-            website: https://royalhackaway.com/hackaway2019
-            location: Royal Holloway
-            when: 2nd-3rd February 2019
-            atendees: 150
-          - name: IC Hack 19
-            website: https://ichack.org/
-            location: Imperial College London
-            when: 26th-27th January 2019
-            atendees: 400
-          - name: ManMetHacks
-            website: https://manmethacks.com/
-            location: Manchester Metropolitan University
-            when: 26th-27th January 2019
-            atendees: 150
-          - name: Hack Cambridge 4D
-            website: https://hackcambridge.com/
-            location: University of Cambridge
-            when: 19th-20th January 2019
-            atendees: 300
+      past: true
+      hackathons:
+        - name: HackMed
+          website: http://hackmed.uk/
+          location: University of Sheffield
+          when: 30th-31st March 2019
+          atendees: 100
+        - name: CovHack 19
+          website: https://covhack.org/
+          location: Coventry University
+          when: 16th-17th March 2019
+          atendees: 110
+        - name: Hack the Burgh V
+          website: https://2019.hacktheburgh.com/
+          location: University of Edinburgh
+          when: 16th-17th March 2019
+          atendees: 200
+        - name: R. U. Hacking? 2019
+          website: https://ruhacking.me/
+          location: University of Reading
+          when: 16th-17th February 2019
+          atendees: 150
+        - name: HackSurrey Mk2
+          website: https://mk2.hacksurrey.uk/
+          location: University of Surrey
+          when: 9th-10th February 2019
+          atendees: 150
+        - name: Hack The South
+          website: https://hackthesouth.co.uk/
+          location: University of Southampton
+          when: 9th-10th February 2019
+          atendees: 150
+        - name: Royal Hackaway v2
+          website: https://royalhackaway.com/hackaway2019
+          location: Royal Holloway
+          when: 2nd-3rd February 2019
+          atendees: 150
+        - name: IC Hack 19
+          website: https://ichack.org/
+          location: Imperial College London
+          when: 26th-27th January 2019
+          atendees: 400
+        - name: ManMetHacks
+          website: https://manmethacks.com/
+          location: Manchester Metropolitan University
+          when: 26th-27th January 2019
+          atendees: 150
+        - name: Hack Cambridge 4D
+          website: https://hackcambridge.com/
+          location: University of Cambridge
+          when: 19th-20th January 2019
+          atendees: 300
+
+
+    - name: Autumn 2017
+      past: true
+      hackathons:
+        - name: DurHack 2017
+          website: http://durhack.com/
+          location: Durham University
+          when: 9th-10th December 2017
+          atendees: 100
+        - name: Sex Tech Hack II
+          website: https://sexhack.tech/
+          location: Goldsmiths, University of London
+          when: 100
+          atendees: 25th-26th November 2017
+        - name: HackKings 4.0
+          website: https://hackkings.org/
+          location: King's College London
+          when: 25th-26th November 2017
+          atendees: 200
+        - name: OxfordHack 2017 
+          website: http://oxfordhack.com/
+          location: University of Oxford  
+          when: 25th-26th November 2017
+          atendees: 200-ish
+        - name: Hatch UCL 
+          website: null
+          location: University College London 
+          when: 25th-26th November 2017
+          atendees: 100
+        - name: BrumHack 7.0  
+          website: https://www.brumhack.co.uk/
+          location: University of Birmingham  
+          when: 18th-19th November 2017
+          atendees: null
+        - name: HackSussex
+          website: https://hacksussex.com/
+          location: University of Sussex  
+          when: 11th-12th November 2017
+          atendees: 150
+        - name: AstonHack
+          website: https://astonhack.co.uk/
+          location: Aston University, Birmingham  
+          when: 11th-12th November 2017
+          atendees: 150
+        - name: GreatUniHack 2017
+          website: University of Manchester 
+          location: University of Manchester
+          when: 11th-12th November 2017
+          atendees: 200
+        - name: HackNotts 2017  
+          website: https://www.hacknotts.com/
+          location: University of Nottingham  
+          when: 28th-29th October 2017
+          atendees: 150
+        - name: Porticode 2.0 
+          website: https://porticode.io/
+          location: University College London 
+          when: 28th-29th October 2017
+          atendees: null
+        - name: Do You Have The Guts  
+          website: https://gutechsoc.com/hackathon
+          location: University of Glasgow 
+          when: 27th-29th October 2017
+          atendees: null
+        - name: hackSheffield 3 
+          website: https://hacksheffield.co/
+          location: University of Sheffield 
+          when: 14th-15th October 2017
+          atendees: 200
+        - name: HackTheMidlands 2.0
+          website: https://hackthemidlands.com/
+          location: Millennium Point, Birmingham  
+          when: 23rd-24th September 2017
+          atendees: 150
 
      - name: Autumn 2018
         past: true
