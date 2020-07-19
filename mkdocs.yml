@@ -351,6 +351,75 @@ extra:
           when: 19th-20th January 2019
           atendees: 300
 
+    - name: Autumn 2018
+      past: true
+      hackathons:
+        - name: HackKings v5.0
+          website: https://hackkings.org/
+          location: King's College London
+          when: 8th-9th December 2018
+          atendees: 200
+        - name: HackNotts 2018
+          website: https://www.hacknotts.com/
+          location: University of Nottingham
+          when: 25th-26th November 2018
+          atendees: 150
+        - name: OxfordHack
+          website: http://www.oxfordhack.uk/
+          location: University of Oxford
+          when: 25th-26th November 2018
+          atendees: 300
+        - name: DurHack 2018
+          website: https://durhack.com/
+          location: Durham University
+          when: 17th-18th November 2018
+          atendees: 150
+        - name: Porticode 3.0
+          website: https://www.porticode.org/
+          location: University College London
+          when: 17th-18th November 2018
+          atendees: null
+        - name: ExImpact
+          website: http://exeterentrepreneurs.com/eximpact/
+          location: University of Exeter
+          when: 16th-18th November 2018
+          atendees: null
+        - name: GreatUniHack 2018
+          website: https://greatunihack.com/
+          location: University of Manchester
+          when: 10th-11th November 2018
+          atendees: 200
+        - name: HackSussex 2018
+          website: https://hacksussex.com/
+          location: University of Sussex
+          when: 10th-11th November 2018
+          atendees: 150
+        - name: AstonHack
+          website: https://astonhack.co.uk/
+          location: Aston University, Birmingham
+          when: 10th-11th November 2018
+          atendees: 150
+        - name: HackTheMidlands 3.0
+          website: https://hackthemidlands.com/
+          location: Millennium Point, Curzon St, Birmingham B4 7XG
+          when: 3rd-4th November 2018
+          atendees: 200
+        - name: hackSheffield 4
+          website: https://hacksheffield.co/
+          location: University of Sheffield
+          when: 27th-28th October 2018
+          atendees: 200
+        - name: Leeds Hackathon
+          website: https://hackathon.leeds.ac.uk/
+          location: University of Leeds
+          when: 26th-28th October 2018
+          atendees: null
+        - name: Do You Have The GUTS?
+          website: https://gutechsoc.com/hackathon
+          location: University of Glasgow
+          when: 12th-14th October 2018
+          atendees: null
+
     - name: Spring 2018
       past: true
       hackathons:
@@ -503,75 +572,6 @@ extra:
           location: Millennium Point, Birmingham  
           when: 23rd-24th September 2017
           atendees: 150
-
-     - name: Autumn 2018
-        past: true
-        hackathons:
-          - name: HackKings v5.0
-            website: https://hackkings.org/
-            location: King's College London
-            when: 8th-9th December 2018
-            atendees: 200
-          - name: HackNotts 2018
-            website: https://www.hacknotts.com/
-            location: University of Nottingham
-            when: 25th-26th November 2018
-            atendees: 150
-          - name: OxfordHack
-            website: http://www.oxfordhack.uk/
-            location: University of Oxford
-            when: 25th-26th November 2018
-            atendees: 300
-          - name: DurHack 2018
-            website: https://durhack.com/
-            location: Durham University
-            when: 17th-18th November 2018
-            atendees: 150
-          - name: Porticode 3.0
-            website: https://www.porticode.org/
-            location: University College London
-            when: 17th-18th November 2018
-            atendees: null
-          - name: ExImpact
-            website: http://exeterentrepreneurs.com/eximpact/
-            location: University of Exeter
-            when: 16th-18th November 2018
-            atendees: null
-          - name: GreatUniHack 2018
-            website: https://greatunihack.com/
-            location: University of Manchester
-            when: 10th-11th November 2018
-            atendees: 200
-          - name: HackSussex 2018
-            website: https://hacksussex.com/
-            location: University of Sussex
-            when: 10th-11th November 2018
-            atendees: 150
-          - name: AstonHack
-            website: https://astonhack.co.uk/
-            location: Aston University, Birmingham
-            when: 10th-11th November 2018
-            atendees: 150
-          - name: HackTheMidlands 3.0
-            website: https://hackthemidlands.com/
-            location: Millennium Point, Curzon St, Birmingham B4 7XG
-            when: 3rd-4th November 2018
-            atendees: 200
-          - name: hackSheffield 4
-            website: https://hacksheffield.co/
-            location: University of Sheffield
-            when: 27th-28th October 2018
-            atendees: 200
-          - name: Leeds Hackathon
-            website: https://hackathon.leeds.ac.uk/
-            location: University of Leeds
-            when: 26th-28th October 2018
-            atendees: null
-          - name: Do You Have The GUTS?
-            website: https://gutechsoc.com/hackathon
-            location: University of Glasgow
-            when: 12th-14th October 2018
-            atendees: null
 
     - name: TBC
       past: false
