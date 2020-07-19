@@ -302,7 +302,7 @@ extra:
           - name: HackMed
             website: http://hackmed.uk/
             location: University of Sheffield
-            when: 	30th-31st March 2019
+            when: 30th-31st March 2019
             atendees: 100
           - name: CovHack 19
             website: https://covhack.org/
@@ -312,7 +312,7 @@ extra:
           - name: Hack the Burgh V
             website: https://2019.hacktheburgh.com/
             location: University of Edinburgh
-            when: 	16th-17th March 2019
+            when: 16th-17th March 2019
             atendees: 200
           - name: R. U. Hacking? 2019
             website: https://ruhacking.me/
@@ -322,12 +322,12 @@ extra:
           - name: HackSurrey Mk2
             website: https://mk2.hacksurrey.uk/
             location: University of Surrey
-            when: 	9th-10th February 2019
+            when: 9th-10th February 2019
             atendees: 150
           - name: Hack The South
             website: https://hackthesouth.co.uk/
             location: University of Southampton
-            when: 	9th-10th February 2019
+            when: 9th-10th February 2019
             atendees: 150
           - name: Royal Hackaway v2
             website: https://royalhackaway.com/hackaway2019
