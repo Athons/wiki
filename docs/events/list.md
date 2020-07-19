@@ -27,8 +27,8 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
             <div class="card">
                 <div class="header">
                     <div class="backdrop" style="background-image: url('{{ background }}'")></div>
-                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 </div>
+                <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 <dl class="hack-details">
                     <dt class="name">Hackathon</dt>
                     <dd class="name">{{ hackathon.name }}</dd>
