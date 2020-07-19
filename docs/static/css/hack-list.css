@@ -1,0 +1,29 @@
+.hack-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hack-list .card {
+    width: 250px;
+}
+
+.hack-list dl {
+    margin: 0;
+}
+
+.hack-details dt, .hack-details dd {
+    margin: 0;
+    font-size: 0.8em;
+}
+
+.hack-details dd {
+    margin-top: 0.2em;
+}
+
+.hack-details dt {
+    display: none;
+}
+
+.hack-details dd.name {
+    font-size: 1em;
+}

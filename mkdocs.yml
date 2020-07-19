@@ -88,6 +88,7 @@ extra:
 extra_css: 
   - static/css/theme.css
   - static/css/home.css
+  - static/css/hack-list.css
 
 
 markdown_extensions:
