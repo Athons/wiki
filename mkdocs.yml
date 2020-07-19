@@ -75,10 +75,13 @@ extra:
   social:
     - type: fab fa-facebook-f
       link: https://www.facebook.com/Hackathons-UK-104661511136163/
+      alt: Hackathons UK Facebook
     - type: fab fa-twitter
       link: https://twitter.com/Hackathons_UK
+      alt: Hackathons UK Twitter
     - type: fab fa-github-alt
       link: https://github.com/Hackathons-UK
+      alt: Hackathons UK GitHub
 
 extra_css: 
   - static/css/theme.css
