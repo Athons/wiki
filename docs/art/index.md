@@ -20,9 +20,12 @@ Please share it as a vector (SVG, EPS, etc)!
     
 	document.addEventListener("DOMContentLoaded", function(event) {
 
-		iFrameResize({heightCalculationMethod: 'lowestElement'});
-    	document.getElementById('stickerframe').contentWindow.location.reload();
+    	document.getElementById("stickerframe").addEventListener("load", function() {
+
+    		iFrameResize({heightCalculationMethod: 'lowestElement'});
+			this.contentWindow.location.reload();
+		});
 
 	});
-	
+
 </script>
