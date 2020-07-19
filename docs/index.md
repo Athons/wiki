@@ -1,3 +1,7 @@
+---
+template: overrides/home.html
+---
+
 # Upcoming Events
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 

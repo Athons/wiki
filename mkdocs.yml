@@ -1,17 +1,13 @@
 site_name: UK Hackathons
 site_url: https://hack.athon.uk/
+site_description: |
+  A wiki for helping hackers get into hackathons and organise them!
+
+repo_url: https://github.com/Hackathons-UK/wiki
 
 nav:
-  - Community:
-    - Index: 'index.md'
-    - Art: 'art/index.md'
-    - Events:
-      - Index: 'events/index.md'
-      - List: 'events/list.md'
-      - Family Tree: 'events/familytree.md'
-      - HackSoc Lists:
-        - Twitter: 'events/lists/twitter.md'
-        - GitHub: 'events/lists/github.md'
+
+  - Home: 'index.md'
   - Attend:
     - First Time: 'attend/firsttime.md'
     - What to Bring: 'attend/bring.md'
@@ -52,23 +48,38 @@ nav:
       - Hackathon Contacts: 'organise/help/poi.md'
       - Talking to Other Organisers: 'organise/help/communication.md'
       - Share Equipment: 'organise/help/share.md'
-  - Sponsor: 'sponsor/index.md'
-  - Help: 'volunteer/index.md'
+  - Sponsor:
+    - Index: 'sponsor/index.md'
+  - Volunteer:
+    - Index: 'volunteer/index.md'
+  - Community:
+    - Art: 'art/index.md'
+    - Events:
+      - Index: 'events/index.md'
+      - List: 'events/list.md'
+      - Family Tree: 'events/familytree.md'
+      - HackSoc Lists:
+        - Twitter: 'events/lists/twitter.md'
+        - GitHub: 'events/lists/github.md'
 
 
 theme:
   name: 'material'
   palette:
+    scheme: 'light'
     primary: 'pink'
     accent: 'pink'
   icon:
-    logo: material/beaker
+    logo: fontawesome/solid/robot
     repo: fontawesome/brands/git-alt
 
   features:
     - tabs
     - instant
   custom_dir: 'theme'
+
+social:
+  discord: https://discord.gg/fpFWRQP 
 
 extra:
   social:
