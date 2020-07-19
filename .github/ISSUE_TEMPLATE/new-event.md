@@ -30,6 +30,24 @@ assignees: ''
 
 * URL HERE
 
+## Assets
+
+We'd love to include your assets on the homepage!
+
+### Logo
+
+* LOGO HERE
+
+### Banner
+
+* BANNER HERE
+
+### Hexagons
+
+If you have any hexagon sticker designs, we'd love to include them in hexbin!
+
+* LINK HERE
+
 ## Expected number of attendees?
 
 * NUMBER HERE
