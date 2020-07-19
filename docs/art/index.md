@@ -18,8 +18,8 @@ Please share it as a vector (SVG, EPS, etc)!
 <script>
 
     console.log("test1")
-    
-	document.addEventListener("DOMContentLoaded", function(event) {
+
+	window.onload = function() {
 
 		console.log("test2")
 
@@ -37,6 +37,6 @@ Please share it as a vector (SVG, EPS, etc)!
 
     	stickerFrame.addEventListener("load", onStickerFrameLoad);
 
-	});
+	};
 
 </script>
