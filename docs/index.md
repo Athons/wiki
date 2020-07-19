@@ -54,8 +54,8 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
             <div class="card">
                 <div class="header">
                     <div class="backdrop" style="background-image: url('{{ background }}'")></div>
-                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 </div>
+                <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
                 <dl class="hack-details">
                     <dt class="name">Hackathon</dt>
                     <dd class="name">{{ hackathon.name }}</dd>
@@ -65,6 +65,21 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
                     
                     <dt class="date">Date</dt>
                     <dd class="date">{{ hackathon.when }}</dd>
+                    
+                    <dt class="additional-information">Additional Information</dt>
+                    <dd class="additional-information">
+                        <ul>
+                            {% if hackathon.digital is defined and hackathon.digital == true %}
+                                <li><i class="fas fa-laptop-code"></i> Digital</li>
+                            {% endif %}
+                            {% if hackathon.u_18_only is defined and hackathon.u_18_only == true %}
+                                <li><i class="fas fa-book-reader"></i> U18 Only</li>
+                            {% endif %}
+                            {% if hackathon.all_ages is defined and hackathon.all_ages == true %}
+                                <li><i class="fas fa-users"></i> All Ages </li>
+                            {% endif %}
+                        </ul>
+                    </dd>
                 </dl>
             </div>
         </a>
