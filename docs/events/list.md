@@ -10,103 +10,37 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 | DurHack:NextGen  | [durhack.com/nextgen](https://durhack.com/nextgen) | Durham University | 100 (U18 only!) | TBC |
 
 <div class="hack-list">
-    <div class="card">
-        <div class="header">
-            <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-            <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
-        </div>
-        <dl class="hack-details">
-            <dt class="name">Hackathon</dt>
-            <dd class="name">DurHack:NextGen</dd>
-            
-            <dt class="location">Location</dt>
-            <dd class="location">Durham University</dd>
-            
-            <dt class="date">Date</dt>
-            <dd class="date">Date TBC</dd>
-            
-            <!--<dt class="website">Website</dt>
-            <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
-            
-            <dt class="no-of-hackers">No. of Hackers</dt>
-            <dd class="no-of-hackers">100 (U18 only!)</dd>-->
-           
-        </dl>
-    </div>
     
-    <div class="card">
-        <div class="header">
-            <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-            <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
-        </div>
-        <dl class="hack-details">
-            <dt class="name">Hackathon</dt>
-            <dd class="name">DurHack:NextGen</dd>
-            
-            <dt class="location">Location</dt>
-            <dd class="location">Durham University</dd>
-            
-            <dt class="date">Date</dt>
-            <dd class="date">Date TBC</dd>
-            
-            <!--<dt class="website">Website</dt>
-            <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
-            
-            <dt class="no-of-hackers">No. of Hackers</dt>
-            <dd class="no-of-hackers">100 (U18 only!)</dd>-->
-           
-        </dl>
-    </div>
-    
-    <div class="card">
-        <div class="header">
-            <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-            <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
-        </div>
-        <dl class="hack-details">
-            <dt class="name">Hackathon</dt>
-            <dd class="name">DurHack:NextGen</dd>
-            
-            <dt class="location">Location</dt>
-            <dd class="location">Durham University</dd>
-            
-            <dt class="date">Date</dt>
-            <dd class="date">Date TBC</dd>
-            
-            <!--<dt class="website">Website</dt>
-            <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
-            
-            <dt class="no-of-hackers">No. of Hackers</dt>
-            <dd class="no-of-hackers">100 (U18 only!)</dd>-->
-           
-        </dl>
-    </div>
-    
-    <div class="card">
-        <div class="header">
-            <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
-            <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
-        </div>
-        <dl class="hack-details">
-            <dt class="name">Hackathon</dt>
-            <dd class="name">DurHack:NextGen</dd>
-            
-            <dt class="location">Location</dt>
-            <dd class="location">Durham University</dd>
-            
-            <dt class="date">Date</dt>
-            <dd class="date">Date TBC</dd>
-            
-            <!--<dt class="website">Website</dt>
-            <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
-            
-            <dt class="no-of-hackers">No. of Hackers</dt>
-            <dd class="no-of-hackers">100 (U18 only!)</dd>-->
-           
-        </dl>
-    </div>
-</div>
 
+    {% for i in range(18) %}
+
+        <div class="card">
+            <div class="header">
+                <div class="backdrop" style="background-image: url('https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg'")></div>
+                <img class="icon" src="https://pbs.twimg.com/profile_images/1240363609391316993/ZCYDAFPK_400x400.jpg" alt="DurHack:NextGen">
+            </div>
+            <dl class="hack-details">
+                <dt class="name">Hackathon</dt>
+                <dd class="name">DurHack:NextGen</dd>
+                
+                <dt class="location">Location</dt>
+                <dd class="location">Durham University</dd>
+                
+                <dt class="date">Date</dt>
+                <dd class="date">Date TBC</dd>
+                
+                <!--<dt class="website">Website</dt>
+                <dd class="website"><a href="https://durhack.com/nextgen">durhack.com/nextgen</a></dd>
+                
+                <dt class="no-of-hackers">No. of Hackers</dt>
+                <dd class="no-of-hackers">100 (U18 only!)</dd>-->
+               
+            </dl>
+        </div>
+
+    {% endfor %}
+    
+</div>
 
 ## Autumn 2020
 |Hackathon        |Website|   Location         |No. of Hackers|Date|
