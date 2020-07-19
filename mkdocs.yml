@@ -233,6 +233,7 @@ extra:
           atendees: 250
 
     - name: TBC
+      past: false
       hackathons:
         - name: DurHack:NextGen
           website: https://durhack.com/nextgen

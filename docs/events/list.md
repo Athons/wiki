@@ -3,9 +3,9 @@ This list showcases upcoming UK student-run hackathons and hackathon-associated 
 
 Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/docs/index.md) to add your event!
 
-
-
 {% for season in extra.hackathon_seasons %}
+
+{% if season.past == False %}
 
 ## {{season.name}}
 
@@ -46,35 +46,63 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 </div>
 
+{% endif %}
+
 {% endfor %}
+
+
+
 
 
 ## Past Events
 This list showcases past UK student-run hackathons (most recent first).
 
-### Spring 2020
+{% for season in extra.hackathon_seasons %}
 
-|Hackathon        |Website| University         |No. of Hackers|Date|
-|-----------------|-------|--------------------|--------------|----|
-| HackQuarantine | [hackquarantine.com](https://hackquarantine.com/) | Online | ?? | 23rd March-12th April 2020 |
-| StacsHack 2020 | [Facebook event](https://www.facebook.com/events/950732241970896/) | University of St Andrews | ?? | 7th-8th March 2020 |
-| HackMed   | [hackmed.uk](http://hackmed.uk/) | University of Sheffield | ?? |  14th-15th March 2020 |
-| Hack the Burgh VI | [hacktheburgh.com](https://2020.hacktheburgh.com/) | University of Edinburgh | 200 | 29th February-1st March 2020 |
-| IC Health Hack | [ichealthhack.org](https://ichealthhack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
-| AI Hack 2020 | [aihack.org](https://aihack.org/) | Imperial College London | ?? | 29th February-1st March 2020 |
-| Hack Keele | [Facebook post](https://www.facebook.com/hackkeele/posts/2571192316537510) | Keele University | ?? | 29th February 2020 |
-| ECSS CampusHack20 | [eventbrite/campushack20](https://www.eventbrite.co.uk/e/campushack20-tickets-91715420291) | University of Southampton | ?? | 22nd-23rd February 2020 |
-| RGUHack 2020    | [rguhack.uk](https://rguhack.uk)   | Robert Gordon University, Aberdeen | 80 | 22nd-23rd February 2020 |
-| HackSurrey v3.0 | [hacksurrey.github.io/v3.0](https://hacksurrey.github.io/v3.0/) | University of Surrey | 150 | 22nd-23rd February 2020 |
-| JunctionX Exeter | [junctionxexeter.com](https://junctionxexeter.com/) | University of Exeter | 100 | 21st-23rd February 2020 |
-| CovHack2020    | [covhack.org](https://covhack.org) | Coventry University | 150 | 15th-16th February 2020 |
-| Hack The South 2020 | [hackthesouth.co.uk](https://hackthesouth.co.uk/) | University of Southampton | 75 | 8th-9th February 2020 |
-| IC Hack 20      | [ichack.org](https://ichack.org) | Imperial College London | 450 | 8th-9th February 2020 |
-| Quackathon 2020 | [quackathon.com](https://quackathon.com/) | University of Dundee | 100 | 1st-2nd February 2020|
-| Royal Hackaway v3 | [royalhackaway.com/hackawayv3](https://royalhackaway.com/hackawayv3) | Royal Holloway, University of London | 75 | 1st-2nd February 2020|
-| ManMetHacks 2.0 | [manmethacks.com](https://manmethacks.com) | Manchester Metropolitan University | 150 | 25th-26th January 2020 |
-| Hack Cambridge 101 | [hackcambridge.com](https://hackcambridge.com) | University of Cambridge | 300 | 18th-19th January 2020 |
-| StudentHackVIII | [studenthack.com](https://www.studenthack.com/) | TBC | 250 | 25th-26th April 2020 |
+{% if season.past == True %}
+
+## {{season.name}}
+
+<div class="hack-list">
+    
+    {% for hackathon in season.hackathons %}
+
+        {% set background = extra.cal %}
+        {% if hackathon.background is defined %}
+            {% set background = hackathon.background %}
+        {% endif %}
+
+        {% set logo = extra.cal %}
+        {% if hackathon.logo is defined %}
+            {% set logo = hackathon.logo %}
+        {% endif %}
+
+        <a href="{{ hackathon.website }}">
+            <div class="card">
+                <div class="header">
+                    <div class="backdrop" style="background-image: url('{{ background }}'")></div>
+                </div>
+                <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
+                <dl class="hack-details">
+                    <dt class="name">Hackathon</dt>
+                    <dd class="name">{{ hackathon.name }}</dd>
+                    
+                    <dt class="location">Location</dt>
+                    <dd class="location">{{ hackathon.location }}</dd>
+                    
+                    <dt class="date">Date</dt>
+                    <dd class="date">{{ hackathon.when }}</dd>
+                </dl>
+            </div>
+        </a>
+
+    {% endfor %}
+
+</div>
+
+{% endif %}
+
+{% endfor %}
 
 
 ### Autumn 2019
