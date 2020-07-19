@@ -31,7 +31,7 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
 
 {% for season in extra.hackathon_seasons %}
 
-{% if season.name == 'Autumn 2020' or season.name == 'Summer 2020'%}
+{% if season.past == False %}
 
 ## {{season.name}}
 

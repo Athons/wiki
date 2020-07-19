@@ -89,6 +89,7 @@ extra:
 
   hackathon_seasons:
     - name: Summer 2020
+      past: false
       hackathons:
         - name: STEAM AiHack
           website: hack.innovationfest.co.uk/AiHack/
@@ -97,6 +98,7 @@ extra:
           atendees: 100
 
     - name: Autumn 2020
+      past: false
       hackathons:
         - name: HackTheMidlands 5.0
           background: /static/art/hackathon_tiles/htm_2020_background.png
@@ -132,6 +134,7 @@ extra:
           atendees: 200
 
     - name: Spring 2020
+      past: true
       hackathons:
         - name: HackQuarantine
           website: https://hackquarantine.com/
