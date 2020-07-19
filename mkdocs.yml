@@ -1,5 +1,7 @@
-site_name: UK Hackathons
+site_name: hack.athon.uk
 site_url: https://hack.athon.uk/
+site_description: |
+  Here you can find information on what to expect when attending, event information and help with organising your own hackathon!
 
 nav:
   - Home: 'index.md'
