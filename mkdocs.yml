@@ -296,6 +296,60 @@ extra:
             when: 5th October 2019
             atendees: 25
 
+    - name: Spring 2019
+        past: true
+        hackathons:
+          - name: HackMed
+            website: http://hackmed.uk/
+            location: University of Sheffield
+            when: 	30th-31st March 2019
+            atendees: 100
+          - name: CovHack 19
+            website: https://covhack.org/
+            location: Coventry University
+            when: 16th-17th March 2019
+            atendees: 110
+          - name: Hack the Burgh V
+            website: https://2019.hacktheburgh.com/
+            location: University of Edinburgh
+            when: 	16th-17th March 2019
+            atendees: 200
+          - name: R. U. Hacking? 2019
+            website: https://ruhacking.me/
+            location: University of Reading
+            when: 16th-17th February 2019
+            atendees: 150
+          - name: HackSurrey Mk2
+            website: https://mk2.hacksurrey.uk/
+            location: University of Surrey
+            when: 	9th-10th February 2019
+            atendees: 150
+          - name: Hack The South
+            website: https://hackthesouth.co.uk/
+            location: University of Southampton
+            when: 	9th-10th February 2019
+            atendees: 150
+          - name: Royal Hackaway v2
+            website: https://royalhackaway.com/hackaway2019
+            location: Royal Holloway
+            when: 2nd-3rd February 2019
+            atendees: 150
+          - name: IC Hack 19
+            website: https://ichack.org/
+            location: Imperial College London
+            when: 26th-27th January 2019
+            atendees: 400
+          - name: ManMetHacks
+            website: https://manmethacks.com/
+            location: Manchester Metropolitan University
+            when: 26th-27th January 2019
+            atendees: 150
+          - name: Hack Cambridge 4D
+            website: https://hackcambridge.com/
+            location: University of Cambridge
+            when: 19th-20th January 2019
+            atendees: 300
+
     - name: TBC
       past: false
       hackathons:
