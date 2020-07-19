@@ -232,6 +232,70 @@ extra:
           when: 25th-26th April 2020
           atendees: 250
 
+    - name: Autumn 2019
+        past: true
+        hackathons:
+          - name: HackKing's 6.0
+            website: https://hackkings.org/
+            location: Kings College London
+            when: 	30th November-1st December 2019
+            atendees: 150
+          - name: DurHack 2019
+            website: https://durhack.com/
+            location: Durham University
+            when: 23rd-24th November 2019
+            atendees: 200
+          - name: HackNotts 2019
+            website: https://www.hacknotts.com/
+            location: University of Nottingham
+            when: 16th-17th November 2019
+            atendees: 200
+          - name: Oxford Hack 2019
+            website: https://oxfordhack.co.uk/
+            location: University of Oxford
+            when: 300
+            atendees: 300
+          - name: GreatUniHack 2019
+            website: https://greatunihack.com/
+            location: University of Manchester
+            when: 16th-17th November 2019
+            atendees: 200
+          - name: HackSussex 2019
+            website: https://hacksussex.com/
+            location: University of Sussex
+            when: 9th-10th November 2019
+            atendees: 100
+          - name: hackSheffield 5
+            website: https://hacksheffield.co/
+            location: University of Sheffield
+            when: 2nd-3rd November 2019
+            atendees: 200
+          - name: AstonHack 2019
+            website: https://astonhack.co.uk/
+            location: Aston University, Birmingham
+            when: 2nd-3rd November 2019
+            atendees: 175
+          - name: HackTheMidlands 4.0
+            website: https://hackthemidlands.com/
+            location: Millennium Point, Curzon St, Birmingham B4 7XG
+            when: 26th-27th October 2019
+            atendees: 300
+          - name: HackBrunel
+            website: https://hackbrunel.com/
+            location: Brunel University
+            when: 26th-27th October 2019
+            atendees: 100
+          - name: Do You Have The GUTS?
+            website: https://gutechsoc.com/hackathon
+            location: University of Glasgow
+            when: 18th-20th October 2019
+            atendees: 300
+          - name: HHEU Unconference
+            website: https://hackathonhackers.eu/
+            location: Nottingham University
+            when: 5th October 2019
+            atendees: 25
+
     - name: TBC
       past: false
       hackathons:
