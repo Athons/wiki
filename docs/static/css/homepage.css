@@ -70,11 +70,15 @@
 }
 
 /* [mobile portrait -]: Adjust headline */
-@media screen and (max-width: 30em) {
+@media screen and (max-width: 60em) {
 
     /* Make main headline smaller */
     .tx-hero h1 {
         font-size: 1.4rem;
+    }
+    .tx-hero__image {
+        order: 1;
+        width: 0%;
     }
 }
 
@@ -103,7 +107,9 @@
     .tx-hero__image {
         width: 38rem;
         order: 1;
-        transform: translateX(4rem);
+          margin-left:auto;
+          margin-right:0;
+        transform: translate(8rem, 10%);
     }
 }
 
@@ -117,6 +123,9 @@
 
     /* Ensure the image aligns with the repository information */
     .tx-hero__image {
-        transform: translateX(8rem);
+          margin-left:auto;
+          margin-right:0;
+        transform: translate(12rem, 10%);
+
     }
 }
