@@ -24,6 +24,8 @@ Please share it as a vector (SVG, EPS, etc)!
 		
 		var onStickerFrameLoad = function() {
 
+			console.log("test")
+			
 			stickerFrame.removeEventListener("load", onStickerFrameLoad);
 
 			iFrameResize({heightCalculationMethod: "lowestElement"});
