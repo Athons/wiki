@@ -65,6 +65,8 @@
     background-color: var(--md-accent-fg-color);
     color: var(--md-default-bg-color);
     border-color: var(--md-accent-fg-color);
+    border: 0.1rem solid #fff;
+
 }
 
 /* [mobile portrait -]: Adjust headline */
