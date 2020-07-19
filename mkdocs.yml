@@ -96,111 +96,6 @@ extra:
           when: 27th-31st July 2020
           atendees: 100
 
-
-    spring_2020:
-      - name: HackQuarantine
-        website: https://hackquarantine.com/
-        location: Online
-        when: 23rd March-12th April 2020
-        atendees: ??
-      - name: StacsHack 2020
-        website: https://www.facebook.com/events/950732241970896/
-        location: University of St Andrews
-        when: 7th-8th March 2020
-        atendees: ??
-      - name: HackMed
-        website: http://hackmed.uk/
-        location: University of Sheffield
-        when: 14th-15th March 2020
-        atendees: ??
-      - name: Hack the Burgh VI
-        website: https://2020.hacktheburgh.com/
-        location: University of Edinburgh
-        when: 200
-        atendees: 29th February-1st March 2020
-      - name: IC Health Hack
-        website: https://ichealthhack.org/
-        location: Imperial College London
-        when: ??
-        atendees: 29th February-1st March 2020
-      - name: AI Hack 2020
-        website: https://aihack.org/
-        location: Imperial College London
-        when: ??
-        atendees: 29th February-1st March 2020
-      - name: Hack Keele
-        website: https://www.facebook.com/hackkeele/posts/2571192316537510
-        location: Keele University
-        when: 29th February 2020
-        atendees: ??
-      - name: ECSS CampusHack20
-        website: https://www.eventbrite.co.uk/e/campushack20-tickets-91715420291
-        location: University of Southampton
-        when: 22nd-23rd February 2020
-        atendees: ??
-      - name: RGUHack 2020
-        website: https://rguhack.uk/
-        location: Robert Gordon University, Aberdeen
-        when: 22nd-23rd February 2020
-        atendees: 80
-      - name: HackSurrey v3.0
-        website: https://hacksurrey.github.io/v3.0/
-        location: University of Surrey
-        when: 22nd-23rd February 2020
-        atendees: 150
-      - name: JunctionX Exeter
-        website: https://junctionxexeter.com/
-        location: University of Exeter
-        when: 21st-23rd February 2020
-        atendees: 100
-      - name: CovHack2020
-        website: https://covhack.org/
-        location: Coventry University
-        when: 15th-16th February 2020
-        atendees: 150
-      - name: Hack The South 2020
-        website: https://hackthesouth.co.uk/
-        location: University of Southampton
-        when: 8th-9th February 2020
-        atendees: 75
-      - name: IC Hack 20
-        website: https://ichack.org/
-        location: Imperial College London
-        when: 8th-9th February 2020
-        atendees: 450
-      - name: Quackathon 2020
-        website: https://quackathon.com/
-        location: University of Dundee
-        when: 1st-2nd February 2020
-        atendees: 100
-      - name: Royal Hackaway v3
-        website: https://royalhackaway.com/hackawayv3
-        location: Royal Holloway, University of London
-        when: 1st-2nd February 2020
-        atendees: 75
-      - name: ManMetHacks 2.0
-        website: https://manmethacks.com/
-        location: Manchester Metropolitan University
-        when: 25th-26th January 2020
-        atendees: 150
-      - name: Hack Cambridge 101
-        website: https://hackcambridge.com/
-        location: University of Cambridge
-        when: 18th-19th January 2020
-        atendees: 300
-      - name: StudentHackVIII
-        website: https://www.studenthack.com/
-        location: TBC
-        when: 25th-26th April 2020
-        atendees: 250
-
-    tbc:
-      - name: DurHack:NextGen
-        website: https://durhack.com/nextgen
-        location: Durham University
-        when: TBC
-        atendees: 100 (U18 only!)
-
     - name: Autumn 2020
       hackathons:
         - name: HackTheMidlands 5.0
@@ -235,6 +130,104 @@ extra:
           location: University of Nottingham
           when: 28th-29th November 2020
           atendees: 200
+
+    - name: Spring 2020
+      hackathons:
+        - name: HackQuarantine
+          website: https://hackquarantine.com/
+          location: Online
+          when: 23rd March-12th April 2020
+          atendees: null
+        - name: StacsHack 2020
+          website: https://www.facebook.com/events/950732241970896/
+          location: University of St Andrews
+          when: 7th-8th March 2020
+          atendees: null
+        - name: HackMed
+          website: http://hackmed.uk/
+          location: University of Sheffield
+          when: 14th-15th March 2020
+          atendees: null
+        - name: Hack the Burgh VI
+          website: https://2020.hacktheburgh.com/
+          location: University of Edinburgh
+          when: 200
+          atendees: 29th February-1st March 2020
+        - name: IC Health Hack
+          website: https://ichealthhack.org/
+          location: Imperial College London
+          when: null
+          atendees: 29th February-1st March 2020
+        - name: AI Hack 2020
+          website: https://aihack.org/
+          location: Imperial College London
+          when: null
+          atendees: 29th February-1st March 2020
+        - name: Hack Keele
+          website: https://www.facebook.com/hackkeele/posts/2571192316537510
+          location: Keele University
+          when: 29th February 2020
+          atendees: null
+        - name: ECSS CampusHack20
+          website: https://www.eventbrite.co.uk/e/campushack20-tickets-91715420291
+          location: University of Southampton
+          when: 22nd-23rd February 2020
+          atendees: null
+        - name: RGUHack 2020
+          website: https://rguhack.uk/
+          location: Robert Gordon University, Aberdeen
+          when: 22nd-23rd February 2020
+          atendees: 80
+        - name: HackSurrey v3.0
+          website: https://hacksurrey.github.io/v3.0/
+          location: University of Surrey
+          when: 22nd-23rd February 2020
+          atendees: 150
+        - name: JunctionX Exeter
+          website: https://junctionxexeter.com/
+          location: University of Exeter
+          when: 21st-23rd February 2020
+          atendees: 100
+        - name: CovHack2020
+          website: https://covhack.org/
+          location: Coventry University
+          when: 15th-16th February 2020
+          atendees: 150
+        - name: Hack The South 2020
+          website: https://hackthesouth.co.uk/
+          location: University of Southampton
+          when: 8th-9th February 2020
+          atendees: 75
+        - name: IC Hack 20
+          website: https://ichack.org/
+          location: Imperial College London
+          when: 8th-9th February 2020
+          atendees: 450
+        - name: Quackathon 2020
+          website: https://quackathon.com/
+          location: University of Dundee
+          when: 1st-2nd February 2020
+          atendees: 100
+        - name: Royal Hackaway v3
+          website: https://royalhackaway.com/hackawayv3
+          location: Royal Holloway, University of London
+          when: 1st-2nd February 2020
+          atendees: 75
+        - name: ManMetHacks 2.0
+          website: https://manmethacks.com/
+          location: Manchester Metropolitan University
+          when: 25th-26th January 2020
+          atendees: 150
+        - name: Hack Cambridge 101
+          website: https://hackcambridge.com/
+          location: University of Cambridge
+          when: 18th-19th January 2020
+          atendees: 300
+        - name: StudentHackVIII
+          website: https://www.studenthack.com/
+          location: TBC
+          when: 25th-26th April 2020
+          atendees: 250
 
     - name: TBC
       hackathons:
