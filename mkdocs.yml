@@ -296,6 +296,82 @@ extra:
           when: 5th October 2019
           atendees: 25
 
+
+    - name: Autumn 2017
+      past: true
+      hackathons:
+        - name: DurHack 2017
+          website: http://durhack.com/
+          location: Durham University
+          when: 9th-10th December 2017
+          atendees: 100
+        - name: Sex Tech Hack II
+          website: https://sexhack.tech/
+          location: Goldsmiths, University of London
+          when: 100
+          atendees: 25th-26th November 2017
+        - name: HackKings 4.0
+          website: https://hackkings.org/
+          location: King's College London
+          when: 25th-26th November 2017
+          atendees: 200
+        - name: OxfordHack 2017 
+          website: http://oxfordhack.com/
+          location: University of Oxford  
+          when: 25th-26th November 2017
+          atendees: 200-ish
+        - name: Hatch UCL 
+          website: null
+          location: University College London 
+          when: 25th-26th November 2017
+          atendees: 100
+        - name: BrumHack 7.0  
+          website: https://www.brumhack.co.uk/
+          location: University of Birmingham  
+          when: 18th-19th November 2017
+          atendees: null
+        - name: HackSussex
+          website: https://hacksussex.com/
+          location: University of Sussex  
+          when: 11th-12th November 2017
+          atendees: 150
+        - name: AstonHack
+          website: https://astonhack.co.uk/
+          location: Aston University, Birmingham  
+          when: 11th-12th November 2017
+          atendees: 150
+        - name: GreatUniHack 2017
+          website: University of Manchester 
+          location: University of Manchester
+          when: 11th-12th November 2017
+          atendees: 200
+        - name: HackNotts 2017  
+          website: https://www.hacknotts.com/
+          location: University of Nottingham  
+          when: 28th-29th October 2017
+          atendees: 150
+        - name: Porticode 2.0 
+          website: https://porticode.io/
+          location: University College London 
+          when: 28th-29th October 2017
+          atendees: null
+        - name: Do You Have The Guts  
+          website: https://gutechsoc.com/hackathon
+          location: University of Glasgow 
+          when: 27th-29th October 2017
+          atendees: null
+        - name: hackSheffield 3 
+          website: https://hacksheffield.co/
+          location: University of Sheffield 
+          when: 14th-15th October 2017
+          atendees: 200
+        - name: HackTheMidlands 2.0
+          website: https://hackthemidlands.com/
+          location: Millennium Point, Birmingham  
+          when: 23rd-24th September 2017
+          atendees: 150
+
+
     - name: TBC
       past: false
       hackathons:
