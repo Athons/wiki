@@ -1,4 +1,15 @@
 
+
+{% set background = extra.placeholder_hackathon_background %}
+{% if hackathon.background is defined %}
+    {% set background = hackathon.background %}
+{% endif %}
+
+{% set logo = extra.cal %}
+{% if hackathon.logo is defined %}
+    {% set logo = hackathon.logo %}
+{% endif %}
+
 <a href="{{ hackathon.website }}">
     <div class="card">
         <div class="header">

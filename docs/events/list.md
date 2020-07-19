@@ -13,17 +13,6 @@ Want to add something to this list? [Fork and pull request](https://github.com/H
     
     {% for hackathon in season.hackathons %}
 
-        {% set background = extra.placeholder_hackathon_background %}
-        {% if hackathon.background is defined %}
-            {% set background = hackathon.background %}
-        {% endif %}
-
-        {% set logo = extra.cal %}
-        {% if hackathon.logo is defined %}
-            {% set logo = hackathon.logo %}
-        {% endif %}
-
-
         {% include 'events/card.md' %}
 
     {% endfor %}
@@ -51,34 +40,7 @@ This list showcases past UK student-run hackathons (most recent first).
     
     {% for hackathon in season.hackathons %}
 
-        {% set background = extra.placeholder_hackathon_background %}
-        {% if hackathon.background is defined %}
-            {% set background = hackathon.background %}
-        {% endif %}
-
-        {% set logo = extra.cal %}
-        {% if hackathon.logo is defined %}
-            {% set logo = hackathon.logo %}
-        {% endif %}
-
-        <a href="{{ hackathon.website }}">
-            <div class="card">
-                <div class="header">
-                    <div class="backdrop" style="background-image: url('{{ background }}'")></div>
-                    <img class="icon" src="{{ logo }}" alt="{{ hackathon.location }}">
-                </div>
-                <dl class="hack-details">
-                    <dt class="name">Hackathon</dt>
-                    <dd class="name">{{ hackathon.name }}</dd>
-                    
-                    <dt class="location">Location</dt>
-                    <dd class="location">{{ hackathon.location }}</dd>
-                    
-                    <dt class="date">Date</dt>
-                    <dd class="date">{{ hackathon.when }}</dd>
-                </dl>
-            </div>
-        </a>
+        {% include 'events/card.md' %}
 
     {% endfor %}
 
