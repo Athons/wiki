@@ -27,6 +27,10 @@
     );
 }
 
+.tx-content {
+    margin: 0 .8rem;
+}
+
 /* Set inverted text color on hero */
 .tx-hero {
     margin: 0 .8rem;
