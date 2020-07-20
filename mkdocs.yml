@@ -20,6 +20,7 @@ nav:
       - Intro to Git: 'attend/workshops/introtogit.md'
     - Visas: 'attend/visas.md'
   - Organise:
+    - Online Events: 'organise/online/index.md'
     - Before The Event:
       - Getting Started: 'organise/before/gettingstarted.md'
       - Sponsorship: 'organise/before/sponsorship.md'
