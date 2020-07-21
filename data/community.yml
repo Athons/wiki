@@ -1,0 +1,113 @@
+
+extra:
+  githubs:
+    - url: https://github.com/HHEU
+      location: N/A
+      organisation: Hackathon Hackers EU
+      about: Umbrella Org for the EU hackathon scene
+      useful: true
+    - url: https://github.com/covhacksoc
+      location: Coventry University
+      organisation: Coventry Hackathon Society
+      about: Main organisation for CovHackSoc
+      useful: true
+    - url: https://github.com/covhack
+      location: Coventry University
+      organisation: CovHack Event Org
+      about: For seperating our event releated stuff
+      useful: false
+    - url: https://github.com/HackSocNotts
+      location: Nottingham University
+      organisation: HackSocNotts
+      about: 
+      useful: true
+    - url: https://github.com/cssoc
+      location: Manchester University
+      organisation: Manchester CS Society
+      about: 
+      useful: true
+    - url: https://github.com/hacksoc
+      location: York University
+      organisation: York Hack Soc
+      about: 
+      useful: true
+    - url: https://github.com/HackTheMidlands
+      location: N/A
+      organisation: HackTheMidlands
+      about: 
+      useful: true
+    - url: https://github.com/brumhack
+      location: Birmingham University
+      organisation: BrumHack
+      about: Event is no longer active
+      useful: false
+    - url: https://github.com/ducompsoc
+      location: Durham University
+      organisation: Durham University Computing Society
+      about: 
+      useful: true
+    - url: https://github.com/hackcambridge
+      location: Cambridge University
+      organisation: HackCambridge
+      about: 
+      useful: true
+    - url: https://github.com/HackSussex 
+      location: University of Sussex
+      organisation: HackSussex
+      about: 
+      useful: true
+    - url: https://github.com/HackSheffield
+      location: University Of Sheffield
+      organisation: HackSheffield
+      about: 
+      useful: true
+    - url: https://github.com/aston-css
+      location: Aston University
+      organisation: Aston CS Society
+      about: 
+      useful: false
+    - url: https://github.com/HackBrunel
+      location: Brunel University London
+      organisation: Brunel Tech Society
+      about: 
+      useful: false
+    - url: https://github.com/RUHacking
+      location: Reading University
+      organisation: RU Hacking
+      about: 
+      useful: false
+    - url: https://github.com/hacksurrey
+      location: University of Surrey
+      organisation: HackSurrey
+      about: 
+      useful: false
+    - url: https://github.com/royalhackaway
+      location: Royal Hollaway
+      organisation: Royal Hackaway
+      about: 
+      useful: false
+    - url: https://github.com/helloHackersSociety 
+      location: Manchester Metropolitan University
+      organisation: helloHackers
+      about: 
+      useful: false
+    - url: https://github.com/hacksmiths
+      location: Goldsmiths, University of London
+      organisation: Goldsmiths Tech Society
+      about: 
+      useful: false
+    - url: https://github.com/compsoc-edinburgh
+      location: University of Edinburgh
+      organisation: University of Edinburgh Technology Society
+      about: 
+      useful: true
+    - url: https://github.com/citytechsoc
+      location: City, University of London
+      organisation: City Tech Soc
+      about: 
+      useful: false
+    - url: https://github.com/ucltechsoc
+      location: University College London
+      organisation: UCL Tech Soc
+      about: 
+      useful: false
