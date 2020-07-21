@@ -1,24 +1,20 @@
 site_name: UK Hackathons
 site_url: https://hack.athon.uk/
+site_description: |
+  A wiki for helping hackers get into hackathons and organise them!
+
+repo_url: https://github.com/Hackathons-UK/wiki
 
 nav:
-  - Community:
-    - Index: 'index.md'
-    - Art: 'art/index.md'
-    - Events:
-      - Index: 'events/index.md'
-      - List: 'events/list.md'
-      - Family Tree: 'events/familytree.md'
-      - HackSoc Lists:
-        - Twitter: 'events/lists/twitter.md'
-        - GitHub: 'events/lists/github.md'
+
+  - Home: 'index.md'
   - Attend:
     - First Time: 'attend/firsttime.md'
     - What to Bring: 'attend/bring.md'
     - What to Make: 'attend/projects.md'
     - Resources: 'attend/resources.md'
     - Judging: 'attend/judging.md'
-    - Transport: 'attend/transport.md' 
+    - Transport: 'attend/transport.md'
     - Workshops:
       - Getting Started: 'attend/workshops.md'
       - Intro to Git: 'attend/workshops/introtogit.md'
@@ -47,28 +43,43 @@ nav:
     - After The Event:
       - Photography: 'organise/after/photography.md'
       - Debrief: 'organise/after/debrief.md'
-    - Help From The Community: 
+    - Help From The Community:
       # - Community: 'organise/help/community.md'
       - Hackathon Contacts: 'organise/help/poi.md'
       - Talking to Other Organisers: 'organise/help/communication.md'
       - Share Equipment: 'organise/help/share.md'
-  - Sponsor: 'sponsor/index.md'
-  - Help: 'volunteer/index.md'
+  - Sponsor:
+    - Index: 'sponsor/index.md'
+  - Volunteer:
+    - Index: 'volunteer/index.md'
+  - Community:
+    - Art: 'art/index.md'
+    - Events:
+      - Index: 'events/index.md'
+      - List: 'events/list.md'
+      - Family Tree: 'events/familytree.md'
+      - HackSoc Lists:
+        - Twitter: 'events/lists/twitter.md'
+        - GitHub: 'events/lists/github.md'
 
 
 theme:
   name: 'material'
   palette:
+    scheme: 'light'
     primary: 'pink'
     accent: 'pink'
   icon:
-    logo: material/beaker
+    logo: fontawesome/solid/robot
     repo: fontawesome/brands/git-alt
-    
+
   features:
     - tabs
     - instant
   custom_dir: 'theme'
+
+social:
+  discord: https://discord.gg/fpFWRQP 
 
 extra:
   social:
@@ -85,10 +96,13 @@ extra:
       link: https://discord.gg/fpFWRQP
       alt: Hackathons UK Discord Server
 
-extra_css: 
+  placeholder_hackathon_icon: /static/art/hackathon_tiles/default_hackathon_image.png
+  placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
+
+extra_css:
   - static/css/theme.css
   - static/css/home.css
-
+  - static/css/hack-list.css
 
 markdown_extensions:
   - admonition
@@ -99,6 +113,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - macros:
+      include_yaml:
+        - events.yml
   - git-revision-date-localized:
       type: date
   - minify:
