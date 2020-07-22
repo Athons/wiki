@@ -116,6 +116,7 @@ plugins:
   - macros:
       include_yaml:
         - events.yml
+        - data/community.yml
   - git-revision-date-localized:
       type: date
   - minify:
