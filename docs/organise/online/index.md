@@ -9,7 +9,7 @@ get involved with your event.
 ## Structure
 
 You'll want to run your event for longer than just a single weekend. If you do
-decided to run it over a weekend, make it 36 hours long, starting on the friday
+decided to run it over a weekend, make it 36 hours long, starting on the Friday
 to give people a chance to sleep and catch up.
 
 Two potential ways of running these:
@@ -17,7 +17,7 @@ Two potential ways of running these:
 * Run workshops throughout the event.
 * Run your workshops leading up to the event, then have your period of hacking.
 
-The first approach is how a lot of events, including Hack Quarantine, do it
+The first approach is how a lot of events (including Hack Quarantine) do it
 while the second approach is similar to how a lot of open source conferences
 handle it.
 
@@ -30,8 +30,8 @@ delay or move something!
 
 ## Workshops
 
-Workshops become a more significant part of your event when you become digital
-over in person events.
+Workshops tend to be a more significant part of your event when it is digital
+as compared to in person events.
 
 ### Speakers
 
@@ -63,7 +63,7 @@ copy that can be uploaded to youtube.
 ### Streaming
 
 Worth noting twitch does not transcode unless you are a partner, so your input
-stream is sent directly to hackers. So streaming in 1080p 60fps might exclude
+stream is sent directly to hackers. Streaming in 1080p 60fps might exclude
 hackers with weaker internet connections.
 
 ### Misc
@@ -83,11 +83,11 @@ and doesn't require making a whole brand new account to get involved with.
 If it's not convenient for them, once they close the page they'll never check
 it again.
 
-Ideally, discord is probably one of the best choices for platforms, as it has
+Ideally, Discord is probably one of the best choices for platforms, as it has
 very little friction to join in and most hackers already have it. It also has
 a powerful role system which is useful for moderation.
 
-We'd advise against doing everything by something a zoom / webex call, as it
+We'd advise against doing everything via things like a zoom / webex call, as it
 can be quite anxiety inducing to join a call with people you do not know. Not
 everyone is comfortable showing their face or speaking, so keep it primarily
 text based with all the voice aspects optional.
