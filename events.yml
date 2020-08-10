@@ -1,7 +1,7 @@
 extra:
   hackathon_seasons:
     - name: Summer 2020
-      past: false
+      past: true
       hackathons:
         - name: STEAM AiHack
           website: https://hack.innovationfest.co.uk/AiHack/
