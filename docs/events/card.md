@@ -5,17 +5,14 @@
         {% set background = hackathon.background %}
     {% endif %}
 
-    {% set logo = extra.placeholder_hackathon_icon %}
-    {% if hackathon.logo is defined %}
-        {% set logo = hackathon.logo %}
-    {% endif %}
-
     <a href="{{ hackathon.website }}">
         <div class="card">
             <div class="header">
                 <div class="backdrop" style="background-image: url('{{ background }}'")></div>
             </div>
-            <img class="icon" src="{{ logo }}" alt="{{ hackathon.name }}">
+            {% if hackathon.logo is defined %}
+            <img class="icon" src="{{ hackathon.logo }}" alt="{{ hackathon.name }}">
+            {% endif %}
             <dl class="hack-details">
                 <dt class="name">Hackathon</dt>
                 <dd class="name">{{ hackathon.name }}</dd>
