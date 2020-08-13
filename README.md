@@ -34,7 +34,7 @@ You just need to feel in your events info like so:
           website: https://example.com/
           location: The Internet
           when: 31st December 2020
-          atendees: 1000
+          attendees: 1000
           digital: true
 ```
 
