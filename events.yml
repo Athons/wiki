@@ -1,13 +1,21 @@
 extra:
   hackathon_seasons:
     - name: Summer 2020
-      past: true
+      past: false
       hackathons:
         - name: STEAM AiHack
           website: https://hack.innovationfest.co.uk/AiHack/
           location: Birmingham (Online)
           when: 27th-31st July 2020
           attendees: 100
+          digital: true
+        - name: DurJam
+          background: /static/art/hackathon_tiles/durjam_background.png
+          logo: /static/art/hackathon_tiles/durjam_logo.png
+          website: https://durj.am/
+          location: Durham University (Online)
+          when: 26th-30th August 2020
+          attendees: TBC
           digital: true
 
     - name: Autumn 2020
