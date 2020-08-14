@@ -22,6 +22,8 @@
     height: 150px;
     border-top-left-radius: .1rem;
     border-top-right-radius: .1rem;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 .hack-list .card .icon {
