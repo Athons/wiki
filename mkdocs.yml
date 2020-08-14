@@ -97,7 +97,6 @@ extra:
       link: https://discord.gg/fpFWRQP
       alt: Hackathons UK Discord Server
 
-  placeholder_hackathon_icon: /static/art/hackathon_tiles/default_hackathon_image.png
   placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
 
 extra_css:
