@@ -49,6 +49,8 @@ extra:
           attendees: 425
           digital: true
         - name: HackNotts 2020
+          background: /static/art/hackathon_tiles/hacknotts_2020_background.png
+          logo: /static/art/hackathon_tiles/hacknotts_2020_logo_red.png
           website: https://www.hacknotts.com/
           location: University of Nottingham
           when: 28th-29th November
@@ -346,17 +348,17 @@ extra:
     - name: Spring 2018
       past: true
       hackathons:
-        - name: HackSurrey Beta 
+        - name: HackSurrey Beta
           website: https://beta.hacksurrey.uk/
           location: University of Surrey
           when: 5th-6th May
           attendees: 100
-        - name: StudentHack VI  
+        - name: StudentHack VI
           website: null
-          location: Manchester  
+          location: Manchester
           when: 28th-29th April
           attendees: 150
-        - name: Music Hack Day London 2018  
+        - name: Music Hack Day London 2018
           website: https://goldsmiths.tech/music/
           location: Goldsmiths, University of London
           when: 9th-10th April
@@ -368,57 +370,57 @@ extra:
           attendees: 130
         - name: HackKent
           website: https://kentcomputingsociety.co.uk/hackkent
-          location: University of Kent  
+          location: University of Kent
           when: 13th-14th March
           attendees: null
-        - name: HackMed 
+        - name: HackMed
           website: https://hackmed.uk/
-          location: University of Sheffield 
+          location: University of Sheffield
           when: 10th-11th March
           attendees: 80
-        - name: Hack the Burgh 2018 
+        - name: Hack the Burgh 2018
           website: https://2018.hacktheburgh.com/
-          location: University of Edinburgh 
+          location: University of Edinburgh
           when: 10th-11th March
           attendees: 150
         - name: BullHacks
           website: null
-          location: Birmingham City University  
+          location: Birmingham City University
           when: 3rd-4th March
           attendees: 100
-        - name: Anvil Hack IV 
+        - name: Anvil Hack IV
           website: https://goldsmiths.tech/anvil
-          location: Goldsmiths, University of London  
+          location: Goldsmiths, University of London
           when: 24th-25th February
           attendees: 120
-        - name: HackCity 2018 
+        - name: HackCity 2018
           website: null
-          location: City, University of London  
+          location: City, University of London
           when: 17th-18th February
           attendees: 100
-        - name: IC Hack 18  
+        - name: IC Hack 18
           website: https://ichack.org/
-          location: Imperial College London 
+          location: Imperial College London
           when: 27th-28th January
           attendees: 250
-        - name: ExHack  
+        - name: ExHack
           website: http://exeterentrepreneurs.com/exhack/
-          location: University of Exeter  
+          location: University of Exeter
           when: 26th-28th January
           attendees: null
-        - name: Global Game Jam @ Goldsmiths  
+        - name: Global Game Jam @ Goldsmiths
           website: null
           location: Goldsmiths, University of London
           when: 26th-27th January
           attendees: 100
-        - name: Hack Cambridge Ternary  
+        - name: Hack Cambridge Ternary
           website: https://hackcambridge.com/
-          location: University of Cambridge 
+          location: University of Cambridge
           when: 20th-21st January
           attendees: 300
         - name: Royal Hackaway
           website: https://royalhackaway.xyz/
-          location: Royal Holloway, University of London  
+          location: Royal Holloway, University of London
           when: 13th-14th January
           attendees: null
 
@@ -440,59 +442,59 @@ extra:
           location: King's College London
           when: 25th-26th November
           attendees: 200
-        - name: OxfordHack 2017 
+        - name: OxfordHack 2017
           website: http://oxfordhack.com/
-          location: University of Oxford  
+          location: University of Oxford
           when: 25th-26th November
           attendees: 200-ish
-        - name: Hatch UCL 
+        - name: Hatch UCL
           website: null
-          location: University College London 
+          location: University College London
           when: 25th-26th November
           attendees: 100
-        - name: BrumHack 7.0  
+        - name: BrumHack 7.0
           website: https://www.brumhack.co.uk/
-          location: University of Birmingham  
+          location: University of Birmingham
           when: 18th-19th November
           attendees: null
         - name: HackSussex
           website: https://hacksussex.com/
-          location: University of Sussex  
+          location: University of Sussex
           when: 11th-12th November
           attendees: 150
         - name: AstonHack
           website: https://astonhack.co.uk/
-          location: Aston University, Birmingham  
+          location: Aston University, Birmingham
           when: 11th-12th November
           attendees: 150
         - name: GreatUniHack 2017
-          website: University of Manchester 
+          website: University of Manchester
           location: University of Manchester
           when: 11th-12th November
           attendees: 200
-        - name: HackNotts 2017  
+        - name: HackNotts 2017
           website: https://www.hacknotts.com/
-          location: University of Nottingham  
+          location: University of Nottingham
           when: 28th-29th October
           attendees: 150
-        - name: Porticode 2.0 
+        - name: Porticode 2.0
           website: https://porticode.io/
-          location: University College London 
+          location: University College London
           when: 28th-29th October
           attendees: null
-        - name: Do You Have The Guts  
+        - name: Do You Have The Guts
           website: https://gutechsoc.com/hackathon
-          location: University of Glasgow 
+          location: University of Glasgow
           when: 27th-29th October
           attendees: null
-        - name: hackSheffield 3 
+        - name: hackSheffield 3
           website: https://hacksheffield.co/
-          location: University of Sheffield 
+          location: University of Sheffield
           when: 14th-15th October
           attendees: 200
         - name: HackTheMidlands 2.0
           website: https://hackthemidlands.com/
-          location: Millennium Point, Birmingham  
+          location: Millennium Point, Birmingham
           when: 23rd-24th September
           attendees: 150
 
