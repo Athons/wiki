@@ -9,6 +9,7 @@ extra:
           when: 27th-31st July 2020
           attendees: 100
           digital: true
+          past: true
         - name: DurJam
           background: /static/art/hackathon_tiles/durjam_background.png
           logo: /static/art/hackathon_tiles/durjam_logo.png

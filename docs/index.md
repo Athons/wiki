@@ -12,8 +12,10 @@ template: overrides/home.html
     
     {% for hackathon in season.hackathons %}
 
-        {% include 'events/card.md' %}
-
+        {% if hackathon.past != True %}
+            {% include 'events/card.md' %}
+        {% endif %}
+        
     {% endfor %}
 
 </div>
