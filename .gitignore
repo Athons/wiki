@@ -3,3 +3,4 @@ site
 .idea/
 desktop.ini
 .DS_Store
+.vscode/
