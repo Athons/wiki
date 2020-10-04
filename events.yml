@@ -21,6 +21,13 @@ extra:
     - name: Autumn 2020
       past: false
       hackathons:
+        - name: Birmingham Open Hack 
+          website: https://boh.innovationfest.co.uk/
+          location: Birmingham (Online)
+          when: 16th-18th October
+          attendees: 100
+          all_ages: true
+          digital: true
         - name: HackTheMidlands 5.0
           background: /static/art/hackathon_tiles/htm_2020_background.png
           logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
