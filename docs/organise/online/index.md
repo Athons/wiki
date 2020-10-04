@@ -67,7 +67,7 @@ stream is sent directly to hackers.
 Streaming in 1080p 60fps without transcoding might exclude hackers with weaker
 internet connections.
 Working with Hackathons UK or other similar organisations can be a solution to
-this as they have the potential to offer partnered channels to stream on.
+this as they have the potential to offer a partnered channel to stream on.
 
 Youtube as a platform however offers transcoding on all videos, but it is worth
 noting that accounts need to be made at least 24 hours in advance of streaming. 
