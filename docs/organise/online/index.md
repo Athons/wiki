@@ -71,6 +71,8 @@ this as they have the potential to offer partnered channels to stream on.
 
 Youtube as a platform however offers transcoding on all videos, but it is worth
 noting that accounts need to be made at least 24 hours in advance of streaming. 
+Youtube will not let you embed a stream without the account having been linked
+to adsense however a restiction Twitch does not have.
 
 ### Misc
 
