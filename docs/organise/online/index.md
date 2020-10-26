@@ -62,9 +62,17 @@ copy that can be uploaded to youtube.
 
 ### Streaming
 
-Worth noting twitch does not transcode unless you are a partner, so your input
-stream is sent directly to hackers. Streaming in 1080p 60fps might exclude
-hackers with weaker internet connections.
+Worth noting Twitch does not transcode unless you are a partner, so your input
+stream is sent directly to hackers.
+Streaming in 1080p 60fps without transcoding might exclude hackers with weaker
+internet connections.
+Working with Hackathons UK or other similar organisations can be a solution to
+this as they have the potential to offer a partnered channel to stream on.
+
+Youtube as a platform however offers transcoding on all videos, but it is worth
+noting that accounts need to be made at least 24 hours in advance of streaming. 
+Youtube will not let you embed a stream without the account having been linked
+to adsense however a restiction Twitch does not have.
 
 ### Misc
 
