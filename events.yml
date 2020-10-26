@@ -50,6 +50,7 @@ extra:
           attendees: 200
           digital: true
         - name: DurHack 2020
+          background: /static/art/hackathon_tiles/durjam_background.png
           website: https://durhack.com/
           location: Durham University
           when: 14th-15th November
