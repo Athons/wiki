@@ -506,6 +506,12 @@ extra:
     - name: TBC
       past: false
       hackathons:
+        - name: AstonHack6 
+          website: https://astonhack.co.uk/
+          location: Aston University (Online)
+          when: February TBC
+          attendees: 100
+          digital: true
         - name: DurHack:NextGen
           website: https://durhack.com/nextgen
           location: Durham University
@@ -517,3 +523,4 @@ extra:
           location: Brunel University London
           when: TBC
           attendees: 150
+          
