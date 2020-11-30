@@ -62,6 +62,16 @@ extra:
           when: 28th-29th November
           attendees: 200
           digital: true
+       
+    - name: Spring 2021
+      past: false
+      hackathons:
+        - name: AstonHack6 
+          website: https://astonhack.co.uk/
+          location: Aston University (Online)
+          when: 20th-21st February
+          attendees: 100
+          digital: true
 
     - name: Spring 2020
       past: true
@@ -507,12 +517,6 @@ extra:
     - name: TBC
       past: false
       hackathons:
-        - name: AstonHack6 
-          website: https://astonhack.co.uk/
-          location: Aston University (Online)
-          when: February TBC
-          attendees: 100
-          digital: true
         - name: DurHack:NextGen
           website: https://durhack.com/nextgen
           location: Durham University
