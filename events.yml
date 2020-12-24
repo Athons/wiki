@@ -1,7 +1,7 @@
 extra:
   hackathon_seasons:
     - name: Summer 2020
-      past: false
+      past: true
       hackathons:
         - name: STEAM AiHack
           website: https://hack.innovationfest.co.uk/AiHack/
@@ -19,7 +19,7 @@ extra:
           digital: true
 
     - name: Autumn 2020
-      past: false
+      past: true
       hackathons:
         - name: Birmingham Open Hack 
           website: https://boh.innovationfest.co.uk/
@@ -66,12 +66,34 @@ extra:
     - name: Spring 2021
       past: false
       hackathons:
+        - name: Hex Cambridge
+          website: https://hackcambridge.com/
+          location: Cambridge University (Online)
+          when: 23-24th January
+          attendees: null
+          digital: true
+        
+        - name: Highfield Hack UK
+          website: https://highfieldhack.co.uk/
+          location: University of Southampton (Online)
+          when: 12-14th February
+          attendees: null
+          digital: true
+
         - name: AstonHack6 
           website: https://astonhack.co.uk/
           location: Aston University (Online)
           when: 20th-21st February
           attendees: 100
           digital: true
+
+        - name: Hack the Burgh VII
+          website: https://2021.hacktheburgh.com/
+          location: University of Edinburgh (Online)
+          when: 6-7th March
+          attendees: null
+          digital: true
+
 
     - name: Spring 2020
       past: true
