@@ -1,4 +1,4 @@
-{% if hackathon is defined %}
+{% if hackathon is defined and hackathon.past is not true %}
 
     {% set background = extra.placeholder_hackathon_background %}
     {% if hackathon.background is defined %}
