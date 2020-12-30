@@ -28,8 +28,9 @@ extra:
           attendees: 100
           all_ages: true
           digital: true
+
         - name: HackTheMidlands 5.0
-          background: /static/art/hackathon_tiles/htm_2020_background.png
+          background: https://images.ctfassets.net/8qdadmww1gdd/7MvyG01w8YzPfAe6N2Nr4S/d335bbb29fd3bce8a3e99aa584c4400f/https___cdn.evbuc.com_images_104588866_158620591762_1_original.jpg?w=900&h=506&q=50
           logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
           website: https://hackthemidlands.com
           location: Birmingham (Venue TBC)
@@ -37,18 +38,22 @@ extra:
           attendees: 300
           all_ages: true
           digital: true
+
         - name: R.U. Hacking? 2020
           website: https://ruhacking.me/
           location: Reading University
           when: 24th-25th October
           attendees: TBC
           digital: true
+
         - name: hackSheffield 6.0
           website: https://hacksheffield.com/
           location: University of Sheffield
           when: 7th-8th November
           attendees: 200
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/2L3EZNxS4YXo4zNgF9w3kB/472fac78d19fd92c7f9cd06e898ff219/hacksheffield6.png?w=900&h=506&q=50
+
         - name: DurHack 2020
           background: /static/art/hackathon_tiles/durhack_background.png
           website: https://durhack.com/
@@ -56,12 +61,15 @@ extra:
           when: 14th-15th November
           attendees: 200
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/22OZ8pbV6yjY2K9lUcMupK/1532acb615454c75c02073ed22613a0a/durhack_background__2_.png?w=900&h=473&q=50
+
         - name: HackNotts 2020
           website: https://www.hacknotts.com/
           location: University of Nottingham
           when: 28th-29th November
           attendees: 200
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/1J9RYl8nlss1mjfbJ9TPaT/86c239e26be849710f99dbdac6334112/A_Twitter_Design_1.png?w=900&h=506&q=50
        
     - name: Spring 2021
       past: false
@@ -72,11 +80,27 @@ extra:
           when: 23-24th January
           attendees: null
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/4E1XDJve2fxRkaLhFjDsQo/11d93f217a98d024714e391cb3bb2abd/HexCambridgeBanner.jpg?w=900&h=506&q=50
+
+        - name: Royal Hackaway v4
+          website: https://royalhackaway.com/
+          location: Royal Holloway (Online)
+          when: 6th-7th February
+          attendees: null
+          digital: true
         
         - name: Highfield Hack UK
           website: https://highfieldhack.co.uk/
           location: University of Southampton (Online)
           when: 12-14th February
+          attendees: null
+          digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/6uhySir9qwde8sVFpfdXD9/d9d40fe1a1c01d464dec60fddefa7bde/h_hack_banner.png?w=900&h=758&q=50
+
+        - name: CovHack2021
+          website: https://covhack.org/
+          location: Coventry University (Online)
+          when: 15th-21st February
           attendees: null
           digital: true
 
@@ -86,6 +110,14 @@ extra:
           when: 20th-21st February
           attendees: 100
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/fgnpBj7WGJ5Af3vHOjxl5/6be3467624bd840d72260ac76386c068/AstonHack_Banner.jpg?w=900&h=342&q=50
+
+        - name: HackSurrey Virtual
+          website: https://hacksurrey.github.io/virtual/
+          location: University Of Surrey (Online)
+          when: 27th-28th February
+          attendees: 150
+          digital: true
 
         - name: Hack the Burgh VII
           website: https://2021.hacktheburgh.com/
@@ -93,6 +125,7 @@ extra:
           when: 6-7th March
           attendees: null
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/3qN2C0CHI7PsFhs66GP6aV/0fe5b3b46a5fe5e0dadd1c1b685a750f/HTB-VII-Banner.png?w=900&h=529&q=50
 
 
     - name: Spring 2020
