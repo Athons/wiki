@@ -7,6 +7,8 @@ Helping out a hackathon is a great way to get started with organising!
 
 You can add to this list by submitting a PR [here](https://github.com/HHEU/wiki)
 
+- [Highfield Hack](https://highfieldhack.co.uk/): https://forms.gle/jR8vAHVLgriwAzB66 (also looking for mentors)
+
 ## Mentoring
 
 Amazing hacks wouldn't happen without amazing support! Hackathons are always looking for mentors to help their hackers with their projects throughout the event.
