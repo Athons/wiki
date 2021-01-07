@@ -33,8 +33,8 @@ extra:
           background: https://images.ctfassets.net/8qdadmww1gdd/7MvyG01w8YzPfAe6N2Nr4S/d335bbb29fd3bce8a3e99aa584c4400f/https___cdn.evbuc.com_images_104588866_158620591762_1_original.jpg?w=900&h=506&q=50
           logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
           website: https://hackthemidlands.com
-          location: Birmingham (Venue TBC)
-          when: 24th-25th October (TBC)
+          location: Birmingham
+          when: 24th-25th October
           attendees: 300
           all_ages: true
           digital: true
