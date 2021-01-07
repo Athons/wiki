@@ -592,19 +592,3 @@ extra:
           location: Millennium Point, Birmingham  
           when: 23rd-24th September
           attendees: 150
-
-    - name: TBC
-      past: false
-      hackathons:
-        - name: DurHack:NextGen
-          website: https://durhack.com/nextgen
-          location: Durham University
-          when: TBC
-          attendees: 100 (U18 only!)
-          u_18_only: true
-        - name: Hack Brunel 2.0
-          website: https://hackbrunel.com/
-          location: Brunel University London
-          when: TBC
-          attendees: 150
-          
