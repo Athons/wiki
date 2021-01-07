@@ -39,13 +39,6 @@ extra:
           all_ages: true
           digital: true
 
-        - name: R.U. Hacking? 2020
-          website: https://ruhacking.me/
-          location: Reading University
-          when: 24th-25th October
-          attendees: TBC
-          digital: true
-
         - name: hackSheffield 6.0
           website: https://hacksheffield.com/
           location: University of Sheffield
