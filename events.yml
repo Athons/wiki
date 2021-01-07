@@ -141,6 +141,7 @@ extra:
           when: 27th-28th February
           attendees: 150
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/40Zi3F3Rcm6cp0WcAnEkKG/35ed2646e6b443a2e75aff5de8469b23/banner_16-9.png?w=900&h=506&q=50
 
         - name: Hack the Burgh VII
           website: https://2021.hacktheburgh.com/
