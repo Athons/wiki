@@ -33,17 +33,10 @@ extra:
           background: https://images.ctfassets.net/8qdadmww1gdd/7MvyG01w8YzPfAe6N2Nr4S/d335bbb29fd3bce8a3e99aa584c4400f/https___cdn.evbuc.com_images_104588866_158620591762_1_original.jpg?w=900&h=506&q=50
           logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
           website: https://hackthemidlands.com
-          location: Birmingham (Venue TBC)
-          when: 24th-25th October (TBC)
+          location: Birmingham
+          when: 24th-25th October
           attendees: 300
           all_ages: true
-          digital: true
-
-        - name: R.U. Hacking? 2020
-          website: https://ruhacking.me/
-          location: Reading University
-          when: 24th-25th October
-          attendees: TBC
           digital: true
 
         - name: hackSheffield 6.0
@@ -55,13 +48,43 @@ extra:
           background: https://images.ctfassets.net/8qdadmww1gdd/2L3EZNxS4YXo4zNgF9w3kB/472fac78d19fd92c7f9cd06e898ff219/hacksheffield6.png?w=900&h=506&q=50
 
         - name: DurHack 2020
-          background: /static/art/hackathon_tiles/durhack_background.png
           website: https://durhack.com/
           location: Durham University
           when: 14th-15th November
           attendees: 200
           digital: true
           background: https://images.ctfassets.net/8qdadmww1gdd/22OZ8pbV6yjY2K9lUcMupK/1532acb615454c75c02073ed22613a0a/durhack_background__2_.png?w=900&h=473&q=50
+
+        - name: OxfordHack 2020
+          website: https://oxfordhack.co.uk/
+          location: Oxford University
+          when: 14th-16th November
+          attendees: null
+          digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/yilWfRRySmWaCi7TOqRag/8229c5497e946c949caaeecbdf202b4a/maxresdefault.jpg?w=900&h=506&q=50
+
+        - name: Hack Keele
+          website: https://www.facebook.com/hackkeele
+          location: Keele University
+          when: 20th-23rd November
+          attendees: null
+          digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/1spbhigS273T0EWWOBomZM/5fad32d871aab34c72d61ca112228e1a/77336297_2487593964897346_1140878257395073024_o.jpg?w=900&h=506&q=50
+
+        - name: "404: Weekend Not Found"
+          website: https://www.facebook.com/events/826411921508079/
+          location: Dundee University & University of St. Andrews
+          when: 21st-22nd November
+          attendees: null
+          digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/5hgzidCuFxdi16bptcMqPu/64ca6f174a78903822b3f04def31ac87/125095689_2421728274788175_5604411803274624316_o.jpg?w=900&h=506&q=50
+
+        - name: Great Uni Hack 2020
+          website: https://greatunihack.com/
+          when: 28th-29th November
+          attendees: null
+          digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/1G63G0CMCzBI3l2D3pdsiR/647159f40369fa1f566a075f11d53e78/123976636_688609872077713_5904648594475815565_n.jpg?w=776&h=436&q=50
 
         - name: HackNotts 2020
           website: https://www.hacknotts.com/
@@ -118,6 +141,7 @@ extra:
           when: 27th-28th February
           attendees: 150
           digital: true
+          background: https://images.ctfassets.net/8qdadmww1gdd/40Zi3F3Rcm6cp0WcAnEkKG/35ed2646e6b443a2e75aff5de8469b23/banner_16-9.png?w=900&h=506&q=50
 
         - name: Hack the Burgh VII
           website: https://2021.hacktheburgh.com/
@@ -568,19 +592,3 @@ extra:
           location: Millennium Point, Birmingham  
           when: 23rd-24th September
           attendees: 150
-
-    - name: TBC
-      past: false
-      hackathons:
-        - name: DurHack:NextGen
-          website: https://durhack.com/nextgen
-          location: Durham University
-          when: TBC
-          attendees: 100 (U18 only!)
-          u_18_only: true
-        - name: Hack Brunel 2.0
-          website: https://hackbrunel.com/
-          location: Brunel University London
-          when: TBC
-          attendees: 150
-          
