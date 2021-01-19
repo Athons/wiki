@@ -1,0 +1,7 @@
+{
+  "name": "DurHack 2019",
+  "raster": "hexagons/durhack2019.png",
+  "vector": "vector/durhack2019.ai",
+  "description": "DurHack2019 Hex sticker",
+  "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
+}
