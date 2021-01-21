@@ -3,7 +3,7 @@ site_url: https://hack.athon.uk/
 site_description: |
   A wiki for helping hackers get into hackathons and organise them!
 
-repo_url: https://github.com/Hackathons-UK/wiki
+repo_url: https://github.com/athons/wiki
 
 nav:
 
@@ -54,7 +54,6 @@ nav:
   - Volunteer:
     - Index: 'volunteer/index.md'
   - Community:
-    - Art: 'art/index.md'
     - Events:
       - Index: 'events/index.md'
       - List: 'events/list.md'
@@ -79,24 +78,11 @@ theme:
     - instant
   custom_dir: 'theme'
 
-social:
-  discord: https://discord.gg/fpFWRQP 
-
 extra:
   social:
-    - type: fab fa-facebook-f
-      link: https://www.facebook.com/Hackathons-UK-104661511136163/
-      alt: Hackathons UK Facebook
-    - type: fab fa-twitter
-      link: https://twitter.com/Hackathons_UK
-      alt: Hackathons UK Twitter
     - type: fab fa-github-alt
-      link: https://github.com/Hackathons-UK
-      alt: Hackathons UK GitHub
-    - type: fab fa-discord
-      link: https://discord.gg/fpFWRQP
-      alt: Hackathons UK Discord Server
-
+      link: https://github.com/athons
+      alt: GitHub organisations
   placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
 
 extra_css:

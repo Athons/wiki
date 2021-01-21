@@ -1,7 +1,7 @@
 # Upcoming Events
 This list showcases upcoming UK student-run hackathons and hackathon-associated events.
 
-Want to add something to this list? [Fork and pull request](https://github.com/Hackathons-UK/wiki/edit/master/events.yml) to add your event! You can find the hackathons inside `hackathon_seasons:`
+Want to add something to this list? [Fork and pull request](https://github.com/athons/wiki/edit/master/events.yml) to add your event! You can find the hackathons inside `hackathon_seasons:`
 
 {% for season in extra.hackathon_seasons %}
 

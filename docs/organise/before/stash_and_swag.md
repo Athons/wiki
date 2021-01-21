@@ -4,7 +4,6 @@ Hackers love stickers!
 
 If you're with Major League Hacking, you will have a dedicated "I Demoed" Hexagon sticker along with MLH Swag stickers and GitHub stickers as well.
 
-You can find some examples of hex stickers [here](/https://hack.athon.uk/art), if you want to add your own sticker to this list you can make a [pr](https://github.com/Hackathons-UK/hexbin).
 ### Sticker Providers
 
 These are some providers that have been known to hackathons & hackers (feel free to add any other providers as see fit).

@@ -60,4 +60,5 @@ If you have any hexagon sticker designs, we'd love to include them in hexbin!
 ## Do Hackers own 100% of their Intellectual Property?
 
 * [ ] Yes
-* [ ] No - Verify you adhere to our [corporate guidelines](https://github.com/Hackathons-UK/hackathons-uk-policies/blob/master/corporate-standards.md)
+* [ ] No - We generally don't list events that don't give hackers control over
+      their IP unless they are fairly compensated.

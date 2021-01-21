@@ -1,5 +1,7 @@
 ## Conferences
 
+COVID has cancelled all conferences.
+
 ### Hackathons UK unconference 
 
 This is a conference for hackathon organisers of UK hackathons to get together, help each other, network and discuss various topics. No fixed agenda.

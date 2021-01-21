@@ -1,6 +1,3 @@
-![GitHub deployments](https://img.shields.io/github/deployments/Hackathons-UK/wiki/github-pages)
-![Discord](https://img.shields.io/discord/674054580270661672)
-
 # hack.athon.uk - The Hackathon Community Wiki
 
 This a project to build a wiki to help document how to get involved and organise
@@ -14,8 +11,7 @@ The site is built with:
 
 * [mkdocs](https://www.mkdocs.org/)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-* Hosted on GitHub pages, deployed with [this action](https://github.com/Hackathons-UK/wiki/blob/master/.github/workflows/deploy.yml)
-* We using Netlify for deploy previews for each PR
+* The site is hosted on Netlify, behind Cloudflare (for vague statistics)
 
 If you want to help out, but don't know were to get started check the open
 issues!
@@ -76,15 +72,6 @@ We have the following enabled:
 * [Footnotes](https://squidfunk.github.io/mkdocs-material/extensions/footnotes/) - Allows adding footnotes to the bottom of your page.
 
 Feel free to open an issue to suggest enabling another one!
-
-### Adding stickers
-
-We have the stickers stored in a [separate repository](https://github.com/Hackathons-UK/hexbin),
-which is loaded in at build time from.
-
-This is embedded as an iframe on `/art`.
-
-Follow the guide in that repository to add your new ones!
 
 ### Changing parts of layout / theme
 
