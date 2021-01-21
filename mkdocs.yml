@@ -85,6 +85,8 @@ extra:
       alt: GitHub organisations
   placeholder_hackathon_background: /static/art/hackathon_tiles/stickers2.png
 
+social:
+
 extra_css:
   - static/css/theme.css
   - static/css/home.css
