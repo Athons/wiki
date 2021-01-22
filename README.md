@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/197c452f-493f-48ad-8b45-caf7ec9c9766/deploy-status)](https://app.netlify.com/sites/cranky-hermann-f72f70/deploys)
+
 # hack.athon.uk - The Hackathon Community Wiki
 
 This a project to build a wiki to help document how to get involved and organise
