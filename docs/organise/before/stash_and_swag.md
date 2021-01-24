@@ -18,10 +18,12 @@ These are some providers that have been known to hackathons & hackers (feel free
 
 ### Sticker Sizes
 
-If you are wanting your own hackathon laptop sticker, you can create your own. These have been some popular sticker types regularly seen
+If you are wanting your own hackathon laptop sticker, you can create your own.
+There is a defacto standard for sizes (need to make sure the hexagons all line up) and it can be found [here](https://sticker.how).
 
+These have been some popular sticker types regularly seen:
 * Custom Hexagon Stickers (Use [Stickermule's dedicated Hexagon template](https://downloads.ctfassets.net/rw1l6cgr235r/6s5KQ6UkfeMaKgcCW6EySu/335f6657fe821bae394afb30dad54955/hexagon-sticker-templates.zip) as a guideline to create them.)
-    * General size is mainly 1.73" x 2"
+    * General size is mainly 44m x 51mm (1.73" x 2")
 * Square sized stickers
     * 40mm x 40mm
     * 50mm x 50mm
@@ -55,3 +57,22 @@ Currently, many hackathons across the UK use [Go2Dave](https://www.go2dave.co.uk
 Getting the correct number of the right size of a t-shirt is a skill of its own! We would recommend that as part of the sign-up/ticket buying process to best estimate the sizes you require.    
 
 It is hard to predict but as a general rule of thumb, the 1-2-2-1 ratio (S: M : L : XL) is a good prediction if you don't have data to hand!
+
+### GitHub Campus Experts
+
+If you have a GitHub Campus Expert as part of your team, they are able to request swag for events. This can include:
+
+-   Comic Books
+-   Git Cheat Sheets
+-   GitHub Stickers
+-   Markdown Guides
+-   GitHub Guides
+
+They can also request prizes such as:
+
+-   T-Shirt Coupons (redeemable with GitHub)
+-   BackPacks
+-   Mona Figurines (the GitHub mascot)
+
+If you want to find out more you can contact [Amy Hudspith](https://www.linkedin.com/in/amyhudspith/), one of the UK Campus Experts (and part of the DurHack team).
+

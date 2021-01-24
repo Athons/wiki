@@ -10,7 +10,7 @@ _Note: Some can also provide more technical-heavy workshops, but it is uncommon.
 
 Hackathons, if capable and able to, will also allow associated sponsors to provide their own workshops to provide more understanding of how to use their products.
 
-* Twillio / Nexmo with their API usage
+* Twilio / Nexmo with their API usage
 * GitHub with their internal systems (Previously ElectronJS) 
 
 You can also find, if doable, organisers or the university's hackathon/CS Society will provide providing their own workshops.

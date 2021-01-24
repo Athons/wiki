@@ -25,7 +25,7 @@
         href="{{ 'assets/fonts/font-awesome.css' | url }}" /> -->
     <script src="https://kit.fontawesome.com/f041df3994.js" crossorigin="anonymous"></script>
     {% for social in config.extra.social %}
-      <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.type }}" class="md-footer-social__link
+      <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.alt }}" class="md-footer-social__link
             {{ social.type }}"></a>
     {% endfor %}
   </div>

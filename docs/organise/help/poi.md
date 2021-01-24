@@ -1,13 +1,31 @@
+# Organisations:
+
+## Hackathons UK
+
+[Generic](mailto:hi@hackathons.org.uk)
+
+[Work with us](mailto:partnerships@hackathons.org.uk)
+
+* Director: Aaron Osher
+* Director: Robbie Jakob-Whitworth
+
+## Hackathons for Schools Association
+
+Contact us at [contact@hackathonsforschools.com](mailto:contact@hackathonsforschools.com)
+
+* [Will Russell](mailto:will@hackathonsforschools.com)
+* Jacob Wilson
+* Lauren Alie
+* Daniel Spencer
+
 # Hackathons:
 
 ## CovHack
 
-* President / Lead Organiser: [James Vickery](https://twitter.com/jmsve)
-* Vice President: [Maria Aveiro](https://github.com/aveirinha)
-* Treasurer: [Jonny Marsh](https://github.com/j-m)
-* Inclusion Officer: [Tom Atkins](https://twitter.com/hackT0m)
-* Social Sec: [Mol Ratcliffe](https://twitter.com/firatcliffe)
-* Technical Lead / Former President: [Bear](https://twitter.com/baahorn)
+* President: [Mol Ratcliffe](https://twitter.com/firatcliffe)
+* VP: [David](https://twitter.com/da_ando_)
+* Social Media: [Ivan Gadzhalov](https://twitter.com/dai_musaka)
+* Inclusion: [Abbie Lomas](https://twitter.com/abslomas)
 
 [Generic](mailto:hello@covhack.org)
 
@@ -38,28 +56,32 @@ Updated 2020 Season
 
 
 ## HackNotts
-* Finance: [Octavian Salagean](mailto:octavian@hacknotts.com)
-* Logistics: [Viktoria Popovici](mailto:viktoria@hacknotts.com)
-* HR: [Alexander Dewfall](mailto:alexander@hacknotts.com)
+* Coordinator: [Alexander Dewfall](mailto:alexi@hacknotts.com)
+* Mascot: [Bruce Bernard the Second](https://twitter.com/BruceBernardII)
+* Experience: [Gabriel Leach](mailto:gabriel@hacknotts.com)
+* Logistics: [Reece Harvey](mailto:reece@hacknotts.com)
+* Human Resources: [Abinaya Maruthalingam](mailto:abi@hacknotts.com)
+* Finance: [Ryan Hardwick](mailto:ryan@hacknotts.com)
 
-Updated 2020 Season
+[Generic](mailto:team@hacknotts.com)
+
+[Twitter](https://twitter.com/hacknotts)
+
+Updated 2021 Season
 
 
 ## hackSheffield
-* President: [Cosmin Panaite](mailto:cosmin@hacksheffield.co)
-* Treasurer: [Edward Hails](mailto:ed@hacksheffield.co)
-* Secretary: [Apoorva Singh](mailto:apoorva@hacksheffield.co)
-* Technical: [Arnas Boruchovas](mailto:arnas@hacksheffield.co)
-* Technical: [Freddy Heppell](mailto:freddy@hacksheffield.co)
-* Publicity: [Jen Ollett](mailto:jen@hacksheffield.co)
-* Sponsorship: [Art Kelly](mailto:art@hacksheffield.co)
-* Inclusions: [Anete Zepa](mailto:anete@hacksheffield.co)
-* Trips: Alexandra Herghelegiu
-* Support: Karim El Reweny
+* President: [Jennifer Ollett](mailto:jen@hacksheffield.com)
+* Treasurer: [Edward Hails](mailto:ed@hacksheffield.com)
+* Secretary: [Kassandra Yuen](mailto:kassandra@hacksheffield.com)
+* Technical: [Tom Keeble](mailto:tom@hacksheffield.com)
+* Trips: [Arnas Boruchovas](mailto:arnas@hacksheffield.com)
+* Inclusions: [James Edmundson](mailto:james@hacksheffield.com)
 
 [Generic](mailto:mailto:team@hacksheffield.co)
 
-Updated 2020 Season
+Updated 2021 Season
+
 
 ## HackSussex
 Updated 2020 Season
@@ -85,6 +107,8 @@ Updated 2020 Season
 * Serene Chongtrakul
 * Szilveszter Szekely
 * Viet Hung Nguyen
+
+[Generic](mailto:ichack@ic.ac.uk)
 
 Updated 2020 Season
 
@@ -151,12 +175,3 @@ Contact us on any of our social medias [@HackTheMidlands](https://twitter.com/ha
 * [Hugh Wells](https://twitter.com/crablabuk)
 
 2019 Team. Will be updated to 2020.
-
-## Hackathons for Schools Association
-
-Contact us at [contact@hackathonsforschools.com](mailto:contact@hackathonsforschools.com)
-
-* [Will Russell](mailto:will@hackathonsforschools.com)
-* Jacob Wilson
-* Lauren Alie
-* Daniel Spencer
