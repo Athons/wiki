@@ -7,12 +7,15 @@
 
     <a href="{{ hackathon.website }}">
         <div class="card">
+            <!-- Disable as we currently don't have any images.
             <div class="header">
-                <div class="backdrop" style="background-image: url('{{ background }}'")></div>
-            </div>
+                <div class="backdrop" style="background-image: url('{{
+                background }}'")></div>
+            </div> 
             {% if hackathon.logo is defined %}
             <img class="icon" src="{{ hackathon.logo }}" alt="{{ hackathon.name }}">
             {% endif %}
+            --!>
             <dl class="hack-details">
                 <dt class="name">Hackathon</dt>
                 <dd class="name">{{ hackathon.name }}</dd>

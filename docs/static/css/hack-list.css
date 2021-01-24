@@ -7,9 +7,12 @@
 .hack-list .card {
     width: 300px;
     margin: 10px 40px 30px 0;
-    border-radius: .1rem;
+    border-radius: .5rem;
     border: 1px;
-    box-shadow: 0 .2rem .5rem rgba(0,0,0,.05),0 0 .05rem rgba(0,0,0,.1)
+    box-shadow: 0 .2rem .5rem rgba(0,0,0,.05),0 0 .05rem rgba(0,0,0,.1);
+    border-top-color: hsla(340, 82%, 52%, 1);
+    border-top-width: 5px;
+    border-top-style: solid;
 }
 
 .hack-list .card .header {
