@@ -129,6 +129,13 @@ extra:
           when: 27th-28th February
           attendees: 150
           digital: true
+          
+        - name: WarwickHACK 2021
+          website: https://hack.warwick.tech
+          location: University of Warwick (Online)
+          when: 27-28th February
+          attendees: null
+          digital: true
 
         - name: Hack the Burgh VII
           website: https://2021.hacktheburgh.com/
