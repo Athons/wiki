@@ -7,6 +7,9 @@
 This a project to build a wiki to help document how to get involved and organise
 hackathons.
 
+If you are curious about the sites stats, check out
+[stats.athon.uk](https://stats.athon.uk)!
+
 ## Contributing
 
 Thanks for taking an interest in our project!
