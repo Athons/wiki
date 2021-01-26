@@ -94,6 +94,7 @@ extra:
           when: 23-24th January
           attendees: null
           digital: true
+          past: true
 
         - name: Royal Hackaway v4
           website: https://royalhackaway.com/
