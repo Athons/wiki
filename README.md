@@ -26,6 +26,8 @@ issues!
 *We don't bite and will work with you to make sure your contribution gets merged
 in!*
 
+If you would prefer more realtime communitcation, the project recently moved to [gitter](gitter.im), while a little empty right now @bahorn is actively on gitter. You can connect with your prefered matrix client as well!
+
 ### Adding events
 
 The list of events is stored in `events.yml`, sorted by season.
