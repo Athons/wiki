@@ -102,6 +102,7 @@ extra:
           when: 6th-7th February
           attendees: null
           digital: true
+          past: true
         
         - name: Highfield Hack UK
           website: https://highfieldhack.co.uk/
