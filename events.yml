@@ -110,6 +110,7 @@ extra:
           when: 12-14th February
           attendees: null
           digital: true
+          past: true
 
         - name: CovHack2021
           website: https://covhack.org/
@@ -117,6 +118,7 @@ extra:
           when: 15th-21st February
           attendees: null
           digital: true
+          past: true
 
         - name: AstonHack6 
           website: https://astonhack.co.uk/
@@ -124,6 +126,7 @@ extra:
           when: 20th-21st February
           attendees: 100
           digital: true
+          past: true
 
         - name: HackSurrey Virtual
           website: https://hacksurrey.github.io/virtual/
