@@ -134,6 +134,8 @@ extra:
           when: 27th-28th February
           attendees: 150
           digital: true
+          past: true
+
           
         - name: WarwickHACK 2021
           website: https://hack.warwick.tech
@@ -141,6 +143,7 @@ extra:
           when: 27-28th February
           attendees: null
           digital: true
+          past: true
 
         - name: Hack the Burgh VII
           website: https://2021.hacktheburgh.com/
