@@ -151,6 +151,8 @@ extra:
           when: 6-7th March
           attendees: null
           digital: true
+          past: true
+
 
 
     - name: Spring 2020
