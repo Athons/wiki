@@ -159,7 +159,7 @@ extra:
           when: 16-18th April
           attendees: null
           digital: true
-          past: false
+          past: true
 
     - name: Spring 2020
       past: true
