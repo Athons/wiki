@@ -160,6 +160,14 @@ extra:
           attendees: null
           digital: true
           past: true
+          
+        - name: R. U. Hacking? 2021
+          website: https://www.eventbrite.co.uk/e/r-u-hacking-2021-24-hour-student-hackathon-tickets-71648722257
+          location: Reading University (Online)
+          when: 26-27th June
+          attendees: null
+          digital: true
+          past: false
 
     - name: Spring 2020
       past: true
