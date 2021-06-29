@@ -22,6 +22,7 @@ If you are wanting your own hackathon laptop sticker, you can create your own.
 There is a defacto standard for sizes (need to make sure the hexagons all line up) and it can be found [here](https://sticker.how).
 
 These have been some popular sticker types regularly seen:
+
 * Custom Hexagon Stickers (Use [Stickermule's dedicated Hexagon template](https://downloads.ctfassets.net/rw1l6cgr235r/6s5KQ6UkfeMaKgcCW6EySu/335f6657fe821bae394afb30dad54955/hexagon-sticker-templates.zip) as a guideline to create them.)
     * General size is mainly 44m x 51mm (1.73" x 2")
 * Square sized stickers
