@@ -1,5 +1,15 @@
 extra:
   hackathon_seasons:
+    - name: Autumn 2021
+      past: false
+      hackathons:
+        - name: Birmingham Open Hack
+          website: https://www.openhack.tech
+          location: Birmingham (Online/Virtual)
+          when: 2nd-3rd October 2021
+          attendees: TBC
+          digital: true
+          
     - name: Summer 2020
       past: true
       hackathons:
