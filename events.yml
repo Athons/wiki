@@ -1,5 +1,29 @@
 extra:
   hackathon_seasons:
+    - name: Autumn 2021
+      past: false
+      hackathons:
+        - name: Birmingham Open Hack
+          website: https://www.openhack.tech
+          location: Birmingham (Online/Virtual)
+          when: 2nd-3rd October 2021
+          attendees: TBC
+          digital: true
+
+        - name: HackTheMidlands 6.0
+          website: https://hackthemidlands.com
+          location: Birmingham (Online/Virtual)
+          when: 22nd-25th October 2021
+          attendees: TBC
+          digital: true
+        
+        - name: DurHack 2021
+          website: https://durhack.com/
+          location: Durham (Hybrid)
+          when: 27th-28th November 2021
+          attendees: TBC
+          digital: true
+          
     - name: Summer 2020
       past: true
       hackathons:
@@ -86,7 +110,7 @@ extra:
           digital: true
        
     - name: Spring 2021
-      past: false
+      past: true
       hackathons:
         - name: Hex Cambridge
           website: https://hackcambridge.com/
@@ -167,7 +191,7 @@ extra:
           when: 26-27th June
           attendees: null
           digital: true
-          past: false
+          past: true
 
     - name: Spring 2020
       past: true
