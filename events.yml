@@ -16,6 +16,13 @@ extra:
           when: 22nd-25th October 2021
           attendees: TBC
           digital: true
+        
+        - name: DurHack 2021
+          website: https://durhack.com/
+          location: Durham (Hybrid)
+          when: 27th-28th November 2021
+          attendees: TBC
+          digital: true
           
     - name: Summer 2020
       past: true
