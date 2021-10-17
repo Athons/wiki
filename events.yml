@@ -9,17 +9,25 @@ extra:
           when: 2nd-3rd October 2021
           attendees: TBC
           digital: true
+          past: true
 
         - name: HackTheMidlands 6.0
           website: https://hackthemidlands.com
           location: Birmingham (Online/Virtual)
-          when: 22nd-25th October 2021
+          when: 28th-31st October 2021
           attendees: TBC
           digital: true
         
         - name: DurHack 2021
           website: https://durhack.com/
           location: Durham (Hybrid)
+          when: 27th-28th November 2021
+          attendees: TBC
+          digital: true
+          
+        - name: GreatUniHack 2021
+          website: https://greatunihack.com/
+          location: Manchester
           when: 27th-28th November 2021
           attendees: TBC
           digital: true
