@@ -17,6 +17,7 @@ extra:
           when: 28th-31st October 2021
           attendees: TBC
           digital: true
+          past: true
         
         - name: DurHack 2021
           website: https://durhack.com/
