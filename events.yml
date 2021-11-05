@@ -32,6 +32,12 @@ extra:
           when: 27th-28th November 2021
           attendees: TBC
           digital: true
+         
+        - name: AstonHack 2021
+          website: https://astonhack.co.uk/
+          location: Birmingham (IRL!)
+          when: 11th-12th December 2021
+          attendees: TBC
           
     - name: Summer 2020
       past: true
