@@ -1,5 +1,21 @@
 extra:
   hackathon_seasons:
+    - name: Spring 2022
+      past: false
+      hackathons:
+        - name: RoyalHackaway v5
+          website: https://royalhackaway.com
+          location: Royal Holloway
+          when: 5th-6th Feburary 2022
+          attendees: TBC
+      
+        - name: DurHack 2022
+          website: https://durhack.com/
+          location: Durham (Online)
+          when: 19th-20th Feburary 2022
+          attendees: TBC
+          digital: true
+  
     - name: Autumn 2021
       past: false
       hackathons:
@@ -32,22 +48,7 @@ extra:
           location: Birmingham (IRL!)
           when: 11th-12th December 2021
           attendees: TBC
-
-    - name: Spring 2022
-      past: false
-      hackathons:
-        - name: RoyalHackaway v5
-          website: https://royalhackaway.com
-          location: Royal Holloway
-          when: 5th-6th Feburary 2022
-          attendees: TBC
-      
-        - name: DurHack 2022
-          website: https://durhack.com/
-          location: Durham (Online)
-          when: 19th-20th Feburary 2022
-          attendees: TBC
-          digital: true
+          past: true
           
     - name: Summer 2020
       past: true
