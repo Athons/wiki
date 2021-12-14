@@ -8,6 +8,13 @@ extra:
           location: Royal Holloway
           when: 5th-6th Feburary 2022
           attendees: TBC
+
+        - name: HackNotts 2021
+          website: https://hacknotts.com
+          location: Nottingham
+          when: 12th-13th Feburary 2022
+          attendees: TBC
+          digital: false
       
         - name: DurHack 2022
           website: https://durhack.com/
