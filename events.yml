@@ -64,91 +64,6 @@ extra:
           attendees: TBC
           past: true
           
-    - name: Summer 2020
-      past: true
-      hackathons:
-        - name: STEAM AiHack
-          website: https://hack.innovationfest.co.uk/AiHack/
-          location: Birmingham (Online)
-          when: 27th-31st July 2020
-          attendees: 100
-          digital: true
-        - name: DurJam
-          logo: /static/art/hackathon_tiles/durjam_logo.png
-          website: https://durj.am/
-          location: Durham University (Online)
-          when: 26th-30th August 2020
-          attendees: TBC
-          digital: true
-
-    - name: Autumn 2020
-      past: true
-      hackathons:
-        - name: Birmingham Open Hack 
-          website: https://boh.innovationfest.co.uk/
-          location: Birmingham (Online)
-          when: 16th-18th October
-          attendees: 100
-          all_ages: true
-          digital: true
-
-        - name: HackTheMidlands 5.0
-          logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
-          website: https://hackthemidlands.com
-          location: Birmingham
-          when: 24th-25th October
-          attendees: 300
-          all_ages: true
-          digital: true
-
-        - name: hackSheffield 6.0
-          website: https://hacksheffield.com/
-          location: University of Sheffield
-          when: 7th-8th November
-          attendees: 200
-          digital: true
-
-        - name: DurHack 2020
-          website: https://durhack.com/
-          location: Durham University
-          when: 14th-15th November
-          attendees: 200
-          digital: true
-
-        - name: OxfordHack 2020
-          website: https://oxfordhack.co.uk/
-          location: Oxford University
-          when: 14th-16th November
-          attendees: null
-          digital: true
-
-        - name: Hack Keele
-          website: https://www.facebook.com/hackkeele
-          location: Keele University
-          when: 20th-23rd November
-          attendees: null
-          digital: true
-
-        - name: "404: Weekend Not Found"
-          website: https://www.facebook.com/events/826411921508079/
-          location: Dundee University & University of St. Andrews
-          when: 21st-22nd November
-          attendees: null
-          digital: true
-
-        - name: Great Uni Hack 2020
-          website: https://greatunihack.com/
-          when: 28th-29th November
-          attendees: null
-          digital: true
-
-        - name: HackNotts 2020
-          website: https://www.hacknotts.com/
-          location: University of Nottingham
-          when: 28th-29th November
-          attendees: 200
-          digital: true
-       
     - name: Spring 2021
       past: true
       hackathons:
@@ -232,6 +147,91 @@ extra:
           attendees: null
           digital: true
           past: true
+
+    - name: Autumn 2020
+      past: true
+      hackathons:
+        - name: Birmingham Open Hack 
+          website: https://boh.innovationfest.co.uk/
+          location: Birmingham (Online)
+          when: 16th-18th October
+          attendees: 100
+          all_ages: true
+          digital: true
+
+        - name: HackTheMidlands 5.0
+          logo: /static/art/hackathon_tiles/htm_2020_logo.jpg
+          website: https://hackthemidlands.com
+          location: Birmingham
+          when: 24th-25th October
+          attendees: 300
+          all_ages: true
+          digital: true
+
+        - name: hackSheffield 6.0
+          website: https://hacksheffield.com/
+          location: University of Sheffield
+          when: 7th-8th November
+          attendees: 200
+          digital: true
+
+        - name: DurHack 2020
+          website: https://durhack.com/
+          location: Durham University
+          when: 14th-15th November
+          attendees: 200
+          digital: true
+
+        - name: OxfordHack 2020
+          website: https://oxfordhack.co.uk/
+          location: Oxford University
+          when: 14th-16th November
+          attendees: null
+          digital: true
+
+        - name: Hack Keele
+          website: https://www.facebook.com/hackkeele
+          location: Keele University
+          when: 20th-23rd November
+          attendees: null
+          digital: true
+
+        - name: "404: Weekend Not Found"
+          website: https://www.facebook.com/events/826411921508079/
+          location: Dundee University & University of St. Andrews
+          when: 21st-22nd November
+          attendees: null
+          digital: true
+
+        - name: Great Uni Hack 2020
+          website: https://greatunihack.com/
+          when: 28th-29th November
+          attendees: null
+          digital: true
+
+        - name: HackNotts 2020
+          website: https://www.hacknotts.com/
+          location: University of Nottingham
+          when: 28th-29th November
+          attendees: 200
+          digital: true
+          
+    - name: Summer 2020
+      past: true
+      hackathons:
+        - name: STEAM AiHack
+          website: https://hack.innovationfest.co.uk/AiHack/
+          location: Birmingham (Online)
+          when: 27th-31st July 2020
+          attendees: 100
+          digital: true
+        - name: DurJam
+          logo: /static/art/hackathon_tiles/durjam_logo.png
+          website: https://durj.am/
+          location: Durham University (Online)
+          when: 26th-30th August 2020
+          attendees: TBC
+          digital: true
 
     - name: Spring 2020
       past: true
