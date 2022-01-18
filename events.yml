@@ -25,10 +25,10 @@ extra:
       
         - name: DurHack 2022
           website: https://durhack.com/
-          location: Durham (Online)
+          location: Durham
           when: 19th-20th Feburary 2022
           attendees: TBC
-          digital: true
+          digital: false
   
     - name: Autumn 2021
       past: false
