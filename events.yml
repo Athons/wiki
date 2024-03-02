@@ -355,7 +355,7 @@ extra:
         - name: Oxford Hack 2019
           website: https://oxfordhack.co.uk/
           location: University of Oxford
-          when: 300
+          when: 16th-17th November
           attendees: 300
         - name: GreatUniHack 2019
           website: https://greatunihack.com/
