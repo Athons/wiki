@@ -256,18 +256,18 @@ extra:
         - name: Hack the Burgh VI
           website: https://2020.hacktheburgh.com/
           location: University of Edinburgh
-          when: 200
-          attendees: 29th February-1st March
+          attendees: 200
+          when: 29th February-1st March
         - name: IC Health Hack
           website: https://ichealthhack.org/
           location: Imperial College London
-          when: null
-          attendees: 29th February-1st March
+          attendees: null
+          when: 29th February-1st March
         - name: AI Hack 2020
           website: https://aihack.org/
           location: Imperial College London
-          when: null
-          attendees: 29th February-1st March
+          attendees: null
+          when: 29th February-1st March
         - name: Hack Keele
           website: https://www.facebook.com/hackkeele/posts/2571192316537510
           location: Keele University
