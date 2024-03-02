@@ -609,7 +609,7 @@ extra:
           when: 9th-10th December
           attendees: 100
         - name: Sex Tech Hack II
-          website: https://sexhack.tech/
+          # website: https://sexhack.tech/ # Website is now spam
           location: Goldsmiths, University of London
           when: 100
           attendees: 25th-26th November
