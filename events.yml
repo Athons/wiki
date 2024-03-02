@@ -6,27 +6,27 @@ extra:
         - name: IC Hack 22
           website: https://ichack.org
           location: Imperial College London
-          when: 5th-6th Feburary 2022
+          when: 5th-6th February 2022
           attendees: 400
           digital: false
       
         - name: RoyalHackaway v5
           website: https://royalhackaway.com
           location: Royal Holloway
-          when: 5th-6th Feburary 2022
+          when: 5th-6th February 2022
           attendees: TBC
 
         - name: HackNotts 2021
           website: https://hacknotts.com
           location: Nottingham
-          when: 12th-13th Feburary 2022
+          when: 12th-13th February 2022
           attendees: TBC
           digital: false
       
         - name: DurHack 2022
           website: https://durhack.com/
           location: Durham
-          when: 19th-20th Feburary 2022
+          when: 19th-20th February 2022
           attendees: TBC
           digital: false
   
