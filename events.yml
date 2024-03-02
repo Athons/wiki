@@ -611,8 +611,8 @@ extra:
         - name: Sex Tech Hack II
           # website: https://sexhack.tech/ # Website is now spam
           location: Goldsmiths, University of London
-          when: 100
-          attendees: 25th-26th November
+          attendees: 100
+          when: 25th-26th November
         - name: HackKings 4.0
           website: https://hackkings.org/
           location: King's College London
