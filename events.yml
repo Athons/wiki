@@ -6,27 +6,27 @@ extra:
         - name: IC Hack 22
           website: https://ichack.org
           location: Imperial College London
-          when: 5th-6th Feburary 2022
+          when: 5th-6th February 2022
           attendees: 400
           digital: false
       
         - name: RoyalHackaway v5
           website: https://royalhackaway.com
           location: Royal Holloway
-          when: 5th-6th Feburary 2022
+          when: 5th-6th February 2022
           attendees: TBC
 
         - name: HackNotts 2021
           website: https://hacknotts.com
           location: Nottingham
-          when: 12th-13th Feburary 2022
+          when: 12th-13th February 2022
           attendees: TBC
           digital: false
       
         - name: DurHack 2022
           website: https://durhack.com/
           location: Durham
-          when: 19th-20th Feburary 2022
+          when: 19th-20th February 2022
           attendees: TBC
           digital: false
   
@@ -256,18 +256,18 @@ extra:
         - name: Hack the Burgh VI
           website: https://2020.hacktheburgh.com/
           location: University of Edinburgh
-          when: 200
-          attendees: 29th February-1st March
+          attendees: 200
+          when: 29th February-1st March
         - name: IC Health Hack
           website: https://ichealthhack.org/
           location: Imperial College London
-          when: null
-          attendees: 29th February-1st March
+          attendees: null
+          when: 29th February-1st March
         - name: AI Hack 2020
           website: https://aihack.org/
           location: Imperial College London
-          when: null
-          attendees: 29th February-1st March
+          attendees: null
+          when: 29th February-1st March
         - name: Hack Keele
           website: https://www.facebook.com/hackkeele/posts/2571192316537510
           location: Keele University
@@ -355,7 +355,7 @@ extra:
         - name: Oxford Hack 2019
           website: https://oxfordhack.co.uk/
           location: University of Oxford
-          when: 300
+          when: 16th-17th November
           attendees: 300
         - name: GreatUniHack 2019
           website: https://greatunihack.com/
@@ -609,10 +609,10 @@ extra:
           when: 9th-10th December
           attendees: 100
         - name: Sex Tech Hack II
-          website: https://sexhack.tech/
+          # website: https://sexhack.tech/ # Website is now spam
           location: Goldsmiths, University of London
-          when: 100
-          attendees: 25th-26th November
+          attendees: 100
+          when: 25th-26th November
         - name: HackKings 4.0
           website: https://hackkings.org/
           location: King's College London
